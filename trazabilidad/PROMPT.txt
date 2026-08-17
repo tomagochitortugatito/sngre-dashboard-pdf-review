@@ -1,0 +1,966 @@
+Voy a adjuntar un archivo ZIP que contiene reportes de monitoreo de la Secretaría Nacional de Gestión de Riesgos del Ecuador en formato TXT.
+
+Procesa TODOS los archivos `.txt` contenidos en el ZIP de forma independiente.
+
+No combines información entre reportes y no utilices información de un TXT para completar otro TXT.
+
+Para cada archivo TXT genera exactamente UN archivo JSON usando el mismo nombre base.
+
+Ejemplo:
+
+`reporte_0001.txt` → `reporte_0001.json`
+
+Al finalizar, crea un único archivo ZIP llamado:
+
+`SNGR_extracted_json.zip`
+
+que contenga todos los JSON generados y un archivo `manifest.json`.
+
+No pegues en el chat el contenido completo de todos los JSON. Trabaja directamente con los archivos y entrega el ZIP final.
+
+# REGLAS GENERALES
+
+Extrae cada reporte usando exactamente la estructura JSON indicada al final.
+
+Devuelve información únicamente respaldada por el TXT correspondiente.
+
+No inventes datos.
+
+No agregues, elimines ni renombres claves del schema, excepto las claves numéricas dinámicas de `section_2.zones`.
+
+Conserva el contenido extraído en español y las claves JSON en inglés.
+
+Los campos `original_narrative` deben conservar fielmente el contenido correspondiente del reporte, sin resumirlo ni reinterpretarlo.
+
+No uses conocimiento geográfico, institucional o externo para completar datos que no estén explícitamente presentes en el reporte.
+
+# PRESERVACIÓN DE CELDAS
+
+Respeta el contenido explícito de cada celda de las tablas.
+
+Si una celda contiene un número, conviértelo a número cuando sea inequívoco.
+
+Ejemplo:
+
+`115.03` → `115.03`
+
+Si una celda contiene explícitamente:
+
+`--`
+
+devuelve exactamente:
+
+`"--"`
+
+Si contiene:
+
+`---`
+
+devuelve exactamente:
+
+`"---"`
+
+NO interpretes `--` ni `---` como:
+
+- cero
+- `null`
+- cadena vacía
+- dato inexistente
+
+Una celda explícitamente marcada con `--` o `---` debe conservar ese símbolo porque puede tener un significado institucional diferente de una celda realmente vacía.
+
+Si una celda está realmente vacía en el documento, utiliza:
+
+`""`
+
+El valor `0` solo debe aparecer cuando el reporte explícitamente indique cero.
+
+No sustituyas un valor explícito por otro valor interpretado.
+
+# FORMATO DE TABLAS
+
+En toda estructura que contenga:
+
+`"columns":[...]`
+
+y:
+
+`"rows":[...]`
+
+cada elemento de `rows` DEBE ser un ARRAY cuyos valores correspondan exactamente y en el mismo orden a `columns`.
+
+Ejemplo:
+
+`"columns":["province","canton","name"]`
+
+debe producir:
+
+`"rows":[["Guayas","Daule","Río Daule"]]`
+
+NO:
+
+`"rows":[{"province":"Guayas","canton":"Daule","name":"Río Daule"}]`
+
+No uses objetos con nombres de claves dentro de `rows`.
+
+# VALORACIÓN / ASSESSMENT
+
+Cuando una celda de valoración contenga una categoría de color entre corchetes, elimina únicamente los corchetes y conserva la categoría.
+
+Ejemplos:
+
+`[VERDE]` → `"VERDE"`
+`[AMARILLO]` → `"AMARILLO"`
+`[AMARILLA]` → `"AMARILLA"`
+`[ROJO]` → `"ROJO"`
+`[ROJA]` → `"ROJA"`
+
+No devuelvas los caracteres `[` o `]` en campos de valoración.
+
+No infieras una valoración a partir de otros datos.
+
+Si la valoración contiene explícitamente `--` o `---`, conserva exactamente `"--"` o `"---"`.
+
+Si la celda está realmente vacía, utiliza `""`.
+
+Esta regla aplica, entre otros, a:
+
+- `current_assessment`
+- `assessment`
+
+# METADATA
+
+Extrae únicamente:
+
+- `report_name`
+- `start`
+- `end`
+- `last_update`
+
+Todas las fechas-horas utilizan:
+
+`YYYY/MM/DD HH:MM:SS`
+
+Las únicas ventanas válidas del período de monitoreo son:
+
+`09:00:00 → 21:00:00`
+
+o:
+
+`21:00:00 → 09:00:00` del día siguiente.
+
+Si `start` y `end` ya corresponden correctamente a una de estas ventanas, consérvalos aunque `last_update` sea posterior.
+
+Si alguna hora de inicio o fin es distinta de 09:00 o 21:00, utiliza `last_update` y el contexto del reporte para corregir la ventana.
+
+Cierre matutino:
+
+`21:00` del día anterior → `09:00` del día actual.
+
+Cierre nocturno:
+
+`09:00` → `21:00` del mismo día.
+
+Ejemplo:
+
+Si el documento muestra:
+
+inicio `01:00`
+
+fin `09:00`
+
+actualización `08:00`
+
+normaliza el período a:
+
+`21:00` del día anterior → `09:00` del día actual.
+
+# SECCIÓN 1 — MONITOREO DE AMENAZAS
+
+Extrae cada tabla dentro de su objeto correspondiente.
+
+No mezcles información entre tablas.
+
+Crea una fila por cada registro real.
+
+Respeta estrictamente las columnas definidas para cada tabla.
+
+Aplica las reglas generales de preservación de `--`, `---` y celdas realmente vacías.
+
+## PELIGRO VOLCÁNICO
+
+Extrae:
+
+- ubicación
+- nivel de alerta declarado
+- situación actual
+- valoración actual
+
+En `current_assessment` elimina únicamente los corchetes de las categorías de valoración.
+
+Ejemplo:
+
+`[VERDE]` → `"VERDE"`
+
+No infieras la valoración.
+
+## DESBORDAMIENTO DE CUERPOS HÍDRICOS
+
+Mantén separadas:
+
+- cuerpos hídricos desbordados
+- cuerpos hídricos con tendencia a subir de nivel
+
+No mezcles ambas tablas.
+
+## INCENDIOS FORESTALES
+
+Mantén separadas:
+
+- incendios activos
+- incendios controlados
+
+No mezcles ambas tablas.
+
+## PRESAS Y REPRESAS
+
+Extrae cada registro con:
+
+- recurso
+- cota mínima
+- cota actual
+- cota máxima
+- hora de corte
+- valoración
+
+Conserva explícitamente `--` o `---` cuando aparezcan.
+
+Ejemplo:
+
+Si el documento muestra:
+
+`Agoyán | 1645.00 | -- | 1651.00 | -- | --`
+
+debe producir una fila equivalente a:
+
+`["Agoyán, Tungurahua",1645.0,"--",1651.0,"--","--"]`
+
+Si la valoración muestra `[VERDE]`, devuelve `"VERDE"`.
+
+## SITUACIÓN HIDROMETEOROLÓGICA
+
+Existe como máximo una situación, advertencia o aviso hidrometeorológico principal por reporte.
+
+Cuando exista información, extrae:
+
+- `warning_number`
+- `hazard`
+- `validity_start`
+- `validity_end`
+- `description`
+- `affected_areas`
+- `source`
+- `original_narrative`
+
+### WARNING_NUMBER
+
+`warning_number` representa únicamente el número explícito de la advertencia o aviso.
+
+Extrae el número como entero y elimina ceros a la izquierda.
+
+Ejemplos:
+
+`ADVERTENCIA # 02` → `2`
+`ADVERTENCIA # 005` → `5`
+`ADVERTENCIA # 12` → `12`
+
+No infieras el número a partir de otros reportes, fechas o secuencias.
+
+Si no existe un número explícito, utiliza `null`.
+
+### HAZARD
+
+`hazard` es un objeto con cuatro componentes:
+
+- `original`
+- `primary_family`
+- `phenomena`
+- `associated_risks`
+
+#### HAZARD.ORIGINAL
+
+`hazard.original` conserva fielmente el texto que aparece como amenaza en el reporte, eliminando únicamente etiquetas estructurales como `AMENAZA:`.
+
+Ejemplo:
+
+`AMENAZA: LLUVIAS Y TORMENTAS.`
+
+→
+
+`"original":"LLUVIAS Y TORMENTAS."`
+
+No corrijas errores ortográficos del texto original en `hazard.original`.
+
+#### HAZARD.PRIMARY_FAMILY
+
+`hazard.primary_family` representa la familia hidrometeorológica principal de la advertencia.
+
+Solo puede tomar uno de estos SEIS valores:
+
+`PRECIPITACION_TORMENTA`
+`TEMPERATURA_ALTA`
+`TEMPERATURA_BAJA`
+`VIENTO_FUERTE`
+`PRECIPITACION_SOLIDA`
+`RADIACION_UV`
+
+Estas seis familias representan:
+
+- `PRECIPITACION_TORMENTA`: lluvias, lluvias intensas, tormentas y tormentas eléctricas.
+- `TEMPERATURA_ALTA`: alta temperatura, incremento o aumento de temperatura diurna.
+- `TEMPERATURA_BAJA`: descenso o baja temperatura nocturna o de madrugada.
+- `VIENTO_FUERTE`: viento fuerte, incremento de la velocidad del viento o ráfagas.
+- `PRECIPITACION_SOLIDA`: nevadas o posibles nevadas.
+- `RADIACION_UV`: radiación ultravioleta elevada.
+
+Clasifica prioritariamente según el texto explícito del campo `AMENAZA:`.
+
+Normaliza para esta clasificación errores ortográficos evidentes, diferencias de mayúsculas/minúsculas, singular/plural y pequeñas variaciones de redacción.
+
+Ejemplos:
+
+`LLUVIAS Y TORMENTAS` → `PRECIPITACION_TORMENTA`
+`LLUVIAS Y TORMENTAS ELÉCTRICAS` → `PRECIPITACION_TORMENTA`
+`LLUVIAS INTENSAS Y TORMENTAS ELÉCTRICAS` → `PRECIPITACION_TORMENTA`
+`LUVIAS Y TOMENTAS ELÉCTRICAS` → `PRECIPITACION_TORMENTA`
+`INCREMENTO DE TEMPERATURA DIURNA` → `TEMPERATURA_ALTA`
+`AUMENTO DE TEMPERATURAS DIURNAS` → `TEMPERATURA_ALTA`
+`DESCENSO DE TEMPERATURA NOCTURNA` → `TEMPERATURA_BAJA`
+`BAJA TEMPERATURA NOCTURNA` → `TEMPERATURA_BAJA`
+`RÁFAGAS DE VIENTO` → `VIENTO_FUERTE`
+`INCREMENTO DE LA VELOCIDAD DEL VIENTO` → `VIENTO_FUERTE`
+`RADIACIÓN ULTRAVIOLETA` → `RADIACION_UV`
+
+Cuando una advertencia sea compuesta, selecciona como `primary_family` el fenómeno meteorológico que actúe como tema principal según el encabezado y la redacción original.
+
+Ejemplo:
+
+`LLUVIAS Y NEVADAS`
+
+→ `primary_family = "PRECIPITACION_TORMENTA"`
+
+y además incluye `NEVADA` dentro de `phenomena`.
+
+No conviertas incendios forestales, inundaciones, desbordamientos, crecidas o deslizamientos en `primary_family`. Esos conceptos deben tratarse como riesgos asociados cuando corresponda.
+
+Si existe una amenaza real pero no es posible asignarla razonablemente a una de las seis familias, conserva `hazard.original`, utiliza `""` en `primary_family` y no inventes una séptima familia.
+
+#### HAZARD.PHENOMENA
+
+`hazard.phenomena` es un array que identifica todos los fenómenos meteorológicos explícitamente presentes en la amenaza.
+
+Utiliza únicamente estos valores cuando correspondan:
+
+`LLUVIA`
+`TORMENTA`
+`TORMENTA_ELECTRICA`
+`TEMPERATURA_ALTA`
+`TEMPERATURA_BAJA`
+`VIENTO_FUERTE`
+`NEVADA`
+`RADIACION_UV`
+
+Puede contener uno o varios valores.
+
+Ejemplos:
+
+`LLUVIAS Y TORMENTAS`
+
+→
+
+`["LLUVIA","TORMENTA"]`
+
+`LLUVIAS Y TORMENTAS ELÉCTRICAS`
+
+→
+
+`["LLUVIA","TORMENTA_ELECTRICA"]`
+
+`LLUVIAS, TORMENTAS ELÉCTRICAS, RÁFAGAS DE VIENTO Y POSIBLES NEVADAS`
+
+→
+
+`["LLUVIA","TORMENTA_ELECTRICA","VIENTO_FUERTE","NEVADA"]`
+
+`ALTA TEMPERATURA DIURNA Y RADIACIÓN UV`
+
+→
+
+`["TEMPERATURA_ALTA","RADIACION_UV"]`
+
+No agregues fenómenos únicamente porque aparezcan de forma secundaria en la descripción si no forman parte de la amenaza comunicada.
+
+#### HAZARD.ASSOCIATED_RISKS
+
+`hazard.associated_risks` es un array separado de los fenómenos meteorológicos.
+
+Utiliza riesgos asociados únicamente cuando estén explícitamente mencionados como riesgo, condición favorable, posible consecuencia o efecto asociado de la amenaza.
+
+Utiliza únicamente estos valores cuando correspondan:
+
+`INCENDIO_FORESTAL`
+`CRECIDA_CUERPOS_AGUA`
+`DESBORDAMIENTO`
+`INUNDACION`
+`DESLIZAMIENTO_MOVIMIENTOS_MASA`
+
+Ejemplo:
+
+`ALTA TEMPERATURA DIURNA Y PROBABLES INCENDIOS FORESTALES`
+
+→
+
+`"primary_family":"TEMPERATURA_ALTA"`
+`"phenomena":["TEMPERATURA_ALTA"]`
+`"associated_risks":["INCENDIO_FORESTAL"]`
+
+Ejemplo:
+
+`INCREMENTO DE LA VELOCIDAD DEL VIENTO Y CONDICIONES FAVORABLES A INCENDIOS FORESTALES`
+
+→
+
+`"primary_family":"VIENTO_FUERTE"`
+`"phenomena":["VIENTO_FUERTE"]`
+`"associated_risks":["INCENDIO_FORESTAL"]`
+
+Ejemplo:
+
+Si una advertencia por lluvias señala explícitamente zonas propensas a crecidas y desbordamientos:
+
+`"primary_family":"PRECIPITACION_TORMENTA"`
+
+y puede incluir:
+
+`"associated_risks":["CRECIDA_CUERPOS_AGUA","DESBORDAMIENTO"]`
+
+No interpretes la mera presencia de la palabra `incendio`, `inundación`, `deslizamiento`, `crecida` o `desbordamiento` como un evento ocurrido. Aquí solo se registran como riesgos asociados al boletín hidrometeorológico.
+
+No agregues riesgos asociados que no estén explícitamente respaldados por el texto.
+
+### VALIDITY_START Y VALIDITY_END
+
+`validity_start` y `validity_end` representan las fechas de inicio y fin de vigencia de la advertencia.
+
+Normaliza ambas fechas al formato:
+
+`YYYY-MM-DD`
+
+No incluyas la hora en estos campos.
+
+Utiliza TODA la expresión de vigencia para completar de manera contextual las partes de la fecha que estén implícitas.
+
+Ejemplo:
+
+`VIGENCIA: desde 19H00 del 07 hasta las 16H00 del 11 de enero de 2026.`
+
+→
+
+`"validity_start":"2026-01-07"`
+`"validity_end":"2026-01-11"`
+
+Ejemplo:
+
+`VIGENCIA: desde las 00H00 del 25 hasta las 22H00 del 28 de enero de 2026`
+
+→
+
+`"validity_start":"2026-01-25"`
+`"validity_end":"2026-01-28"`
+
+Cuando el mes y año aparezcan una sola vez al final de la expresión pero sea inequívoco que aplican tanto al inicio como al final, aplícalos a ambas fechas.
+
+Si el período atraviesa un cambio de mes o año y el texto permite determinarlo inequívocamente, conserva las fechas reales correspondientes.
+
+No inventes mes o año si la expresión no permite determinarlos razonablemente.
+
+Si una de las fechas no puede determinarse, utiliza `""` únicamente para esa fecha.
+
+### DESCRIPTION
+
+`description` conserva íntegramente el contenido correspondiente a `DESCRIPCIÓN:` sin resumirlo.
+
+### AFFECTED_AREAS
+
+`affected_areas` es UN STRING que conserva íntegramente el contenido correspondiente a `Zonas Afectadas`, `Áreas Afectadas` o equivalente.
+
+No lo estructures por región ni provincia.
+
+### SOURCE
+
+`source` conserva la fuente explícitamente indicada en el bloque, por ejemplo:
+
+`INAMHI`
+
+No infieras una fuente si no está indicada.
+
+### ORIGINAL_NARRATIVE
+
+`original_narrative` conserva íntegramente el bloque completo de Situación Hidrometeorológica, incluyendo advertencia, amenaza, vigencia, descripción, zonas afectadas y fuente.
+
+Si el reporte NO contiene una situación hidrometeorológica real o el bloque no contiene información real:
+
+- `warning_number` = `null`
+- `hazard.original` = `""`
+- `hazard.primary_family` = `""`
+- `hazard.phenomena` = `[]`
+- `hazard.associated_risks` = `[]`
+- `validity_start` = `""`
+- `validity_end` = `""`
+- `description` = `""`
+- `affected_areas` = `""`
+- `source` = `""`
+- `original_narrative` = `""`
+
+No inventes una advertencia.
+
+No escribas `"--"` en estos campos salvo que el documento muestre explícitamente `--` en ese campo.
+
+## PELIGRO SÍSMICO
+
+Extrae cada registro disponible.
+
+Si la tabla contiene únicamente `--` o `---`, conserva esos símbolos en las celdas correspondientes.
+
+No conviertas esos valores en `""` ni `null`.
+
+## OTRAS TABLAS
+
+Si aparece una tabla de amenazas que no corresponde a ninguna estructura prevista, conserva la información disponible dentro de `other_tables`.
+
+No utilices `other_tables` si no existen tablas adicionales.
+
+# SECCIÓN 2 — MONITOREO DE EVENTOS ADVERSOS
+
+Las claves dentro de `zones` son dinámicas.
+
+Ejemplos:
+
+`"1"`
+`"2"`
+`"3"`
+...
+`"9"`
+
+Crea únicamente las zonas realmente presentes en el reporte.
+
+No crees zonas vacías que no aparezcan en el documento.
+
+Cada zona puede contener uno o varios eventos.
+
+Para cada evento extrae únicamente:
+
+- `event_type`
+- `event_start_date`
+- `location`
+- `background`
+- `current_situation`
+- `impacts`
+- `response_actions`
+- `information_sources`
+
+No generes estructuras internas adicionales.
+
+NO generes:
+
+- `structured`
+- `facts`
+- `event_parameters`
+- `source_text`
+- descomposición individual de afectaciones
+- descomposición individual de acciones
+- descomposición individual de fuentes
+
+La finalidad de esta sección es conservar las narrativas originales completas y estructurar únicamente los campos necesarios para identificar posteriormente el evento.
+
+# EVENT_TYPE
+
+`event_type` debe permanecer en español.
+
+Normalízalo únicamente a una de estas categorías:
+
+`Inundación`
+`Deslizamiento`
+`Socavamiento`
+`Incendio forestal`
+`Aluvión`
+`Colapso estructural`
+`Subsidencia`
+`Déficit hídrico`
+`Oleaje`
+`Actividad volcánica`
+`Contaminación ambiental`
+`Vendaval`
+`Avalancha`
+`Incendio estructural`
+`Intoxicación`
+`Granizada`
+`Explosión`
+`Sismo`
+`Erosión hídrica`
+`Otro`
+
+Normaliza diferencias evidentes de:
+
+- mayúsculas
+- minúsculas
+- tildes
+- singular/plural cuando represente claramente el mismo evento
+
+No inventes categorías nuevas.
+
+Usa `Otro` únicamente cuando el evento no pueda clasificarse razonablemente en las categorías anteriores.
+
+# EVENT_START_DATE
+
+`event_start_date` representa exclusivamente la fecha real de inicio u ocurrencia del evento.
+
+Obtén esta fecha PRIORITARIAMENTE del bloque `Antecedentes`.
+
+Ejemplo:
+
+`El 25/04/2025 se registró un sismo...`
+
+→
+
+`"event_start_date":"2025/04/25"`
+
+Si `Antecedentes` no contiene una fecha de inicio utilizable, revisa `Situación actual` únicamente cuando esta indique explícitamente cuándo ocurrió o comenzó el evento.
+
+NO utilices como fecha de inicio fechas correspondientes a:
+
+- fecha del reporte
+- fecha de actualización
+- monitoreo posterior
+- inspecciones
+- evaluaciones
+- sesiones del COE
+- acciones de respuesta
+- entrega de asistencia humanitaria
+- avances de obras
+- informes posteriores
+- estados posteriores del evento
+
+Conserva únicamente la precisión realmente disponible.
+
+Si se conoce día, mes y año:
+
+`YYYY/MM/DD`
+
+Si solo se conoce mes y año:
+
+`YYYY/MM`
+
+Si solo se conoce el año:
+
+`YYYY`
+
+Si no puede determinarse:
+
+`""`
+
+Nunca inventes componentes faltantes de una fecha.
+
+Ejemplo:
+
+`desde febrero del 2020`
+
+debe producir:
+
+`"event_start_date":"2020/02"`
+
+NO:
+
+`"event_start_date":"2020/02/01"`
+
+# LOCATION
+
+Obtén `location` prioritariamente del campo `Localización:` del evento.
+
+`location.original_narrative` debe conservar íntegramente el texto correspondiente a Localización.
+
+Extrae únicamente información explícita del reporte en:
+
+- `province`
+- `canton`
+- `parish`
+- `sectors`
+- `other_locations`
+
+No completes divisiones administrativas mediante conocimiento externo.
+
+No deduzcas una provincia, cantón o parroquia únicamente porque conozcas geográficamente un lugar.
+
+Cuando existan varios sectores, sepáralos individualmente en `sectors`.
+
+Cuando existan otros lugares relevantes que no correspondan claramente a provincia, cantón, parroquia o sector, utiliza `other_locations`.
+
+# NARRATIVAS DEL EVENTO
+
+Conserva íntegramente, sin resumir ni reinterpretar:
+
+`background.original_narrative`
+= contenido completo correspondiente a `Antecedentes`.
+
+`current_situation.original_narrative`
+= contenido completo correspondiente a `Situación actual`.
+
+`impacts.original_narrative`
+= contenido completo correspondiente a `Afectaciones`.
+
+`response_actions.original_narrative`
+= contenido completo correspondiente a `Acciones de respuesta`.
+
+`information_sources.original_narrative`
+= contenido completo correspondiente a `Fuentes de información`.
+
+No muevas información entre bloques.
+
+Por ejemplo, una acción que aparece en `Acciones de respuesta` no debe trasladarse a `Situación actual`.
+
+Si uno de estos bloques realmente no contiene información, utiliza:
+
+`""`
+
+# SECCIÓN 3 — ESTADO DE VÍAS AFECTADAS POR EVENTOS ADVERSOS
+
+La Sección 3 debe organizarse en SEIS tablas fijas:
+
+1. vías de primer orden cerradas
+2. vías de primer orden parcialmente habilitadas
+3. vías de segundo orden cerradas
+4. vías de segundo orden parcialmente habilitadas
+5. vías de tercer orden cerradas
+6. vías de tercer orden parcialmente habilitadas
+
+Utiliza exactamente estos nombres de objetos:
+
+`first_order_closed`
+`first_order_partially_enabled`
+`second_order_closed`
+`second_order_partially_enabled`
+`third_order_closed`
+`third_order_partially_enabled`
+
+Cada uno debe contener:
+
+- `columns`
+- `rows`
+
+Si una tabla no aparece en el reporte o no contiene registros, conserva:
+
+`"rows":[]`
+
+No mezcles registros entre estas seis tablas.
+
+El nombre de cada objeto ya identifica el orden de la vía y su estado, por lo tanto NO incluyas `road_order` ni `road_status` dentro de las columnas ni dentro de las filas.
+
+Todas las seis tablas utilizan exactamente estas columnas:
+
+`province`
+`canton`
+`parish`
+`road_sector`
+`adverse_event`
+`affected_linear_meters`
+`event_date`
+`alternative_routes`
+
+Cada elemento de `rows` debe ser un ARRAY exactamente en ese orden.
+
+Ejemplo:
+
+`["Napo","El Chaco","Gonzalo Díaz De Pineda","Piedra Fina, vía El Chaco-Reventador [E45]","SOCAVAMIENTO","--","2024/05/20","Ninguna"]`
+
+No uses objetos dentro de `rows`.
+
+# AFFECTED_LINEAR_METERS
+
+Cuando exista un valor numérico explícito, conviértelo a número.
+
+Ejemplo:
+
+`150` → `150`
+
+Si la celda contiene:
+
+`--`
+
+conserva:
+
+`"--"`
+
+Si contiene:
+
+`---`
+
+conserva:
+
+`"---"`
+
+Si está realmente vacía:
+
+`""`
+
+No conviertas `--` ni `---` en `null`.
+
+No conviertas `--` ni `---` en cero.
+
+# EVENT_DATE EN VÍAS
+
+Cuando la fecha tenga día, mes y año, normalízala a:
+
+`YYYY/MM/DD`
+
+Ejemplo:
+
+`20/05/2024`
+
+→
+
+`2024/05/20`
+
+No inventes componentes faltantes.
+
+# ALTERNATIVE_ROUTES
+
+Conserva íntegramente el contenido de la celda correspondiente.
+
+Si dice:
+
+`Ninguna`
+
+devuelve:
+
+`"Ninguna"`
+
+Si contiene una o varias rutas alternativas, conserva todo el texto correspondiente al mismo registro.
+
+Si contiene explícitamente `--`, conserva `"--"`.
+
+# ESTRUCTURA JSON OBLIGATORIA
+
+{"metadata":{"report_name":"","start":"YYYY/MM/DD HH:MM:SS","end":"YYYY/MM/DD HH:MM:SS","last_update":"YYYY/MM/DD HH:MM:SS"},"section_1":{"section":"Threat Monitoring","tables":{"volcanic_hazard":{"columns":["location","declared_alert_level","current_situation","current_assessment"],"rows":[]},"water_body_overflow":{"overflowed_water_bodies":{"columns":["province","canton","parish","sector","name"],"rows":[]},"water_bodies_rising_level":{"columns":["province","canton","parish","sector","name"],"rows":[]}},"forest_fires":{"active_forest_fires":{"columns":["province","canton","parish","sector","affected_area_ha","start_date"],"rows":[]},"controlled_forest_fires":{"columns":["province","canton","parish","sector","affected_area_ha","start_date"],"rows":[]}},"dams_and_reservoirs":{"columns":["resource","minimum_level","current_level","maximum_level","cutoff_time","assessment"],"rows":[]},"hydrometeorological_situation":{"warning_number":null,"hazard":{"original":"","primary_family":"","phenomena":[],"associated_risks":[]},"validity_start":"","validity_end":"","description":"","affected_areas":"","source":"","original_narrative":""},"seismic_hazard":{"columns":["local_datetime","magnitude","depth","near","felt_by_population"],"rows":[]},"other_tables":[]}},"section_2":{"section":"Adverse Event Monitoring","zones":{"1":{"events":[{"event_type":"","event_start_date":"","location":{"original_narrative":"","province":"","canton":"","parish":"","sectors":[],"other_locations":[]},"background":{"original_narrative":""},"current_situation":{"original_narrative":""},"impacts":{"original_narrative":""},"response_actions":{"original_narrative":""},"information_sources":{"original_narrative":""}}]}}},"section_3":{"section":"Road Status Monitoring Due to Adverse Events","tables":{"first_order_closed":{"columns":["province","canton","parish","road_sector","adverse_event","affected_linear_meters","event_date","alternative_routes"],"rows":[]},"first_order_partially_enabled":{"columns":["province","canton","parish","road_sector","adverse_event","affected_linear_meters","event_date","alternative_routes"],"rows":[]},"second_order_closed":{"columns":["province","canton","parish","road_sector","adverse_event","affected_linear_meters","event_date","alternative_routes"],"rows":[]},"second_order_partially_enabled":{"columns":["province","canton","parish","road_sector","adverse_event","affected_linear_meters","event_date","alternative_routes"],"rows":[]},"third_order_closed":{"columns":["province","canton","parish","road_sector","adverse_event","affected_linear_meters","event_date","alternative_routes"],"rows":[]},"third_order_partially_enabled":{"columns":["province","canton","parish","road_sector","adverse_event","affected_linear_meters","event_date","alternative_routes"],"rows":[]}}}}
+
+# VALIDACIÓN DE CADA REPORTE
+
+Antes de guardar cada JSON verifica:
+
+1. El resultado es JSON válido y parseable.
+2. Mantiene exactamente las claves establecidas en el schema.
+3. No contiene `structured`, `facts`, `event_parameters` ni `source_text` dentro de la Sección 2.
+4. `section_2.zones` contiene únicamente las zonas realmente presentes.
+5. Todos los eventos del reporte fueron incluidos.
+6. `event_type` pertenece a una categoría permitida.
+7. `event_start_date` representa el inicio real del evento y no una actualización posterior.
+8. No se inventaron componentes de fechas.
+9. `location` proviene prioritariamente del campo `Localización:`.
+10. Las narrativas de Antecedentes, Situación actual, Afectaciones, Acciones de respuesta y Fuentes permanecen completas.
+11. Todas las tablas de Sección 1 contienen todos sus registros.
+12. La Sección 3 está dividida correctamente entre las seis tablas fijas.
+13. Los registros viales no contienen `road_order` ni `road_status`.
+14. Todas las estructuras `columns + rows` utilizan ARRAYS dentro de `rows`.
+15. Cada array tiene exactamente la misma cantidad de elementos que `columns`.
+16. Los valores `--` y `---` se conservaron literalmente cuando aparecían en el documento.
+17. Las celdas realmente vacías utilizan `""`.
+18. Ningún `--` o `---` fue convertido en cero, `null` o cadena vacía.
+19. Las valoraciones de color no contienen corchetes: `[VERDE]` debe ser `"VERDE"`.
+20. No se infirieron valoraciones ausentes.
+21. `start/end` corresponden a una ventana válida `09→21` o `21→09`.
+22. Si no existe información hidrometeorológica, sus campos permanecen vacíos según el schema y no contienen información inventada.
+23. `warning_number` es entero o `null`, nunca texto con ceros a la izquierda.
+24. Si existe amenaza hidrometeorológica, `hazard.primary_family` contiene únicamente una de las seis familias permitidas o `""` si no es posible clasificarla.
+25. `hazard.phenomena` contiene únicamente fenómenos explícitamente respaldados por la amenaza.
+26. `hazard.associated_risks` no confunde consecuencias o riesgos con fenómenos meteorológicos.
+27. `validity_start` y `validity_end` usan `YYYY-MM-DD` cuando pueden determinarse.
+28. No se deja una fecha parcial como `19H00 del 07` cuando la expresión completa de vigencia permite resolver la fecha.
+29. `hazard.original` conserva el texto original de la amenaza sin corregir OCR o redacción.
+30. Una advertencia compuesta sigue siendo un único registro hidrometeorológico.
+
+# PROCESAMIENTO DEL ZIP
+
+Procesa todos los archivos `.txt` encontrados dentro del ZIP.
+
+Ignora archivos que no sean TXT.
+
+Cada TXT debe procesarse como un reporte independiente.
+
+No detengas todo el procesamiento si un único archivo presenta problemas.
+
+Si un TXT no puede procesarse correctamente:
+
+- continúa con los demás
+- registra ese archivo como `failed` en `manifest.json`
+- no inventes un JSON para reemplazarlo
+
+Para cada TXT procesado correctamente crea su archivo JSON correspondiente.
+
+Ejemplo:
+
+`REPORTE_0001.txt`
+
+→
+
+`REPORTE_0001.json`
+
+# MANIFEST.JSON
+
+Genera también un archivo:
+
+`manifest.json`
+
+con esta estructura:
+
+{"total_txt":0,"processed_ok":0,"failed":0,"files":[{"source":"","output":"","status":"ok","error":""}]}
+
+`total_txt` = número total de TXT encontrados.
+
+`processed_ok` = cantidad procesada correctamente.
+
+`failed` = cantidad que no pudo procesarse.
+
+Cada archivo debe aparecer una vez dentro de `files`.
+
+`status` solo puede ser:
+
+`"ok"`
+
+o:
+
+`"failed"`
+
+Para un archivo correcto:
+
+`"error":""`
+
+Para uno fallido, escribe una descripción breve y concreta del problema.
+
+# SALIDA FINAL
+
+Crea un único ZIP llamado:
+
+`SNGR_extracted_json.zip`
+
+que contenga:
+
+- todos los JSON generados correctamente
+- `manifest.json`
+
+No pegues en el chat el contenido completo de todos los JSON.
+
+Al finalizar responde únicamente con un resumen breve indicando:
+
+- número de TXT encontrados
+- número procesado correctamente
+- número fallido
+- enlace al archivo `SNGR_extracted_json.zip`

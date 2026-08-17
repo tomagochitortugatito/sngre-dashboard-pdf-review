@@ -1,0 +1,11 @@
+# Los PDFs originales NO van en este repo (pesan ~6,3 GB).
+# Se descargan aparte desde Google Drive — ver README.md, sección "PDFs".
+pdf_review/data/pdfs/**/*.pdf
+
+# Mantener la estructura de carpetas por año aunque estén vacías
+!pdf_review/data/pdfs/**/.gitkeep
+
+__pycache__/
+*.pyc
+.venv/
+venv/

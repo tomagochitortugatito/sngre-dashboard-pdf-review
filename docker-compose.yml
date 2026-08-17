@@ -1,0 +1,29 @@
+services:
+  dashboard:
+    build:
+      context: ./dashboard
+    container_name: adverse-events-dashboard
+    ports:
+      - "8502:8501"
+    volumes:
+      # Monta la carpeta completa: incluye código + data/ (parquet/csv ya
+      # generados). Todas las rutas son relativas a este archivo, así que
+      # funciona igual sin importar dónde se copie/comparta esta carpeta.
+      - ./dashboard:/app
+    restart: unless-stopped
+
+  pdf-review:
+    build:
+      context: ./pdf_review
+    container_name: pdf-json-review-app
+    ports:
+      - "8503:8501"
+    environment:
+      - JSON_DIR=/app/data/json
+      - PDF_ROOT=/app/data/pdfs
+    volumes:
+      # Igual que arriba: código + data/json (1875 JSON fuente) + data/pdfs
+      # (reportes en PDF) viven todos dentro de ./pdf_review. El log de
+      # revisiones (reviewed_log.txt) también queda ahí, persistido en el host.
+      - ./pdf_review:/app
+    restart: unless-stopped

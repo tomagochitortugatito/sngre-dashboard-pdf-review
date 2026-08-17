@@ -1,0 +1,474 @@
+                                                              Dirección de Monitoreo de Eventos Adversos
+                                REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                                              Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 1 de 7
+
+                    Periodo de Monitoreo:                Desde:        21:00            09/12/2025              Hasta:       09:00               10/12/2025
+
+ 1. Monitoreo de amenazas
+       [ROJO]   Amenaza en desarrollo, posible desencadenamiento de eventos adversos.
+       [AMARILLO]   Amenaza en incremento y probable materialización inminente.
+       [VERDE]   Amenaza dentro de los parámetros normales.
+PELIGRO VOLCÁNICO:
+                                                                      Nivel de alerta
+                            Ubicación                                                                              Situación actual                                   Valoración actual
+                                                                        declarada
+
+                               Volcán Reventador
+                               Napo
+                                                                    NARANJA                 09:00 Sin novedades                                                             [VERDE]
+
+                               Volcán Chiles-Cerro Negro
+                               Carchi
+                                                                    AMARILLA                09:00 Sin novedades                                                             [VERDE]
+                               Volcán Sangay
+                               Morona Santiago
+                                                                    AMARILLA                09:00 Sin novedades                                                             [VERDE]
+
+                               Volcán Cotopaxi                                              09:00 Sin novedades                                                             [VERDE]
+
+                               Volcán Guagua Pichincha                                      09:00 Sin novedades                                                             [VERDE]
+
+
+PELIGRO POR DESBORDAMIENTO DE CUERPOS HíDRICOS:
+
+ 00 cuerpos hídircos desbordados:
+                Provincia                                  Cantón                             Parroquia                               Sector                             Nombre
+                   ---                                      ---                                 ---                                    ---                                  --
+
+
+ 00 cuerpos hídricos contendencia a subir de nivel:
+                Provincia                                  Cantón                             Parroquia                               Sector                             Nombre
+                    --                                       --                                  --                                     --                                  --
+
+ PELIGRO POR INCENDIOS FORESTALES:
+
+ 11 incendios activos:
+                Provincia                                 Cantón                            Parroquia                              Sector                 Afectación (Ha) Fecha de inicio
+                 El Oro                                 Zaruma                            Guizhaguiña                         Poterillos                        --           10/12/2025
+                 Azuay                                  Cuenca                             Chiquintad                         Saymirin                          --           10/12/2025
+                                                                                                                    Sanjapamba sendero de los
+             Chimborazo                                  Guano                             San Andrés                                                           ---          10/12/2025
+                                                                                                                              hieleros.
+              Pichincha                                Cayambe                              Cangahua                         Gualimburo                        ---           09/12/2025
+             Tungurahua                                 Píllaro                         San José de Poaló             Salcocha – Santo Cristo                  200           09/12/2025
+                                                                                                                       Huigra con dirección a
+             Chimborazo                                  Alausí                              Huigra                                                            0.4           09/12/2025
+                                                                                                                              Chismay
+             Chimborazo                                Guamote                              Palmira                             Atapo                           15           09/12/2025
+                Azuay                                   Sígsig                               Jima                              Morire                           --           09/12/2025
+              Cotopaxi                                 Sigchos                              Isinlivi                      Cerro Guingopana                      15           09/12/2025
+                                                                                                                    En los Páramos de Rasuyacu
+               Cotopaxi                               Latacunga                             Toacaso                                                            22.5          08/12/2025
+                                                                                                                         zona de protección
+                  Loja                                 Saraguro                             Urdaneta                          Urdaneta                          86          08/12/20225
+                                                  Dirección de Monitoreo de Eventos Adversos
+                            REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                              Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 2 de 7
+
+
+
+
+03 incendios controlados:
+             Provincia                        Cantón                         Parroquia                             Sector                 Afectación (Ha) Fecha de inicio
+            Pichincha                          Quito                Calderón - Carapungo                      Oyacoto                           ---         09/12/025
+               Loja                          Saraguro                San Pablo de Tenta                      Pishanga                           42          08/12/2025
+           Tungurahua                         Píllaro                San José de Poaló                     Quillopaccha                          1          08/12/2025
+                                                                                                         Timbala _ Zona de
+                                                                                                    Amortiguamiento del Parque
+            Imbabura                  San Miguel de Urcuquí                Buenos Aires                                                        350          04/12/2025
+                                                                                                    Nacional Cotacachi Cayapas
+                                                                                                              (PNCC)
+                                                                                                          Parque Nacional
+           Tungurahua                         Píllaro                 San José de Poaló             Llanganates, sector Talalag-               250          07/12/2025
+                                                                                                            Pisayambo
+                                                                                                      Guerras, vía Balsas – Rio
+              El Oro                          Piñas                          Capiro                                                             15          05/11/2025
+                                                                                                               Pindo
+
+
+
+PELIGRO POR APERTURA O COLAPSO DE PRESAS Y REPRESAS:
+
+              Recurso                    Cota mínima          Cota Actual                Cota máxima                   Hora de corte                    Valoración
+ Molino, Azuay                              1990.95              1986.93                       1991                          09:00                            [VERDE]
+ Mazar, Azuay                               2138.05              2150.52                    2153.45                          09:00                            [VERDE]
+ Daule Peripa, Guayas                        70.00                76.35                       85.00                          10:05                            [VERDE]
+ Central Baba, Los Ríos                      114.00               115.04                     115.180                         10:05                            [VERDE]
+ Chongón, Guayas                             44.50                44.93                        55.15                          10:05                           [VERDE]
+ El Azúcar, Santa Elena                      40.00                41.24                       45.09                           10:05                           [VERDE]
+ San Vicente, Santa Elena                    50.00                56.20                       58.00                           10:05                           [VERDE]
+ La Esperanza, Manabí                        53.40                57.07                       66.00                           10:05                            --
+ Poza Honda, Manabí                          104.29               101.64                      106.51                          10:05                            --
+ Multipropósito Chone, Manabí                48.00                53.02                       68.50                           10:05                            --
+ Agoyán, Tungurahua                         1645.00                 --                      1651.00                            --                              --
+ Pucará-Pisayambo, Tungurahua               3541.00                 --                      3565.00                            --                              --
+* Medición dentro del rango aceptable en referencia a la cota máxima. existen planes de liberación de caudales que se van regulando de manera
+progresiva. Las instituciones responsables garantizan que no es una apertura súbita que pueda causar inundaciones en otras zonas.
+
+         DECLARATORIAS DE NIVELES DE ALERTA VIGENTES POR AMENAZAS Y/O EVENTOS ADVERSOS, VISITAR LA PÁGINA WEB:
+
+          https://www.gestionderiesgos.gob.ec/niveles-de-alertas-y-declaratorias-vigentes-establecidas-por-la-
+
+   SITUACIÓN HIDROMETEOROLÓGICA:
+                                                        Dirección de Monitoreo de Eventos Adversos
+                                REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                                      Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 3 de 7
+
+                                                                                                          ADVERTENCIA # 66
+                                                                                           AMENAZA: INCREMENTO DE TEMPERATURA DIURNA
+                                                                                 Fecha y hora de emisión: Lunes, 08 de diciembre de 2025, 05:10 horas
+                                                                                VIGENCIA: desde 10H00 del 8 hasta las 16H00 del 10 de diciembre de 2025
+
+                                                                               SITUACIÓN: Se prevé el incremento de las temperaturas diurnas los días 8 y
+                                                                               9 de diciembre.
+                                                                               Modifique las rutinas diarias y minimice la actividad de intensa al aire libre,
+                                                                               Evite la expocion directa al sol.
+                                                                               Mantenerse hidratado y utilice protección adicional ante la radiación.
+                                                                               Mantener las habitaciones de su casa fresca y ventiladas
+
+                                                                               Zonas Afectadas:
+
+                                                                               Región Litoral: Guayas y los Ríos
+
+                                                                               Región Interandina: Especialmente Imbabura, Pichincha, Cotopaxi,
+                                                                               Tungurahua, Chimborazo, Azuay y Loja.
+
+                                                                               Región Amazónica: Sucumbíos, Orellana, Napo y Zamora Chinchipe.
+
+                                                                               FUENTE: INAMHI
+
+
+PELIGRO SÍSMICO:
+
+         Fecha – Hora Local         Magnitud         Profundidad                          Cercano a                                        Sentido por la población
+                --                     --                 --                                  --                                                       --
+
+
+
+2. Monitoreo de eventos adversos (emergencias y desastres)
+ZONA 1
+
+                SISMO
+                Localización:       Esmeraldas/Varios Cantones
+                                    El 25/04/2025, se registró un sismo de magnitud 6,1 MLv, con epicentro a 8.4km de Esmeraldas y una profundidad de 30
+                                    km, que se sintió en todos los cantones de la provincia, de manera muy fuerte en el cantón Esmeraldas, de manera fuerte
+                                    Eloy Alfaro, Atacames, Muisne, Quinindé, Rioverde y San Lorenzo.
+                Antecedentes:
+                                    Asimismo, el sismo fue percibido de manera moderada en cantones de las provincias de Manabí y Guayas, y de forma leve
+                                    en cantones de Santo Domingo de Los Tsáchilas, Los Ríos, Imbabura, Cotopaxi y Tungurahua.
+                                    El COE Provincial sesionó el 01/05/2025 a las 17:00.
+                                    De acuerdo al levantamiento de información realizado por el Miduvi se registró un incremento de viviendas afectadas en
+                                    el cantón de Esmeraldas.
+                                    Actualmente, se registran (7 familias, 27 personas) alojadas en el alojamiento temporal Ex Escuela Guillermina Díaz de
+                                    Plaza. El COE Provincial Esmeraldas, así como los COEs Cantonales de Esmeraldas, Atacames, Rioverde y Muisne continúan
+                Situación actual:   activos.
+                                    Se ha reportado 510 atenciones de las cuales 53 son cubiertas por brigadas de establecimientos de salud, 235 por
+                                    atenciones extramurales, 210 en el Alojamiento temporal y el Servicio de Atención de Salud Móvil registró 12 llamadas de
+                                    emergencia, mismas que fueron solventadas por soporte telefónico, traslados hacia establecimientos de salud y
+                                    atenciones en el sitio.
+                                    Cantón Esmeraldas
+                                    - 510 personas atendidas (atención en centros de salud).
+                                    - 1661 familias afectadas (8920 personas) (evaluación preliminar).
+                                    - 4809 viviendas afectadas (evaluación preliminar).
+                Afectaciones:
+                                    - 1.007 familias damnificadas (2.310 personas)
+                                    - 49 personas heridas (heridas en la cabeza y golpes).
+                                    - 45 bienes públicos afectados.
+                                    - 90% de energía eléctrica afectada (restablecida 100%)
+                                                  Dirección de Monitoreo de Eventos Adversos
+                         REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                                 Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 4 de 7
+                             - 90% del servicio de telecomunicaciones afectado (restablecida 100%)
+                             - 4 bienes privados afectados (1. Edificio de La Mutualista, 2. Edificio de Cruz Roja Ecuatoriana, 3. Hotel Colón, 4. Edificio
+                             Particular en las calles Espejo y Sucre)
+                             - 24 establecimientos turísticos afectados.
+                             - 25 bienes patrimoniales afectados (CCE Esmeraldas y Museo Esmeraldas)
+                             - 21 Unidades Educativas afectadas
+                             - 1 puente a desnivel afectado (parroquia 5 de Agosto)
+                             - 7 Centros de Salud afectados
+                             - 20 metros de vía afectada de segundo orden (sector Libertad) habilitada.
+                             - 20 metros de vía afectada de tercer orden (sector El Tigre) habilitada.
+                             Cantón Muisne
+                             - 32 familias damnificadas (81 personas) (evaluación preliminar)
+                             - 21 familias afectadas (92 personas)
+                             - 37 viviendas afectadas (evaluación preliminar)
+                             - 4 bienes públicos afectados (GAD C Muisne, Camal Municipal, Coliseo, Oficina de Turismo)
+                             - 6 Unidades Educativas afectadas
+                             - 20 metros de vía afectada tercer orden (El Salto – Muisne)
+                             - 1 puente peatonal afectado
+                             Cantón Rioverde
+                             - 40 familias afectadas (160 personas) (evaluación preliminar)
+                             - 270 viviendas afectadas (evaluación preliminar)
+                             - 1 Unidad Educativa afectada
+                             - 2 establecimientos turísticos afectados.
+                             Cantón Quinindé
+                             - 1 familia afectada (4 personas) (evaluación preliminar)
+                             - 32 viviendas afectadas (evaluación preliminar)
+                             - 1 puente afectado.
+                             Cantón Atacames
+                             - 52 familias afectadas (208 personas) (evaluación preliminar)
+                             - 40 viviendas afectadas (evaluación preliminar)
+                             - 80% de energía eléctrica afectada (restablecido)
+                             - 8 Unidades Educativas afectadas
+                             Cantón Eloy Alfaro
+                             - 37 familias afectadas (123 personas) (evaluación preliminar)
+                             - 172 viviendas afectadas (evaluación preliminar)
+                             El 22/07/2025
+                             MTT2: Ministerio de Salud Pública (MSP) continúa activo, se encuentra al pendiente a solicitudes de atención médica en
+                             el AT “Escuela General Guillermina Díaz de Plaza”.
+                             MTT4: SNGR realizó la entrega de Asistencia Humanitaria en el cantón Eloy Alfaro, en la parroquia Pampanal de Bolívar.
+         Acciones de
+         respuesta:
+                             Ministerio de Inclusión Económica y Social.
+                             SNGR realiza seguimiento al Alojamiento Temporal “Escuela General Guillermina Díaz de Plaza”.
+                             MTT7: El Ministerio de Desarrollo Urbano y Vivienda (Miduvi) se mantiene activa realizando evaluaciones de
+                             infraestructuras afectadas por el evento.
+                             GT2: PPNN, brinda seguridad en los sectores afectados y en el alojamiento temporal activo.
+         Fuentes de
+         información:
+                             SNGR CZ1 Umeva Imbabura – Carchi – Esmeraldas/SIS ECU 911/SNDGIRD
+
+
+
+ZONA 2
+
+         Erosión Hídrica
+                             Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-Lago
+         Localización:
+                             Agrio [E45].
+                             Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias
+                             viviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de
+         Antecedentes:       SOTE, Poliducto Shushufindi – Quito y OCP.
+                             Se mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja.
+                             El 11/02/2023, MTOP declaró emergencia la RVE E45, afectada por la erosión regresiva del río. EL COE Chaco está activo.
+                             Por precaución, ante el avance de la erosión hídrica en San Luis, varias familias se encuentran en proceso de evacuación.
+         Situación actual:
+                             Estas serán acogidas por otras familias o trasladadas a propiedades de las mismas familias ubicadas en las provincias
+                                                 Dirección de Monitoreo de Eventos Adversos
+                         REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                               Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 5 de 7
+                             de Sucumbíos, Orellana y Pichincha. El frente de erosión se encuentra en la abscisa 3+600, durante 120 días (30/11/2025).
+                             La vía Chaco - Lago Agrio esta cerrada.
+                             Ruta alterna: Sucumbios-Orellana-Y de Narupa-Tena-Puyo Ambato-Quito o viceversa. Las clases se desarrollan de forma
+                             no presencial en San Luis.
+                             Desde el 2020 a la fecha las afectaciones son las siguientes:
+                             - 988 Personas Afectadas indirectas.
+                             - 61 Personas Damnificadas.
+                             - 77 Personas Afectadas.
+                             - 74 Personas Evacuadas.
+                             - 5 familias en proceso de evacuación
+                             - 5 Viviendas destruidas.
+                             - 18 Viviendas afectadas. (con grietas)
+                             - 1290 Metros de vía afectadas.
+                             - 1 escuela afectada de manera estructural (fisuras) y funcional.
+         Afectaciones:       - 1 Centro de Salud afectado. (tiene fisuras) (no esta operativo por la perdida de la vía en San Carlos)
+                             - 6 Bienes públicos afectados: 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el
+                             hundimiento ocurrido el 07/04/2020); 1 tubería de agua potable de San Luis y 1 Torre de soporte de tubería tipo H e
+                             infraestructura eléctrica. (02/07/2025)
+                             - 6 Puentes destruidos: Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2, Puente sobre el río Marker,
+                             Puente colgante San Carlos y puente sobre el río Loco (11/08/2025).
+                             - 6 Bienes privados afectados: fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas)
+                             (05/09/2023), un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus
+                             de la Cooperativa Putumayo (24/11/2023)
+                             - 100,03 ha de Cultivo perdido
+                             - 3448 Animales de granja afectados y muertos
+                             GAD Municipal de El Chaco, Cuerpo de Bomberos de El Chaco Policía Nacional, Prefectura de Napo, Comisión Río Coca,
+                             GAD Parroquial Gonzalo Díaz de Pineda, Compañía Cascada Mágica, Gobernación de Napo junto al programa Jóvenes en
+                             Acción, MIT y el CCGR de San Luis coordinan la evacuación de las familias de San Luis. Una de las rutas habilitadas para
+                             este proceso será la nueva variante San Luis - Reventador, cuyo uso fue articulado mediante el COE Cantonal de El
+                             Chaco
+                             Comisión Ejecutora Rio Coca de CELEC EP continúan con la construcción de las obras temporales y permanentes como
+         Acciones de
+         respuesta:
+                             el dique permeable que reporta un avance del 81,18 %; esta estructura se está desarrollado conjuntamente por CELEC
+                             EP y el Cuerpo de Ingenieros del Ejército de los Estados Unidos (USACE). El Gobierno Nacional se prepara para suscribir
+                             un acuerdo de Operación y Mantenimiento de la Hidroeléctrica Coca Codo Sinclair con PowerChina.
+                             MIT junto con OCP Ecuador, Petroecuador, CELEC EP y apoyo de la Prefectura de Sucumbios y GAD de Gonzalo Pizarro
+                             continúan con los trabajos para habilitar la nueva variante
+                             SNGR realiza el monitoreo del evento y junto a GAD Municipal de El Chaco gestionarán los bonos para las familias
+                             damnificadas.
+
+         Fuentes de          SNGR CZ2 Umeva Napo-Orellana/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de Bomberos
+         información:        El Chaco
+
+
+ZONA 9
+
+
+         Granizada
+                             Pichincha/Cayambe/Cangahua/Cangahua, Quinchucaja, San Vicente, Pucará, Cochapamba, Pitana Alto, Lote 2 , Lote 3 y
+         Localización:
+                             Pingulmí
+                             El 14/10/2025, por condiciones atmosféricas se presentaron lluvias fuertes y granizada, que provocó acumulación de 10 cm.
+         Antecedentes:
+                             de granizo en techos de viviendas, invernaderos vía y cultivos.
+                             Se entregó productos de bioinsumos (presentación de sacos y litros) y fertilizantes naturales con acompañamiento técnico
+         Situación actual:
+                             para los productores afectados de cultivos en cebollas, rosas entre otros.
+                             - 1 persona herida (caída en un invernadero)
+                             - 279 familias afectadas (343 personas)
+                             - 561 familias damnificadas (734 personas)
+                             - 1.067 has de cultivos afectados (Flores, cebollas, pastizales y otros)
+         Afectaciones:       - 58 viviendas afectadas (habitables)
+                             - 7 viviendas destruidas
+                             - 2% afectación a la distribución de agua de consumo humano
+                             - 15% afectación al sistema de alcantarillado pluvial
+                             - 1 bien público afectado (servicio electricidad: líneas de trasmisión, transformadores y fusibles)
+                                                                            Dirección de Monitoreo de Eventos Adversos
+                                        REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                                                                 Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 6 de 7
+                                                  - 23.700 metros lineales de vías afectadas (habilitada)
+                                                  - 138 hectáreas afectadas (bienes privados invernaderos)
+                                                  - 3 unidades educativas afectadas (IE Padre Juan De Velasco, IE Luis Humberto Salgado,IE José Francisco Aigaje)
+                       Acciones de                GAD Provincial de Pichincha entregó productos de bioinsumos (presentación de sacos y litros) y fertilizantes naturales con
+                       respuesta:                 acompañamiento técnico para los productores afectados de cultivos en cebollas, rosas entre otros.
+                       Fuentes de
+                       información:
+                                                  SNGR CZ9 Umeva Pichincha GAD Pichincha/GAD Cantonal UGR Cayambe/SNGR Unidad de Respuesta
+
+
+
+     3. Monitoreo de estado de vías afectadas por eventos adversos
+
+ 01 VÍAS DE PRIMER ORDEN CERRADAS:
+                                                                                                                               Afectación
+                                                                                                                                            Fecha del
+No.       Provincia          Cantón            Parroquia                      Sector/Vía                     Evento adverso        (mts                                   Vías alternas
+                                                                                                                                             evento
+                                                                                                                                lineales)
+                                             Gonzalo Díaz de     Puente sobre el río Loco, vía El Chaco -                                                 Lago Agrio - Coca - Narupa - Tena- Ambato-
+ 1          Napo            El Chaco                                                                         EROSIÓN HIDRICA       250      01/07/2025
+                                                 Pineda                     Lago Agrio[E45)                                                                                  Quito.
+
+
+
+ 15 VÍAS DE PRIMER ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                               Afectación
+                                                                                                                 Evento                     Fecha del
+No.       Provincia          Cantón            Parroquia                       Sector/Vía                                          (mts                                   Vías alternas
+                                                                                                                adverso                      evento
+                                                                                                                                lineales)
+                                                                Panamericana[E-35] - Sector Carpuela -
+     1     Imbabura           Ibarra            Ambuquí                                                      DESLIZAMIENTO        60        22/11/2025   Habilitado un paso provisional al lado de la vía.
+                                                                             Ambuquí
+                                                                   sector de Gualiñag, vía Riobamba -
+     2    Chimborazo         Guamote            Cebadas                                                         ALUVIÓN            15       31/10/2025         Riobamba - Ambato- Puyo – Macas
+                                                                        Cebadas - Macas [E-46]
+                                                                                                                                                          Baeza - Y de Dayuma - Loreto - Coca - Lago
+     3    Sucumbíos       Gonzalo Pizarro     El Reventador     La Libertad - El Reventador km 93 - [E 45]   DESLIZAMIENTO        45        16/06/2025
+                                                                                                                                                                            Agrio.
+     4      Azuay            Cuenca             Molleturo         Km 53, vía Cuenca-Molleturo [E-582]        SOCAVAMIENTO          25       02/01/2025              vía Cuenca-Girón-Pasaje.
+                                             Gonzalo Díaz de      Piedra Fina, vía El Chaco-Reventador
+     5       Napo            El Chaco                                                                        SOCAVAMIENTO          --       20/05/2024                       Ninguna
+                                                 Pineda                            [E45]
+                                                                San Jerónimo-Guadual; vía Salinas – Lita
+     6     Imbabura           Ibarra            Carolina                                                     DESLIZAMIENTO        125       22/12/2023                       Ninguna
+                                                                            km 114 [E10]
+                                                                  Malimpia, E20 pasando el basurero a
+     7    Esmeraldas         Quinindé           Malimpia                                                     SOCAVAMIENTO         30        03/04/2023                       Ninguna
+                                                                             mano derecha
+            Morona                          Yunganza (Cab. En Km 35, El Rosario, vía Bella Unión – Limón
+     8                    Limón Indanza                                                                      DESLIZAMIENTO        30        04/03/2023                       Ninguna
+           Santiago                            el rosario)                      [E45]
+                                                                La Rinconada 5 Cerros, vía Puerto López –
+     9      Manabí         Puerto López          Salango                                                      HUNDIMIENTO          4        28/08/2022                       Ninguna
+                                                                           Santa Elena [E15].
+ 10         Manabí            Sucre          Leonidas Plaza       Km 19, San Agustín-Tosagua [E-383]          SUBSIDENCIA         150       14/08/2022                       Ninguna
+                                                                km 38 + 600, vía Alóag – Unión del Toachi
+     11    Pichincha           Mejía        Manuel Cornejo A.                                                 HUNDIMIENTO          15       25/02/2022                       Ninguna
+                                                                                  [E20]
+                                               Rosa Zarate        Km 68 Los Vergeles, vía Esmeraldas –
+ 12       Esmeraldas         Quinindé                                                                         HUNDIMIENTO         40        8/02/2022                        Ninguna
+                                                (Quinindé)                  Quinindé [E20]
+                                                                                                                                                          1.- Ruta desde la E10 Guallupe – San Juan de
+                                                                                                                                                         Lachas (Carchi) – por la E 182 Gualchan – Chical
+ 13        Imbabura           Ibarra            Carolina          San Jerónimo; vía Salinas – Lita [E 10]    DESLIZAMIENTO        225       22/12/2021       – Maldonado – Tulcán – Ibarra , 2.- Para
+                                                                                                                                                          vehículos livianos, E10 desde San Jerónimo –
+                                                                                                                                                             Buenos Aires – Cahuasqui – Tumbabiro.
+                                                                   Vía El tambo – Ingapirca – Honorato
+ 14         Cañar             Cañar             Ingapirca                                                    DESLIZAMIENTO        100       24/11/2021                       Ninguna
+                                                                         Vásquez km 8+100, km 15
+                                             Gonzalo Díaz De
+                                                                  San Rafael, Piedra Fina, San Luis, San                                                    Lago Agrio – Coca – Y de Narupa – Tena –
+ 15          Napo            El Chaco          Pineda (El                                                    SOCAVAMIENTO         1040      2/02/2020
+                                                                 Carlos, Vía Y de Baeza-Lago Agrio [E45]                                                                 Ambato – Quito
+                                                Bombón)
+                                                                             Dirección de Monitoreo de Eventos Adversos
+                                           REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0727
+                                                                                                                     Fecha y Hora de actualización: miércoles, 10 de diciembre de 2025 – 10:57:11 / Página 7 de 7
+ 05 VÍAS DE SEGUNDO ORDEN CERRADAS:
+                                                                                                                                     Afectación         Fecha del
+No.        Provincia        Cantón              Parroquia                        Sector/Vía                   Evento Adverso                                                   Vías alternas
+                                                                                                                                    (mts lineales)       evento
+                                                                       Catzuquí de Moncayo, Quebrada
+  1        Pichincha           Quito            El Condado                                                       HUNDIMIENTO              18            14/10/2025               por Pisulí.
+                                                                                Chizaguaico
+ 2        Santa Elena       Salinas              Anconcito                 Vía al Puerto Pesquero                SOCAVAMIENTO             5             14/03/2023                 Ninguna
+                                                                     Calles Hermano Miguel y Panzaleo,
+ 3         Pichincha           Quito             Conocoto                                                        SOCAVAMIENTO            30             28/02/2022                 Ninguna
+                                                                               cruce de vías
+                                                                        Rosas, Bellavista, Tamboloma,
+ 4           Azuay             Nabón              Nabón                                                          DESLIZAMIENTO           50             14/03/2021       Corraleja-Yasudel-Susudel
+                                                                                 Chunazana
+                                            Pimampiro, Cabecera
+ 5         Imbabura       Pimampiro                                          San José de Aloburo                 DESLIZAMIENTO           500            09/11/2021      Vía Narchimbuela - Pimampiro
+                                                 Cantonal
+
+
+
+ 01 VÍA DE SEGUNDO ORDEN PARCIALMENTE HABILITADA:
+                                                                                                                                      Afectación
+                                                                                                                                                        Fecha del
+ No        Provincia        Cantón              Parroquia                        Sector/Vía                      Evento Adverso           (mts                                 Vías alternas
+                                                                                                                                                         evento
+                                                                                                                                       lineales)
+  1          Napo              Tena               Ahuano            Ahuano, vía Ahuano-Campana Cocha              SOCAVAMIENTO            150           02/07/2024                 Ninguna
+
+
+
+ 05 VÍAS DE TERCER ORDEN CERRADAS:
+                                                                                                                                     Afectación         Fecha del
+No.        Provincia        Cantón              Parroquia                        Sector/Vía                   Evento Adverso                                                   Vías alternas
+                                                                                                                                    (mts lineales)       evento
+                                                                    Central Hidroeléctrica Saymirin-Santa
+  1          Azuay          Cuenca              Chiquintad                                                       DESLIZAMIENTO           30             05/11/2025                 Ninguna
+                                                                               Teresita y Simar
+                                                                     Ushco, vía Tambillo – Panamericana
+ 2         Pichincha           Mejía             Tambillo                                                         INUNDACIÓN             20             10/04/2022                 Ninguna
+                                                                                    Sur
+                                                                      Vía de ingreso a las Comunidades
+                                              Manuel Cornejo
+ 3         Pichincha           Mejía                                Peñas Blancas, El Paraíso, El Mirador y      DESLIZAMIENTO           140            08/02/2022                 Ninguna
+                                             Astorga (Tandapi)
+                                                                                San Francisco
+                                                                     Playas de San Luis, vía Santa María
+            Morona
+ 4                          Morona                 Sinaí             Tunants-Playas de San Luis-Quinta            INUNDACIÓN            3884            02/05/2021                 Ninguna
+           Santiago
+                                                                                Cooperativa
+ 5           Azuay          Cuenca                 Nulti            Pasto Romero, vía al centro Parroquial       DESLIZAMIENTO           30             16/04/2021                 Ninguna
+
+
+
+ 02 VÍAS DE TERCER ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                                        Afectación          Fecha del
+No.        Provincia             Cantón               Parroquia                      Sector/Vía                    Evento Adverso                                                Vías alternas
+                                                                                                                                       (mts lineales)        evento
+                                                                        La Quesera, Cuturivi Chico - El Batán,
+ 1         Cotopaxi               Pujilí                   Pujilí                                                   HUNDIMIENTO                150         02/06/2025               Ninguna
+                                                                        vía Isinche La Gloria – Cuturivi Chico
+                                                                                                                                                                        paso alterno a la vía San Antonio-
+ 2           Cañar                Cañar               Gualleturo                 Comunidad de Enén                  DESLIZAMIENTO              120         22/02/2025
+                                                                                                                                                                                   Gualleturo.
+
+
+ Reporte generado por la Dirección de Monitoreo de Eventos Adversos de la Secretaría Nacional de Gestión de Riesgos.
+
+      Reporte elaborado por:                                                                               Reporte revisado por:
+      Nombre: Saulo Murillo - Digitador Nacional de Eventos Adversos                                       Nombre: Cristian Mazorra. - Analista de Monitoreo de Eventos Adversos
+      Correo electrónico saulo.murillo@gestionderiesgos.gob.ec                                             Correo electrónico:cristian.mazorra@gestionderiesgos.gob.ec
+      Teléfono: 042593500 ext. 1630                                                                        Teléfono: 042593500 ext. 1603
+                        Para ser agregado o removido de esta lista de destinatarios, por favor envíe un correo electrónico a sala.nacional@gestionderiesgos.gob.ec
+
+           Para más información, visite nuestro sitio web: https://www.gestionderiesgos.gob.ec/reportes-de-monitoreo-de-amenazas-y-eventos-peligrosos/
+

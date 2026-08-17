@@ -1,0 +1,949 @@
+{
+  "metadata": {
+    "report_name": "REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0230",
+    "start": "2026/04/24 21:00:00",
+    "end": "2026/04/25 09:00:00",
+    "last_update": "2026/04/25 08:22:06"
+  },
+  "section_1": {
+    "section": "Threat Monitoring",
+    "tables": {
+      "volcanic_hazard": {
+        "columns": [
+          "location",
+          "declared_alert_level",
+          "current_situation",
+          "current_assessment"
+        ],
+        "rows": [
+          [
+            "Volcán Reventador Napo",
+            "NARANJA",
+            "08:00 Sin reporte de novedades.",
+            "VERDE"
+          ],
+          [
+            "Volcán Chiles-Cerro Negro Carchi",
+            "AMARILLA",
+            "08:00 Sin reporte de novedades.",
+            "VERDE"
+          ],
+          [
+            "Volcán Sangay Morona Santiago",
+            "AMARILLA",
+            "08:00 Sin reporte de novedades.",
+            "VERDE"
+          ],
+          [
+            "Volcán Cotopaxi",
+            "Sin alerta declarada",
+            "08:00 Sin reporte de novedades.",
+            "VERDE"
+          ],
+          [
+            "Volcán Guagua Pichincha",
+            "Sin alerta declarada",
+            "08:00 Sin reporte de novedades.",
+            "VERDE"
+          ]
+        ]
+      },
+      "water_body_overflow": {
+        "overflowed_water_bodies": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": []
+        },
+        "water_bodies_rising_level": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": []
+        }
+      },
+      "forest_fires": {
+        "active_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": []
+        },
+        "controlled_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": []
+        }
+      },
+      "dams_and_reservoirs": {
+        "columns": [
+          "resource",
+          "minimum_level",
+          "current_level",
+          "maximum_level",
+          "cutoff_time",
+          "assessment"
+        ],
+        "rows": [
+          [
+            "Molino, Azuay",
+            1990.95,
+            1979.38,
+            1991.0,
+            "08:00",
+            "VERDE"
+          ],
+          [
+            "Mazar, Azuay",
+            2138.05,
+            2135.9,
+            2153.45,
+            "08:00",
+            "VERDE"
+          ],
+          [
+            "Daule Peripa, Guayas",
+            70.0,
+            79.35,
+            85.0,
+            "08:10",
+            "VERDE"
+          ],
+          [
+            "Central Baba, Los Ríos",
+            115.0,
+            116.02,
+            116.0,
+            "08:10",
+            "VERDE"
+          ],
+          [
+            "Chongón, Guayas",
+            44.5,
+            "--",
+            55.15,
+            "--",
+            "--"
+          ],
+          [
+            "El Azúcar, Santa Elena",
+            40.0,
+            "--",
+            45.09,
+            "--",
+            "--"
+          ],
+          [
+            "San Vicente, Santa Elena",
+            50.0,
+            "--",
+            58.0,
+            "--",
+            "--"
+          ],
+          [
+            "La Esperanza, Manabí",
+            53.4,
+            61.22,
+            66.0,
+            "08:10",
+            "VERDE"
+          ],
+          [
+            "Poza Honda, Manabí",
+            104.29,
+            101.1,
+            106.51,
+            "08:10",
+            "VERDE"
+          ],
+          [
+            "Multipropósito Chone, Manabí",
+            48.0,
+            48.83,
+            68.5,
+            "08:10",
+            "VERDE"
+          ],
+          [
+            "Agoyán, Tungurahua",
+            1645.0,
+            "--",
+            1651.0,
+            "--",
+            "--"
+          ],
+          [
+            "Pucará-Pisayambo, Tungurahua",
+            3541.0,
+            "--",
+            3565.0,
+            "--",
+            "--"
+          ]
+        ]
+      },
+      "hydrometeorological_situation": {
+        "warning_number": null,
+        "hazard": {
+          "original": "",
+          "primary_family": "",
+          "phenomena": [],
+          "associated_risks": []
+        },
+        "validity_start": "",
+        "validity_end": "",
+        "description": "",
+        "affected_areas": "",
+        "source": "",
+        "original_narrative": ""
+      },
+      "seismic_hazard": {
+        "columns": [
+          "local_datetime",
+          "magnitude",
+          "depth",
+          "near",
+          "felt_by_population"
+        ],
+        "rows": [
+          [
+            "---",
+            "---",
+            "---",
+            "---",
+            "---"
+          ]
+        ]
+      },
+      "other_tables": []
+    }
+  },
+  "section_2": {
+    "section": "Adverse Event Monitoring",
+    "zones": {
+      "2": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2026/04/20",
+            "location": {
+              "original_narrative": "Orellana / Francisco de Orellana / Taracoa / Centro Poblado",
+              "province": "Orellana",
+              "canton": "Francisco de Orellana",
+              "parish": "Taracoa",
+              "sectors": [
+                "Centro Poblado"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a las intensas lluvias registradas el 20/04/2026 en la parte alta del río Indillama, se produce al momento su\ndesbordamiento, lo que ocasiona una inundación en la vía Palanda y en los predios de algunas viviendas."
+            },
+            "current_situation": {
+              "original_narrative": "El río se mantiene desbordado en el puente y en otro tramo de la vía hacia a Palanda. MINEDEC resolvió cambiar la\nmodalidad a no presencial en la Unidad Educativa Nueva Esperanza y Benjamin Carrion. En la cabecera parroquial se ha\nrestablecido paulatinamente la energía eléctrica."
+            },
+            "impacts": {
+              "original_narrative": "- Puente afectado: 1\n- Porcentaje de servicio eléctrico afectado: 100% (se ha restablecido aprox. la mitad de la parroquia)"
+            },
+            "response_actions": {
+              "original_narrative": "CNEL realiza la rehabilitación del servicio. Tenencia Politica de Taracoa realiza seguimiento.\nMINEDEC informó que coordinó acciones para garantizar las actividades educativas en los dos establecimientos debido\nfalta de acceso por la inundación en la vía a Palanda.\nSNGR coordinó con CNEL, la reparación.\nMINEDEC informó sobre el evento.\nSNGR coordinó con GAD Parroquial el monitoreo y seguimiento del evento."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ2 Umeva Napo-Orellana/MINEDEC/ GAD Parroquial de Taracoa/ CNEL"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2026/04/20",
+            "location": {
+              "original_narrative": "Orellana/Francisco de Orellana/Dayuma/km 37-sector San Pedro, vía Coca - Dayuma[E45A]",
+              "province": "Orellana",
+              "canton": "Francisco de Orellana",
+              "parish": "Dayuma",
+              "sectors": [
+                "km 37-sector San Pedro"
+              ],
+              "other_locations": [
+                "vía Coca - Dayuma[E45A]"
+              ]
+            },
+            "background": {
+              "original_narrative": "El 20/04/2026 por lluvias desde la madrugada hasta el momento, se produjo el incremento del caudal del río Salado Bajo\ny su desbordamiento, como consecuencia varias viviendas se encuentran inundadas, además se produjo el colapso de\nalcantarillas y erosión del material que formaba parte de la calzada de la vía de primer orden."
+            },
+            "current_situation": {
+              "original_narrative": "La vía está cerrada. El río nuevamente se encuentra desbordado debido a las lluvias. Ruta alterna: Coca - vía La Belleza\n- Sol de Oriente - Puma - Dayuma."
+            },
+            "impacts": {
+              "original_narrative": "- Familias afectadas: /En evaluación\n- Viviendas afectadas: /En evaluación\n- Vías afectadas: 1 /En atención\nPetroecuador habilitó el paso en el sector afectado. El GAD Municipal de Francisco de Orellana realizó una inspección en\nel lugar del evento, informando que no se evidencian afectaciones a viviendas."
+            },
+            "response_actions": {
+              "original_narrative": "Por su parte, la Teniente Política del MDG efectuará en horas de la tardes del 22/04/2026 un recorrido en la zona con el\nfin de verificar y determinar la posible existencia de otras afectaciones.\nMINEDEC informó sobre la situación actual, se coordinará con MIT la atención de la vía.\nPolicía Nacional realizó un recorrido por los sectores afectados."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ2 Umeva Napo-Orellana/ GAD Parroquial /MINEDEC"
+            }
+          },
+          {
+            "event_type": "Erosión hídrica",
+            "event_start_date": "2020/02",
+            "location": {
+              "original_narrative": "Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-Lago\nAgrio [E45].",
+              "province": "Napo",
+              "canton": "El Chaco",
+              "parish": "Gonzalo Díaz De Pineda (El Bombón)",
+              "sectors": [
+                "San Rafael",
+                "Piedra Fina 2",
+                "San Luis",
+                "San Carlos"
+              ],
+              "other_locations": [
+                "vía Y de Baeza-Lago Agrio [E45]."
+              ]
+            },
+            "background": {
+              "original_narrative": "Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias\nviviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de\nSOTE, Poliducto Shushufindi – Quito y OCP.\nSe mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja.\nEl 11/02/2023, MTOP declaró emergencia la RVE E45, afectada por la erosión regresiva del río. EL COE Chaco está activo."
+            },
+            "current_situation": {
+              "original_narrative": "El frente de erosión se ubica en la abscisa 3+600, con un avance registrado durante 256 días (al 16/04/2026). La vía en el\ntramo San Luis - Reventador se encuentra CERRADA por trabajos en el sector Nariz del Diablo hasta las 18:00 del 19 de\nabril."
+            },
+            "impacts": {
+              "original_narrative": "Desde el 2020 a la fecha las afectaciones son las siguientes:\n- 988 Personas Afectadas indirectas.\n- 135 Personas Damnificadas. (39 personas en proceso de atención - bonos)\n- 82 Personas Afectadas.\n- 164 Personas Evacuadas.\n- 29 Viviendas destruidas.\n- 10 Viviendas afectadas (con grietas)\n- 1400 Metros de vía afectadas.\n- 1 escuela afectada de manera estructural (fisuras) y funcional.\n- 1 Centro de Salud afectado. (tiene fisuras) (no esta operativo por la perdida de la vía en San Carlos)\n- 6 Bienes públicos afectados: 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el\nhundimiento ocurrido el 07/04/2020); 1 tubería de agua potable de San Luis y 1 Torre de soporte de tubería tipo H e\ninfraestructura eléctrica. (02/07/2025)\n- 6 Puentes destruidos: Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2, Puente sobre el río Marker,\nPuente colgante San Carlos y puente sobre el río Loco (11/08/2025).\n- 6 Bienes privados afectados: fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas)\n(05/09/2023), un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus\nde la Cooperativa Putumayo (24/11/2023)\n- 100,03 ha de Cultivo perdido\n- 3448 Animales de granja afectados y muertos"
+            },
+            "response_actions": {
+              "original_narrative": "18/04/2026: MIT, con apoyo de OCP, Petroecuador y CELEC EP, continúa trabajos de mantenimiento de la variante E45\nen el sector del río Loco, construcción del canal de desvío del río Coca y protección de márgenes de los ríos Loco y Malo.\n16/04/2026: La Comisión Ejecutora Río Coca de CELEC EP ejecuta obras temporales y permanentes, en coordinación\ncon el Cuerpo de Ingenieros del Ejército de los Estados Unidos (USACE).\n08/04/2026: El Ministerio de Desarrollo Humano gestiona autorización para bonos.\nSNGR, GAD El Chaco y comités comunitarios realizan monitoreo continuo.\nPolicía Nacional ejecuta control vehicular."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ2 Umeva Napo-Orellana/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de Bomberos\nEl Chaco"
+            }
+          }
+        ]
+      },
+      "9": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2026/04/16",
+            "location": {
+              "original_narrative": "Pichincha /Quito/ Pacto/Pacto- Pacto Loma, Armenia -Pacto, Pacto- San Jose Ingapi- San Francisco de Pachijal, Pacto\nParaíso Sanguangal",
+              "province": "Pichincha",
+              "canton": "Quito",
+              "parish": "Pacto",
+              "sectors": [
+                "Pacto- Pacto Loma",
+                "Armenia -Pacto",
+                "Pacto- San Jose Ingapi- San Francisco de Pachijal",
+                "Pacto Paraíso Sanguangal"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 16/04/2026, por lluvias, se reportan varios deslizamientos que obstaculizó totalmente vías de segundo y tercer orden."
+            },
+            "current_situation": {
+              "original_narrative": "El Puesto de Mando Unificado se mantiene activo, el día de hoy 24-04-2026 se continuo con la búsqueda de la persona\nextraviada y, las vías de segundo y tercer orden se encuentran habilitadas, además en el lugar se realizó el retiro de\nescombros en algunos puntos."
+            },
+            "impacts": {
+              "original_narrative": "- 1 persona fallecida (menor de edad) / EN ATENCIÓN\n- 1 persona extraviada (adulto) / EN ATENCIÓN\n- 20 personas afectadas / EN ATENCIÓN\n- 8 viviendas afectadas/ EN ATENCIÓN\n- 600 metros lineales vías de segundo y tercer orden / EN ATENCIÓN EN OTROS SECTORES\n- Porcentaje de Servicio de Electricidad Afectado (100%) / FINALIZADO"
+            },
+            "response_actions": {
+              "original_narrative": "- 1 bien privado afectado (vehículo)/ FINALIZADO\nSe mantiene despliegue interinstitucional con recursos terrestres, caninos y aéreos (RPAS), ejecutando operaciones de\nbúsqueda en varios frentes (senderos y río arriba). La coordinación entre equipos en territorio y monitoreo aéreo\npermite identificar puntos de interés y optimizar el rastreo en la quebrada del río Pishashi, en la parroquia Pacto.\nEl 22/04/2026 se realizaron las operaciones de búsqueda sin obtener resultados positivos, las cuales fueron retomadas\nla mañana del 23/04/2026, a las 07h00; asimismo, el GAD Cantonal del DMQ llevó a cabo la evaluación inicial de daños\nen los predios afectados, determinando las afectaciones existentes y emitiendo las recomendaciones técnicas\ncorrespondientes para sus propietarios, con el fin de precautelar su integridad."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ9 Umeva Pichincha GAD Cantonal COEM/Cuerpos de Bomberos DMQ"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "section_3": {
+    "section": "Road Status Monitoring Due to Adverse Events",
+    "tables": {
+      "first_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Bolívar",
+            "Chillanes",
+            "Chillanes",
+            "Vista Alegre km 37,5, vía Chillanes-Bucay [E465]",
+            "DESLIZAMIENTO",
+            30,
+            "2026/04/22",
+            "La Miran – Bucay."
+          ]
+        ]
+      },
+      "first_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Azuay",
+            "Cuenca",
+            "Molleturo",
+            "km 62, Vía Cuenca-Molleturo-Naranjal [E- 582]",
+            "DESLIZAMIENTO",
+            20,
+            "2026/04/24",
+            "Ninguna"
+          ],
+          [
+            "Guayas",
+            "General Antonio Elizalde(Bucay)",
+            "General Antonio Elizalde(Bucay)",
+            "Av General Elizalde como referencia frente al mercado de construcción",
+            "DESLIZAMIENTO",
+            15,
+            "2026/04/21",
+            "vía alterna: Eloy Alfaro y Raúl Valdés."
+          ],
+          [
+            "Azuay",
+            "Cuenca",
+            "Molleturo",
+            "km 92, km 96 Vía Cuenca-Molleturo- Naranjal [E-582]",
+            "DESLIZAMIENTO",
+            50,
+            "2026/04/16",
+            "Zhud-Cochancay-El Triunfo."
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz de Pineda",
+            "Sector Quebrada Nariz del Diablo, vía Chaco - Reventador[E45]",
+            "EROSIÓN HIDRICA",
+            "--",
+            "2026/04/03",
+            "parcialmente habilitada para vehículos pequeños, no hay lluvias. RUTA ALTERNA: Baeza- Narupa- Coca- Lago Agrio"
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz de Pineda",
+            "puente sobre el rio Marker, vía Chaco - Reventador",
+            "EROSIÓN HIDRICA",
+            "--",
+            "2026/04/03",
+            "tramo Santa Rosa - Reventador la circulación será restringida a partir de las 20:00 para vehículos pesados. Ruta: alterna: Baeza - Narupa - Coca - Lago Agrio."
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz de Pineda",
+            "Piedra Fina, San Rafael, vía El Chaco - Reventador [E45]",
+            "EROSIÓN HIDRICA",
+            "--",
+            "2026/04/03",
+            "rutas alternas: Baeza- Narupa- Coca- Lago Agrio."
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz de Pineda",
+            "Piedra Fina, vía El Chaco-Reventador [E45]",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/05/20",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Carolina",
+            "San Jerónimo-Guadual; vía Salinas – Lita km 114 [E10]",
+            "DESLIZAMIENTO",
+            125,
+            "2023/12/22",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Malimpia",
+            "Malimpia, E20 pasando el basurero a mano derecha",
+            "SOCAVAMIENTO",
+            30,
+            "2023/04/03",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Limón Indanza",
+            "Yunganza (Cab. En Km 35, El Rosario, vía Bella Unión – Limón el rosario)",
+            "[E45]",
+            "DESLIZAMIENTO",
+            30,
+            "2023/03/04",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Puerto López",
+            "Salango",
+            "La Rinconada 5 Cerros, vía Puerto López – Santa Elena [E15].",
+            "HUNDIMIENTO",
+            4,
+            "2022/08/28",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Sucre",
+            "Leonidas Plaza",
+            "Km 19, San Agustín-Tosagua [E-383]",
+            "SUBSIDENCIA",
+            150,
+            "2022/08/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo A.",
+            "km 38 + 600, vía Alóag – Unión del Toachi [E20]",
+            "HUNDIMIENTO",
+            15,
+            "2022/02/25",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Rosa Zarate (Quinindé)",
+            "Km 68 Los Vergeles, vía Esmeraldas – Quinindé [E20]",
+            "HUNDIMIENTO",
+            40,
+            "2022/02/08",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Carolina",
+            "San Jerónimo; vía Salinas – Lita [E 10]",
+            "DESLIZAMIENTO",
+            225,
+            "2021/12/22",
+            "1.- Ruta desde la E10 Guallupe – San Juan de Lachas (Carchi) – por la E 182 Gualchan – Chical – Maldonado – Tulcán – Ibarra , 2.- Para vehículos livianos, E10 desde San Jerónimo – Buenos Aires – Cahuasqui – Tumbabiro."
+          ],
+          [
+            "Cañar",
+            "Cañar",
+            "Ingapirca",
+            "Vía El tambo – Ingapirca – Honorato Vásquez km 8+100, km 15",
+            "DESLIZAMIENTO",
+            100,
+            "2021/11/24",
+            "Ninguna"
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz De Pineda (El Bombón)",
+            "San Rafael, Piedra Fina, San Luis, San Carlos, Vía Y de Baeza-Lago Agrio [E45]",
+            "SOCAVAMIENTO",
+            1040,
+            "2020/02/02",
+            "Lago Agrio – Coca – Y de Narupa – Tena – Ambato – Quito"
+          ]
+        ]
+      },
+      "second_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Loja",
+            "Loja",
+            "El Cisne",
+            "El Cisne, Cabecera Parroquial",
+            "DESLIZAMIENTO",
+            20,
+            "2026/04/21",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Pacto",
+            "La Delicia y Toalí",
+            "DESLIZAMIENTO",
+            "--",
+            "2026/04/20",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "San José de Minas",
+            "Via Quitzaya",
+            "DESLIZAMIENTO",
+            "--",
+            "2026/04/20",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "La Mena",
+            "Vencedores de Pichincha – OE9E Y OE9B",
+            "LLUVIAS INTENSAS",
+            "--",
+            "2026/04/14",
+            "Ninguna"
+          ],
+          [
+            "Santa Elena",
+            "Salinas",
+            "Anconcito",
+            "Vía al Puerto Pesquero",
+            "SOCAVAMIENTO",
+            5,
+            "2023/03/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Conocoto",
+            "Calles Hermano Miguel y Panzaleo, cruce de vías",
+            "SOCAVAMIENTO",
+            30,
+            "2022/02/28",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Nabón",
+            "Nabón",
+            "Rosas, Bellavista, Tamboloma, Chunazana",
+            "DESLIZAMIENTO",
+            50,
+            "2021/03/14",
+            "Corraleja-Yasudel-Susudel"
+          ],
+          [
+            "Imbabura",
+            "Pimampiro",
+            "Pimampiro, Cabecera Cantonal",
+            "San José de Aloburo",
+            "DESLIZAMIENTO",
+            500,
+            "2021/11/09",
+            "Vía Narchimbuela – Pimampiro"
+          ]
+        ]
+      },
+      "second_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Chimborazo",
+            "Alausí",
+            "Sibambe",
+            "Sibambe, vía Alausí - Huigra - El Triunfo [E-47].",
+            "HUNDIMIENTO",
+            "--",
+            "2026/04/24",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Guamote",
+            "Cebadas",
+            "Ichubamba, vía Riobamba - Cebadas - Macas [E-46]",
+            "DESLIZAMIENTO",
+            "--",
+            "2026/04/21",
+            "Ninguna"
+          ],
+          [
+            "Bolívar",
+            "Chillanes",
+            "Chillanes",
+            "vía Chillanes - Arrayampamba",
+            "DESLIZAMIENTO",
+            "--",
+            "2026/04/23",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Machachi",
+            "Parque Manantial de los Volcanes y Calle nueva España",
+            "HUNDIMIENTO",
+            "--",
+            "2026/04/03",
+            "Ninguna"
+          ],
+          [
+            "Napo",
+            "Tena",
+            "Ahuano",
+            "Ahuano, vía Ahuano-Campana Cocha",
+            "SOCAVAMIENTO",
+            150,
+            "2024/07/02",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Azuay",
+            "Pucará",
+            "San Rafael de Sharug",
+            "Vía Tendales a San Rafael",
+            "DESLIZAMIENTO",
+            80,
+            "2026/04/21",
+            "Minas Tablón Pucará"
+          ],
+          [
+            "Cotopaxi",
+            "Pujilí",
+            "Tingo la Esperanza",
+            "Puente altura del Recinto Guayacán",
+            "EROSIÓN HÍDRICA",
+            "--",
+            "2026/04/19",
+            "Ninguna"
+          ],
+          [
+            "El Oro",
+            "Piñas",
+            "Piñas",
+            "Cerro Pata Grande, Vía Cerro Pata Grande – Piñas",
+            "DESLIZAMIENTO",
+            30,
+            "2026/02/25",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Pablo Sexto",
+            "Pablo Sexto",
+            "Río Namakim",
+            "EROSIÓN HÍDRICA",
+            "--",
+            "2026/01/22",
+            "Namakim-Huamboya-Pablo Sexto."
+          ],
+          [
+            "Los Ríos",
+            "Ventanas",
+            "Zapotal",
+            "cerca a la entrada de CTE – UREM",
+            "HUNDIMIENTO",
+            20,
+            "2026/01/13",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Tambillo",
+            "Ushco, vía Tambillo – Panamericana Sur",
+            "INUNDACIÓN",
+            20,
+            "2022/04/10",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo Astorga (Tandapi)",
+            "Vía de ingreso a las Comunidades Peñas Blancas, El Paraíso, El Mirador y San Francisco",
+            "DESLIZAMIENTO",
+            140,
+            "2022/02/08",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Imbabura",
+            "Cotacachi",
+            "6 de Julio de Cuellaj",
+            "Las Palmas, Sector B Comunidad San Alberto",
+            "DESLIZAMIENTO",
+            50,
+            "2026/04/22",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Cotacachi",
+            "6 de Julio de Cuellaj",
+            "La Esperanza, vía Pueblo Viejo",
+            "DESLIZAMIENTO",
+            20,
+            "2026/04/21",
+            "Ninguna"
+          ],
+          [
+            "Carchi",
+            "Tulcán",
+            "Santa Marta de Cuba",
+            "vía San Vicente - Cuaspud, Chumban Alto, Loma La Palma y Loma Santo Tomas.",
+            "DESLIZAMIENTO",
+            80,
+            "2026/04/19",
+            "Ninguna"
+          ],
+          [
+            "El Oro",
+            "Portovelo",
+            "Salatí",
+            "Salati, vía Salatí - Ambocas - El Cisne - Loja",
+            "DESLIZAMIENTO",
+            50,
+            "2026/04/19",
+            "Villamao–Porotillo–Rio Luis–Portovelo."
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo Astorga",
+            "Sectores de Sarapullo Alto-Esperanza Alta y Tandapi",
+            "INUNDACIÓN",
+            "--",
+            "2026/04/16",
+            "Ninguna"
+          ],
+          [
+            "Tungurahua",
+            "Ambato",
+            "Pishilata",
+            "Techo Propio, Calle Jorge Borges y Gabriela Mistral, ref. En el letrero Bienvenido a Techo Propio",
+            "HUNDIMIENTO",
+            3,
+            "2026/03/31",
+            "Ninguna"
+          ],
+          [
+            "Orellana",
+            "Francisco de Orellana",
+            "San Luis de Armenias",
+            "Comunidad Patas Yacu, Vía comunidad 6 de Enero",
+            "EROSIÓN HÍDRICA",
+            "--",
+            "2026/03/24",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "San Miguel de los Bancos",
+            "Mindo",
+            "Vía el Cinto - Saloya",
+            "DESLIZAMIENTO",
+            "--",
+            "2026/03/10",
+            "Ninguna"
+          ],
+          [
+            "Orellana",
+            "La Joya de los Sachas",
+            "San Sebastián del",
+            "Sardinas, vía Sardinas – Lumbaqui",
+            "EROSIÓN HÍDRICA",
+            328,
+            "2026/01/09",
+            "Ninguna"
+          ],
+          [
+            "Cotopaxi",
+            "Pujilí",
+            "Pujilí",
+            "La Quesera, Cuturivi Chico - El Batán, vía Isinche La Gloria – Cuturivi Chico",
+            "HUNDIMIENTO",
+            150,
+            "2025/06/02",
+            "Ninguna"
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,682 @@
+                                                                                                         Secretaría Nacional de Gestión de Riesgos
+                                                                                                                      Dirección de Monitoreo de Eventos Adversos
+                                                     REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                                   Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 1 de 9
+                   Periodo de Monitoreo:                Desde:         21:00          12/02/2025                Hasta:         09:00             13/02/2025
+
+ 1. Monitoreo de amenazas
+      [ROJO]   Amenaza en desarrollo, posible desencadenamiento de eventos adversos.
+      [AMARILLO]   Amenaza en incremento y probable materialización inminente.
+      [VERDE]   Amenaza dentro de los parámetros normales.
+PELIGRO VOLCÁNICO:
+                                                                    Nivel de alerta
+                           Ubicación                                                                               Situación actual                                 Valoración actual
+                                                                      declarada
+
+                              Volcán Reventador
+                              Napo
+                                                                       NARANJA             06:00 Se visualiza el sector nublado                                             [VERDE]
+                              Volcán Chiles-Cerro Negro
+                              Carchi
+                                                                       AMARILLA            06:00 Sin reporte de actividad superficial.                                      [VERDE]
+                              Volcán Sangay
+                              Morona Santiago
+                                                                       AMARILLA            06:00 Se visualiza el sector nublado                                             [VERDE]
+
+                              Volcán Cotopaxi                                              06:00 Se visualiza el sector nublado                                             [VERDE]
+PELIGRO POR DESBORDAMIENTOS DE CUERPOS HÍDRICOS:
+04 cuerpos de agua desbordados:
+               Provincia                              Cantón                          Parroquia                           Sector                                  Nombre
+
+                Azuay                                 Giron                            Giron                          Caledóneas                               Sin Nombre
+
+                                                                                                            Puente de la comunidad de
+                Azuay                                 Giron                            Giron                                                                      Rircay
+                                                                                                                     Sulupali
+                                                                             Febres Cordero (Las
+               Los Ríos                             Babahoyo               Juntas) (Cab. en Mata de               Rcto. Los Álamos                             Chilintomo
+                                                                                    Cacao)
+               Los Ríos                             Montalvo                       Montalvo                     rcto. Salvador Allende                            Cristal
+
+18 cuerpos de agua con tendencia a subir el nivel:
+               Provincia                              Cantón                          Parroquia                           Sector                                  Nombre
+             Esmeraldas                             Quinindé                Rosa Zárate (Quinindé)         Rosa Zárate                                            Blanco
+                                                                          Quingue (Olmedo Perdomo
+             Esmeraldas                             Quinindé                                               Rosa Zárate                                          Quinindé
+                                                                                    Franco)
+             Esmeraldas                           Esmeraldas                     Esmeraldas          Isla Luis Vargas Torres                                   Esmeraldas
+                                              Alfredo Baquerizo           Alfredo Baquerizo Moreno
+               Guayas                                                                                      San Antonio                                        Los Amarillos
+                                                Moreno (Juján)                       (Juján)
+               Guayas                        Salitre (Urbina Jado)          El Salitre (Las Ramas)        Varios sectores                                         Vinces
+                                              Alfredo Baquerizo           Alfredo Baquerizo Moreno
+               Guayas                                                                                     Varios sectores                                      Chilintomo
+                                                Moreno (Juján)                       (Juján)
+               Guayas                                 Daule                           Daule              Varios Sectores                                          Daule
+               Los Ríos                            Urdaneta                         Ricaurte           Puente de Ricaurte                                       Catarama
+               Los Ríos                              Vinces                          Vinces,                  Vinces                                             Vinces
+               Los Ríos                            Babahoyo                  Clemente Baquerizo           Puertas Negras                                        San Pablo
+               Los Ríos                            Buena Fé                      Patricia Pilar            Puente Baba                                            Baba
+               Los Ríos                                                   San Jacinto de Buena Fé,
+                                                   Buena Fé                                                 Pto. Bajaña                                        Pto. Bajaña
+                                                                             Cabecera Cantonal
+            Chimborazo                             Pallatanga                     Pallatanga                Pallatanga                                          Río Coco
+            Chimborazo                             Pallatanga                     Pallatanga                Pallatanga                                        Rio Huitsitse
+                                                                             Huamboya, cabecera
+          Morona Santiago                          Huamboya                         cantonal             Dique Huamboya                                       Najembaime
+                                                                             Huamboya, cabecera       Relleno Sanitario, vía
+          Morona Santiago                          Huamboya                                                                                                    Sin nombre
+                                                                                    cantonal       Huamboya-Relleno Sanitario
+                                                                                                     Secretaría Nacional de Gestión de Riesgos
+                                                                                                                      Dirección de Monitoreo de Eventos Adversos
+                                                 REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                               Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 2 de 9
+                 El Oro                          Portovelo                      Portovelo                            Casco Urbano                             Río Amarillo
+                 El Oro                           Zaruma                         Salvias                                Salvias                               Rio Salvias
+
+
+
+PELIGRO POR APERTURA O COLAPSO DE PRESAS Y REPRESAS:
+
+                 Recurso                       Cota mínima                Cota Actual                Cota máxima                        Hora de corte                    Valoración
+ Molino, Azuay                                    1975.00                     --                           1990.50                            --                                [VERDE]
+ Mazar, Azuay                                     2138.05                     --                           2153.45                            --                                [VERDE]
+ Daule Peripa, Guayas                              70.00                     73.34                         85.00                            08:24                               [VERDE]
+ Central Baba, Los Ríos                            114.00                    116.15                        117.00                           01.00                               [VERDE]
+ Chongón, Guayas                                   44.50                       --                           55.15                            --                                 [VERDE]
+ El Azúcar, Santa Elena                            40.00                      --                           45.09                              --                                [VERDE]
+ San Vicente, Santa Elena                          50.00                     54.06                         57.49                             08:15                              [VERDE]
+ La Esperanza, Manabí                              53.40                     59.51                          66.00                            08:15                              [VERDE]
+ Poza Honda, Manabí                                104.29                   100.53                         106.51                            08:15                              [VERDE]
+ Multipropósito Chone, Manabí                      48.00                     5.45                           68.50                            08:15                              [VERDE]
+ Agoyán, Tungurahua                               1645.00                     --                           1651.00                            --                                --
+ Pucará-Pisayambo, Tungurahua                     3541.00                     --                           3565.00                            --                                --
+
+
+           DECLARATORIAS DE NIVELES DE ALERTA VIGENTES POR AMENAZAS Y/O EVENTOS ADVERSOS, VISITAR LA PÁGINA WEB:
+                          https://www.gestionderiesgos.gob.ec/niveles-de-alertas-y-declaratorias-vigentes-establecidas-por-la-
+
+
+   SITUACIÓN HIDROMETEOROLÓGICA:
+
+
+                                                                                                                                  ADVERTENCIA #09
+
+                                                                                                            AMENAZA: LLUVIAS, TORMENTAS ELÉCTRICAS Y RÁFAGAS DE VIENTO
+
+                                                                                                            Vigencia: desde 18:00 del 11 hasta las 10H00 del 17 de febrero 2025
+
+                                                                                            SITUACIÓN: Continuarán precipitaciones de alta intensidad en gran parte del Litoral, norte y sur
+                                                                                            de la región Interandina y de manera dispersa en la Amazonía. Se prevé que los eventos de
+                                                                                            mayor relevancia se presenten los días 13, 14 y 16 de febrero entre horas de la tarde y
+                                                                                            madrugada
+
+                                                                                            ZONAS AFECTADAS
+
+                                                                                            -Región Litoral: Lluvias de alta y muy alta intensidad en gran parte de la región
+
+                                                                                            -Región Sierra: Lluvias con mayor intensidad en la zona norte y sur, en especial en Pichincha,
+                                                                                            Carchi, Bolívar, Azuay y Loja.
+
+                                                                                            -Región Amazonía: Precipitaciones de mayor recurrencia en Zamora, Morona Santiago y
+                                                                                            Napo.
+
+                                                                                            -Región Insular: Lluvias de ocasional moderada intensidad en la isla de San Cristóbal, Santa
+                                                                                            Cruz e Isabela.
+
+                                                                                            Fuente: INAMHI
+
+
+
+
+PELIGRO SÍSMICO:
+
+         Fecha – Hora Local           Magnitud              Profundidad                          Cercano a                                  Sentido por la población
+                  ---                    ---                    ---                                  ---                                                ---
+                                                                                            Secretaría Nacional de Gestión de Riesgos
+                                                                                                          Dirección de Monitoreo de Eventos Adversos
+                                           REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                      Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 3 de 9
+
+
+
+
+2. Monitoreo de eventos adversos (emergencias y desastres)
+ZONA 1
+
+         Socavamiento
+         Localización:       Esmeraldas/Muisne/Quingue/Quingue
+                             Por lluvias registradas la madrugada del 11/02/2025 y la crecida del río Quingue se suscitó un socavón en el talud cerca de
+         Antecedentes:
+                             una vivienda provocando el colapso de la pared de la misma
+                             En el levantamiento de información de la UGR GAD Cantonal Muisne se identificaron las familias damnificadas y afectadas,
+                             adicional de las viviendas afectadas.
+         Situación actual:
+                             Las familias damnificadas se encuentran pernoctando en casa de familia de acogida.
+                             El río Quingue se encuentra con tendencia a disminuir de nivel.
+                             -3 familias, 6 personas damnificadas.
+                             -3 familias, 11 personas afectadas.
+         Afectaciones:
+                             -3 viviendas destruidas.
+                             -3 viviendas afectadas.
+         Acciones de
+         respuesta:
+                             UGR GAD Cantonal Muisne remitió la EVIN y rectificó las afectaciones.
+
+
+         Fuentes de
+         información:
+                             UGR GAD Cantonal Muisne/SNGR-Umeva Esmeraldas.
+
+
+
+ZONA 2
+         Sismo
+         Localización:       Napo
+                             El 31/01/2025, debido al sismo de magnitud 5.5M con epicentro a 38.07 km de Tena, Napo, profundidad de 11 km. Hasta el
+                             momento en el cantón TENA se registran paredes cuarteadas de las instalaciones del Municipio de Tena, locales
+                             comerciales afectados (en etapa de evaluación). Tres personas fueron atendidas por crisis de ansiedad en la Unidad de
+                             Salud Satelital . Por seguridad algunos eventos que estaban en curso se suspendieron, personas evacuaron de lugares
+         Antecedentes:
+                             donde había aglomeración. En los cantones Quijos y El Chaco algunos sectores hubo caída de cables, el servicio de energía
+                             eléctrica, al momento el servicio fue restablecido en ambos cantones.
+                             Sentido de manera moderada en cantones de las provincias de: Napo, Chimborazo, Cotopaxi, Pastaza, de manera leve en
+                             cantones de la provincia de: Carchi, Bolívar, Morona Santiago, Orellana, Pichincha, Guayas, Azuay, Imbabura
+                             IG EPN indicó que, del centenar de réplicas localizadas todas son superficiales y 5 han alcanzado magnitudes superiores
+                             a 3.5 MLv, la réplica de mayor tamaño fue registrada el día 01/02/2025, a las 06H05 (TL). El COE Cantonal de Tena se reunió,
+                             entre las resoluciones están: realizar evaluaciones de sus infraestructuras por instituciones públicas y remitir al COE-M de
+         Situación actual:
+                             Tena, brindar asistencia técnica por parte del GAD-M para las evaluaciones de los edificios afectados a la Comisión
+                             conformada para este fin; brindar apoyo logístico a la delegación del Instituto Geofísico(IG) que instalará equipos para
+                             evaluaciones sísmicas de forma temporal.
+                             ARCHIDONA
+                             - 1 bien público afectado (cielo raso de las oficinas de GADM de Archidona)
+                             TENA:
+                             - 3 Bienes públicos afectados: edificio de GADM Tena (paredes cuarteadas), Hospital JMVI (fisuras en el piso), Salón de la
+                             Plaza Cívica (fisuras en paredes)
+                             QUIJOS:
+         Afectaciones:
+                             - 1 Bien público afectado: Hospital Básico de Baeza (fisuras)
+                             - Servicio de energía eléctrica afectado (restablecido)
+                             EL CHACO:
+                             - 2 familias afectadas, una de ellas se trasladó a familia acogiente
+                             - 2 viviendas afectadas
+                             - Servicio de energía eléctrica afectado (restablecido)
+                             MINEDUC está coordinando la evaluación de la infraestructura educativa, de forma preliminar no tiene mayores
+                             novedades. Los Municipios permanecen activos para las evaluaciones y seguimiento de las novedades presentadas. Los
+         Acciones de         servicios de electricidad, agua potable y salud se entregan con normalidad
+         respuesta:          Los Municipios se activaron para recabar información de afectaciones.
+                             Empresa Eléctrica Quito restableció el servicio de energía eléctrica.
+                             MSP evaluó la infraestructura del hospital.
+                                                                                             Secretaría Nacional de Gestión de Riesgos
+                                                                                                          Dirección de Monitoreo de Eventos Adversos
+                                           REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                       Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 4 de 9
+                             MTOP informó de forma preliminar que no existen daños en la red vial estatal, realizaron un recorrido.
+                             Municipio de El Chaco realiza la evaluación inicial de daños de las dos familias.
+                             Petroecuador informa que se encuentra operativo el bombeo de SOTE y Poliducto
+
+         Fuentes de
+         información:
+                             SNGR CZ2 Umeva Napo-Orellana/ECU 911/GAD Municipal de Tena/GAD M de Quijos/GAD M El Chaco/MSP
+
+
+
+         Socavamiento
+                             Orellana-Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-
+         Localización:
+                             Lago Agrio [E45].
+                             Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias
+                             viviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de SOTE,
+         Antecedentes:
+                             Poliducto Shushufindi – Quito y OCP.
+                             Se mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja.
+                             El frente de erosión se estima localizado en la abscisa 6+400 durante 3 días (por confirmar); aguas abajo, entre los
+                             kilómetros 6+400 y 10+000, continúa la erosión lateral en la margen izquierda, aguas arriba de San Carlos, afectando las
+         Situación actual:
+                             instalaciones petroleras y poniendo el preligro a la vía E45 en el sector del Mirador y también aguas abajo del río Loco,
+                             donde también se afectaron las instalaciones petroleras.
+                             Desde el 2020 a la fecha las afectaciones son las siguientes:
+                             - 15 Personas afectadas
+                             - 26.804 Personas afectadas indirectas
+                             - 51 Personas damnificadas
+                             - 99 Personas evacuadas
+                             - 14 Viviendas afectadas
+                             - 6 Viviendas destruidas
+                             - 4 Bienes públicos afectados: 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el
+         Afectaciones:       hundimiento ocurrido el 07/04/2020); y 1 tubería de agua potable de San Luis y unaTorre de soporte de tubería tipo H.
+                             - 6 Bienes privados afectados: fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas)
+                             (05/09/2023), un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus
+                             de la Cooperativa Putumayo (24/11/2023)
+                             - 5 Puentes destruidos: Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2 , Puente colgante San Carlos
+                             y Puente sobre el río Marker.
+                             - 1120 Metros de vía afectadas
+                             - 100.03 Ha de Cultivo perdida
+                             - 3448 Animales de granja afectados y muertos
+                             Ep Petroecuador y OCP implementan las contingencias para superar los eventos de fuerza mayor; OCP construye dos
+         Acciones de         bypass.
+         respuesta:          La Comisión Ejecutora Río Coca - CELEC EP, SNGR, Tenencia Política de Gonzalo Diaz de Pineda, Cuerpo de Bomberos El
+                             Chaco y CCGR San Luis realizan monitoreo.
+
+         Fuentes de          SNGR CZ2 Umeva Napo-Orellana/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de Bomberos El
+         información:        Chaco.
+
+
+
+ZONA 4
+         Inundación
+         Localización:       Manabí / Portoviejo/ Picoaza / Varios sectores
+                             El 11/02/2025, A causa de las fuertes lluvias registradas al momento, se reportan viviendas afectadas con el ingreso de
+         Antecedentes:
+                             agua.
+                             Mediante el EVIN realizado y emitido por UGR Cantonal de Portoviejo se actualizan datos de afectacion, asi mismo se
+         Situación actual:   reporta daos de enceres de las familias afectadas, quienes se encuentran en sus viviendas, la familia evacuada retorno a
+                             su vivienda..
+                             12 viviendas afectadas.
+         Afectaciones:       12 familias, 38 personas afectada.
+                             1 familias evacuada.
+         Acciones de         GAD Cantonal confirmó la novedad y se encuentra en el sitio realizando el levantamiento de información.
+         respuesta:          C.B Portoviejo en los sitios realizan labores de evacuación de agua y evacuación de enceres.
+                                                                                            Secretaría Nacional de Gestión de Riesgos
+                                                                                                          Dirección de Monitoreo de Eventos Adversos
+                                           REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                      Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 5 de 9
+
+
+         Fuentes de
+         información:
+                             SNGR Unidad de Monitoreo Manabi/GAD Portoviejo/C.B Portoviejo
+
+
+
+ZONA 5
+         Inundación
+                             Los Ríos/Montalvo/Montalvo, Cabecera Cantonal/rcto. Salvador Allende – Rcto. El Caimito – Rcto. San Vicente – Rcto. Bosque
+         Localización:
+                             de Oro - Río Cristal
+                             El 11/02/2025 debido a la presencia de fuertes lluvias en la madrugada, se reportó el desbordamiento del Río Cristal,
+         Antecedentes:
+                             provocando la destrucción de un muro de contención y afectando la vía de tercer orden.
+                             Actualmente las familias continúan en las viviendas sin presencia de agua, el caudal de Río Cristal se mantiene desbordado
+         Situación actual:   por el lado de la vía de tercer orden que inicia desde el rcto. Salvador Allende hacia el rcto. La Ernestina, misma que se
+                             mantiene cerrada al tránsito vehicular y se espera reporte de afectaciones a cultivos por parte del MAG
+                             - 1 muro de contención destruido (bien público)
+                             - 10 viviendas afectadas
+         Afectaciones:       - 10 familias afectadas
+                             - 40 personas afectadas
+                             - 15 metros lineales afectados
+         Acciones de
+         respuesta:
+                             UGR Montalvo realizó verificación de novedades el 12/02/2025
+
+
+         Fuentes de
+         información:
+                             UGR Montalvo/SNGR - Unidad de Monitoreo Los Ríos.
+
+
+
+
+         Inundación
+                             Guayas / Simón Bolívar / Varias parroquias: Simón Bolívar, Cabecera cantonal y Lorenzo de Garaicoa /varios recintos:
+         Localización:
+                             Recinto Las Delicias, recinto San Agustín, recinto Bella Luz, recinto Las Palmas, recinto Río Chico 2 y 3, recinto Limonal 2
+                             A causa de las fuertes lluvias registradas la madrugada y mañana del 11/02/2025, se reportan sectores inundados y
+         Antecedentes:
+                             viviendas afectadas con el ingreso de agua.
+                             Las familias afectadas permanecen en sus inmuebles. El Rio Chilintomo y el Rio Los Amarillos se encuentra con tendencia
+         Situación actual:
+                             a disminuir su caudal, al momento no se registran lluvias en el cantón..
+                             - 295 viviendas afectadas
+         Afectaciones:
+                             - 305 familias afectadas
+         Acciones de         SNGR en conjunto a Jefatura Política y GAD Cantonal realizaron entrega de asistencia humanitaria
+         respuesta:          Umeva Guayas realiza el monitoreo de la novedad
+
+         Fuentes de
+         información:
+                             GAD Cantonal Simón Bolívar / SNGR Unidad de Monitoreo Guayas
+
+
+
+         Inundación
+                             Guayas / Santa Lucía / Santa Lucía, Cabecera Cantonal / Varios Sectores (Sector Barbasco Central, Espinal, Chonana Vieja,
+         Localización:
+                             Che Guevara)
+                             El 10/02/2025 a causa de las fuertes lluvias registradas al momento, se reportan viviendas afectadas con el ingreso de
+         Antecedentes:
+                             agua.
+         Situación actual:   Las familias afectadas se encuentran en sus inmuebles
+                             - 110 viviendas afectadas (datos preliminares)
+         Afectaciones:
+                             - 110 familias, 190 personas afectadas (datos preliminares)
+         Acciones de         SNGR y Prefectura realizaron la entrega asistencia humanitaria a las familias afectadas
+         respuesta:          GAD Cantonal acompañó a la entrega de asistencia humanitaria
+
+         Fuentes de
+         información:
+                             UPREA / Prefectura de Guayas / GAD Santa Lucía / SNGR Unidad de Monitoreo Guayas
+                                                                                             Secretaría Nacional de Gestión de Riesgos
+                                                                                                          Dirección de Monitoreo de Eventos Adversos
+                                            REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                       Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 6 de 9
+          Inundación
+          Localización:       Guayas / Pedro Carbo / Pedro Carbo / Varios Sectores (Sector Las Cucharas, Mis Ensueños y Sector San Jacinto)
+          Antecedentes:       A causa de las fuertes lluvias registradas el 09/02/2025, se reportó viviendas afectadas con el ingreso de agua.
+          Situación actual:   Las familias afectadas se encuentran en sus propios inmuebles
+                              - 62 viviendas afectadas
+          Afectaciones:
+                              - 62 familias, 180 personas afectadas (datos siguen en fase de evaluación)
+          Acciones de
+          respuesta:
+                              GAD Cantonal sigue realizando el levantamiento de información.
+
+
+          Fuentes de
+          información:
+                              CB Pedro / GAD Pedro Carbo / ECU 911 Samborondón/ SNGR Unidad de Monitoreo Guayas
+
+
+
+
+         Deslizamiento
+                               Los Ríos/Montalvo/Montalvo/rcto. El Limón - La Pretoria - Pisagua Bajo - Pisagua Medio - Cdla. La Victoria - Pisagua Alto –
+         Localización:
+                               Mercedes - río Pretoria
+                               El 03/02/2025, debido a la presencia de fuertes lluvias suscitadas en la madrugada del 03/02/2025, se reportó un
+         Antecedentes:
+                               deslizamiento de tierra que afectó al río Pretoria, por lo que la MTT1 Cantonal se activó el 04/02/2025
+                               El caudal continúa con una gran presencia de sedimentos, impidiendo el consumo directo del mismo a los moradores del
+         Situación actual:
+                               sector, adicional a ello se crea EVIN Digital para validar el número de familias afectadas por la falta del recurso hídrico.
+         Afectaciones:         --
+         Acciones de           La MTT1 Cantonal sesiona por segunda vez el 11/02/2025, con el fin de fortalecer las acciones de respuesta
+         respuesta:            Cuerpo de Bomberos Montalvo continúa realizando entrega de agua a los sectores antes mencionados.
+                               SNGR-UPREA/Cuerpo de Bomberos Montalvo/SNGR - Unidad de Monitoreo Los Ríos.
+         Fuentes de
+         información:
+
+
+         Contamiación
+         Localización:         Galapagos/San Cristóbal/Puerto Baquerizo Moreno/Playa de Los Marino y Playa de Oro.
+                               Con fecha al 13/01/2025 La Dirección del Parque Nacional Galápagos luego de obtener los resultados de los análisis de las
+                               muestras tomadas del agua del mar en la bahía de Puerto Baquerizo Moreno, por entidades acreditadas, confirmaron la
+                               presencia de un alto índice de coliformes fecales (bacterias que se encuentran en excremento de los seres humanos y
+         Antecedentes:         animales), entre otros componentes químicos que afectan la calidad del agua de la Playa de Los Marino y Playa de Oro y
+                               presentan un riesgo para la salud humana y la biodiversidad, esta situación se deriva del vertido de aguas residuales sin
+                               el debido tratamiento al mar.
+                               La MTT # 1 se mantendrá activa el tiempo que dure el evento.
+                               GAD Cantonal ha realizado cambios de las bombas de impulsión en la Estación de Bombeo, con el fin de evitar reboces de
+         Situación actual:
+                               las alcantarillas, también continúan con las labores de recuperación de la poza de las garzas.
+         Afectaciones:         ---
+                               GAD Municipal está a la espera de los nuevos resultados de los análisis del agua a realizarse por parte del Parque Nacional
+         Acciones de
+                               Galápagos.
+         respuesta:
+                               S⁠ NGR realiza monitoreo del evento para conocer las diferentes disposiciones de las autoridades cantonales.
+         Fuentes de              SNGR CZ 5-Umeva Galápagos/DPNG.
+         información:
+
+
+ZONA 6
+         Deslizamiento
+         Localización:         Azuay/Santa Isabel/Santa Isabel/La Cría.
+                               El 03/06/2022, se suscitó un deslizamiento producto de la saturación del suelo originado por la combinación del deficiente
+                               sistema de riego en el sector, del taponamiento de diferentes quebradas y la deficiencia en el drenaje del terreno.
+                               El 31/03/2023 la SGR declaró la ALERTA AMARILLA al polígono identificado como susceptible a movimientos en masa, el cual
+                               tiene un área de 526.22 hectáreas que se extiende sobre la comunidad La Cría, cantón Santa Isabel, provincia del Azuay.
+                               El 06/04/2023, la SNGR emite el cambio a ALERTA NARANJA de acuerdo al informe elaborado por Técnico de Análisis de
+         Antecedentes:
+                               Riesgos de la Coordinación Zonal 6 de Gestión de Riesgos.
+                               El 20/06/2023 MIES entregó Bonos de Contingencia a 22 familias afectadas de la comunidad La Cría.
+                               GAD Cantonal indica que al 03/01/2024 permanecían 4 familias integradas por 10 personas alojadas en el AT San Isidro.
+                               El 26/01/2024 se realizó la activación del COE Provincial Azuay para realizar el seguimiento del evento y establecer
+                               acciones.
+         Situación actual:     Técnico de la SNGR informa que se realizaron nuevas entregas de asistencia humanitaria
+                                                                                                             Secretaría Nacional de Gestión de Riesgos
+                                                                                                                           Dirección de Monitoreo de Eventos Adversos
+                                                     REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                                     Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 7 de 9
+                                         - 44 familias afectadas (178 personas)
+                                         - 8 familias damnificadas (25 personas) permanecen en casa de ...
+                                         - 38 familias evacuadas (130 personas) a albergue temporal ….
+                 Afectaciones:           - 44 viviendas afectadas
+                                         - 8 viviendas destruidas
+                                         - 4 bienes privados afectados (1 capilla y 3 predios)
+                                         - 2 bienes públics destruidos (1 casa comunal y 1 cancha central)
+                 Acciones de             UGR Santa Isabel en conjunto con SNGR CZ6 realizan acciones de atención a la emergencia
+                 respuesta:
+                                         SNGR CZ6 Umeva Azuay-Cañar.
+                 Fuentes de
+                 información:
+
+
+
+ZONA 7
+
+                  Inundación
+                  Localización:        Zamora Chinchipe/Nangaritza/Guayzimi/Las Brisas
+                                       Producto a lluvias suscitadas en la madrugada de 08/02/2025, se produjo una inundación en el sector, debido al
+                  Antecedentes:        desbordamiento del Río Nangaritza afectando varias viviendas y animales de granja, de manera preliminar indican que
+                                       varias personas fueron evacuadas por precaución, hasta que baje el caudal del río.
+                                       Al momento continúa el levantamiento de información, se actualizan las afectaciones.
+                  Situación actual:
+                                       No se registran lluvias en el cantón.
+                                       - 1 persona fallecida
+                                       - 15 viviendas afectas (por ingreso de agua)
+                  Afectaciones:        - 45015 animales muertos (15 cabeza de ganado, 45000 pollos blancos)
+                                       - 11 bienes privados afectado (10 galpones de pollos, 1 fabrica de balanceado)
+                                       - Familias y personas (en fase de levantamiento de información).
+                                       Maquinaria del GAD Provincial realiza relleno con material pétreo en vías de acceso vehicular hacia la parroquia.
+                                       SNGR coordino con Jefe Político del cantón quien está en el sitio verificando afectaciones y acciones de respuesta al
+                  Acciones de          evento.
+                  respuesta:           COE Cantonal se activó por la emergencia y el día de hoy se envían los informes a las diferentes instituciones como MIES,
+                                       SNGR, prefectura, gobernación, por la emergencia.
+                                       UGR de Nangaritza continúa realizando el levantamiento de información y daños.
+
+                  Fuentes de
+                  información:
+                                       UMEVA CZ7 Loja-Zamora– SNGR/Jefe Político Nangaritza
+
+
+
+
+ 3. Monitoreo de estado de vías afectadas por eventos adversos
+01 VÍA DE PRIMER ORDEN CERRADA:
+                                                                                                              Afectación
+                                                                                                                             Fecha del
+No.     Provincia         Cantón        Parroquia                Sector/Vía                 Evento adverso        (mts                                Vías alternas
+                                                                                                                              evento
+                                                                                                               lineales)
+                                                          Sozoranga, vía Sozoranga -
+ 01       Loja          Sozoranga       Sozoranga                                           DESLIZAMIENTO             --     12/02/2025     Catamayo-Paltas-El Empalme-Macará
+                                                              Cariamanga [E69]
+
+
+
+22 VÍAS DE PRIMER ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                             Afectación
+                                                                                               Evento                       Fecha del
+No.   Provincia         Cantón        Parroquia                  Sector/Vía                                      (mts                                 Vías alternas
+                                                                                              adverso                        evento
+                                                                                                              lineales)
+ 1       Loja            Celica         Celica       Celica, vía Celica-El Empalme [E35]    DESLIZAMIENTO        --        12/02/2025                   Nninguna
+ 2      Azuay            Girón          Girón       Km 29, vía Cuenca-Girón-Pasaje [E-59]   DESLIZAMIENTO       30         12/02/2025                    Ninguna
+                                                     Macaicansa – Vía Cariamanga hacia
+ 3       Loja            Calvas       Cariamanga                                            DESLIZAMIENTO        --         11/02/2025                  Nninguna
+                                                                 Amaluza
+ 4      Azuay           Cuenca         Molleturo     Km 72, vía Cuenca-Molleturo [E-582]    DESLIZAMIENTO       20          11/02/2025                  Nninguna
+                                                     Guapuloma, vía Bilován-Las Guardias
+ 5     Bolívar         San Miguel       Bilován                                             DESLIZAMIENTO        15         11/02/2025                  Nninguna
+                                                                   [E491]
+ 6    Sucumbíos        Lago Agrio     Nueva Loja     Barrio El Pondo – vía a Quito km 3 ½   HUNDIMIENTO          7         06/02/2025                    Ninguna
+ 7      Azuay           Cuenca         Molleturo     Km 53, vía Cuenca-Molleturo [E-582]    SOCAVAMIENTO         25        02/01/2025            vía Cuenca-Girón-Pasaje.
+                                                                                                                       Secretaría Nacional de Gestión de Riesgos
+                                                                                                                                    Dirección de Monitoreo de Eventos Adversos
+                                                           REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                                               Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 8 de 9
+                                                                                                                       Afectación
+                                                                                                          Evento                        Fecha del
+No.   Provincia        Cantón          Parroquia                         Sector/Vía                                        (mts                                         Vías alternas
+                                                                                                         adverso                         evento
+                                                                                                                        lineales)
+                                                           El Laurel, Vía Y de Baeza – Papallacta                                                                          Ninguna
+ 8      Napo           Quijos            Cuyuja                                                        SOCAVAMIENTO         --          21/06/2024
+                                                                            [E20]
+                    Baños de Agua                           Caserío El Placer, Quilloturo, ref. Vía                                                                        Ninugna
+ 9    Tungurahua                        Río Verde                                                     DESLIZAMIENTO         --          16/06/2024
+                        Santa                                       Baños - Puyo [E30]
+                                     Gonzalo Díaz de       Piedra Fina, vía El Chaco-Reventador
+ 10     Napo          El Chaco                                                                         SOCAVAMIENTO         --          20/05/2024                         Ninguna
+                                         Pineda                             [E45]
+ 11    Los Ríos       Babahoyo          Pimocha                   Puente de Los Gemelos                SOCAVAMIENTO         6           19/01/2024                         Ninguna
+ 12                                                       San Jerónimo-Guadual; vía Salinas – Lita
+      Imbabura         Ibarra           Carolina                                                      DESLIZAMIENTO        125          22/12/2023                         Ninguna
+                                                                      km 114 [E10]
+ 13                 Baños de Agua
+      Tungurahua                        Río Verde            San Jorge, vía Baños – Puyo [E30]         SOCAVAMIENTO        100          16/07/2023                         Ninguna
+                        Santa
+ 14                                                        Malimpia, E20 pasando el basurero a
+      Esmeraldas      Quinindé          Malimpia                                                       SOCAVAMIENTO        30           03/04/2023                         Ninguna
+                                                                      mano derecha
+ 15     Morona                      Yunganza (Cab. En Km 35, El Rosario, vía Bella Unión – Limón
+                    Limón Indanza                                                                     DESLIZAMIENTO        30           04/03/2023                         Ninguna
+       Santiago                        el rosario)                      [E45]
+ 16                                                     La Rinconada 5 Cerros, vía Puerto López –
+        Manabí      Puerto López         Salango                                                       HUNDIMIENTO          4           28/08/2022                         Ninguna
+                                                                   Santa Elena [E15].
+ 17     Manabí         Sucre         Leonidas Plaza         Km 19, San Agustín-Tosagua [E-383]         SUBSIDENCIA         150          14/08/2022                         Ninguna
+ 18                                                     km 38 + 600, vía Alóag – Unión del Toachi
+      Pichincha         Mejía       Manuel Cornejo A.                                                  HUNDIMIENTO          15          25/02/2022                         Ninguna
+                                                                          [E20]
+ 19                                    Rosa Zarate         Km 68 Los Vergeles, vía Esmeraldas –
+      Esmeraldas      Quinindé                                                                         HUNDIMIENTO         40           8/02/2022                          Ninguna
+                                        (Quinindé)                   Quinindé [E20]
+ 20                                                                                                                                                      1.- Ruta desde la E10 Guallupe – San Juan de
+                                                                                                                                                        Lachas (Carchi) – por la E 182 Gualchan – Chical
+      Imbabura         Ibarra           Carolina           San Jerónimo; vía Salinas – Lita [E 10]    DESLIZAMIENTO        225          22/12/2021          – Maldonado – Tulcán – Ibarra , 2.- Para
+                                                                                                                                                         vehículos livianos, E10 desde San Jerónimo –
+                                                                                                                                                            Buenos Aires – Cahuasqui – Tumbabiro.
+ 21                                                         Vía El tambo – Ingapirca – Honorato
+        Cañar          Cañar            Ingapirca                                                     DESLIZAMIENTO        100          24/11/2021                         Ninguna
+                                                                  Vásquez km 8+100, km 15
+ 22                                  Gonzalo Díaz De
+                                                           San Rafael, Piedra Fina, San Luis, San                                                          Lago Agrio – Coca – Y de Narupa – Tena –
+        Napo          El Chaco         Pineda (El                                                      SOCAVAMIENTO       1040          2/02/2020
+                                                          Carlos, Vía Y de Baeza-Lago Agrio [E45]                                                                       Ambato – Quito
+                                        Bombón)
+
+ 08 VÍAS DE SEGUNDO ORDEN CERRADAS:
+                                                                                                                        Afectación         Fecha del
+No.   Provincia        Cantón            Parroquia                        Sector/Vía                  Evento Adverso                                                      Vías alternas
+                                                                                                                       (mts lineales)       evento
+  1      Loja        Sozoranga         Nueva Fátima             Nueva Fátima, vía a Sozornaga         DESLIZAMIENTO         ---           12/02/2025                         Ninguna
+ 2     Imbabura       Cotacachi           Imantag                   Ingreso a Piñan-Moran             DESLIZAMIENTO         20            09/02/2025                         Ninguna
+ 3    Chimborazo       Alausí             Sibambe            Ayurco, vía Alausí – El Triunfo [E-47]   DESLIZAMIENTO          --           10/02/2025                         Ninguna
+ 4    Santa Elena      Salinas           Anconcito                  Vía al Puerto Pesquero            SOCAVAMIENTO           --           14/03/2023                         Ninguna
+                                                              Calles Hermano Miguel y Panzaleo,
+ 5    Pichincha         Quito            Conocoto                                                     SOCAVAMIENTO          30            28/02/2022                         Ninguna
+                                                                        cruce de vías
+                                                                Rosas, Bellavista, Tamboloma,
+ 6      Azuay          Nabón               Nabón                                                      DESLIZAMIENTO         50            14/03/2021                Corraleja-Yasudel-Susudel
+                                                                         Chunazana
+                                    Pimampiro, Cabecera
+ 7     Imbabura      Pimampiro                                       San José de Aloburo              DESLIZAMIENTO         500            09/11/2021            Vía Narchimbuela - Pimampiro
+                                         Cantonal
+                                                             El Murco - Pasando la escuela Carlos
+ 8    Pichincha         Mejía             Tambillo                                                     INUNDACIÓN           ---           11/04/2022                         Ninguna
+                                                                         Freire Larrea
+                                                                                                                                  Secretaría Nacional de Gestión de Riesgos
+                                                                                                                                                     Dirección de Monitoreo de Eventos Adversos
+                                                                   REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0086
+                                                                                                                          Fecha y Hora de actualización: jueves, 13 de febrero de 2025 – 09:13:22 / Página 9 de 9
+12 VÍAS DE SEGUNDO ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                                      Afectación
+                                                                                                                                                        Fecha del
+No        Provincia       Cantón                Parroquia                        Sector/Vía                    Evento Adverso             (mts                                       Vías alternas
+                                                                                                                                                         evento
+                                                                                                                                       lineales)
+ 1          Loja          Olmedo                 La Tingue                        Chivatos                      DESLIZAMIENTO             20            11/02/2025                     Ninguna
+                        San Miguel de
+ 2        Pichincha                                Mindo                         Vía a Mindo                    DESLIZAMENTO               --           10/02/2025                     Ninguna
+                         los Bancos
+           Morona          Morona                                  Loma del Tigrillo, vía Macas-Riobamba
+ 3                                          Alshi (9 de Octubre)                                                DESLIZAMENTO               --           10/02/2025                     Ninguna
+          Santiago        Santiago                                                  [E46]
+           Zamora                            San Carlos de las           San Carlos de las Minas -Vía
+ 4                        Zamora                                                                                DESLIZAMIENTO             40            09/02/2025                     Ninguna
+          Chinchipe                               Minas                         Cumbaratza
+ 5          Napo            Tena             Puerto Misahualli                   Alto Pusuno                    DESLIZAMENTO               --           09/02/2025                     Ninguna
+ 6          Azuay          Girón                   Girón                   Vía Girón-San Fernando               DESLIZAMIENTO              10           09/02/2025                     Ninguna
+          Zamora
+ 7                       Yacuambi                 La Paz              Yacuambi, vía Yacuambi-Tutupali           DESLIZAMENTO              20            09/02/2025                     Ninguna
+         Chinchipe
+ 8         Pastaza        Arajuno                 Arajuno            Pitacocha, vía Pitacocha – Arajuno           INUNDACIÓN               15           07/02/2025                     Nnignuna
+       Santo Domingo
+ 9         de los    Santo Domingo               Alluriquín          Vía Las Mercedes – La Florida Km 9         DESLIZAMIENTO              15           03/02/2025                     Ninguna
+         Tsáchilas
+                                                                      Calle Alterna hacia la Ciudadela
+10         Bolívar        Chimbo           San José de Chimbo                                                   DESLIZAMIENTO             25            03/01/2025                     Ninguna
+                                                                                 Benalcazar
+11          Napo            Tena                  Ahuano            Ahuano, vía Ahuano-Campana Cocha            SOCAVAMIENTO               --           02/07/2024                     Ninguna
+12       Chimborazo      Pallatanga             Pallatanga           Jiménez, vía Jiménez - Pallatanga          SOCAVAMIENTO               --           27/05/2023                     Ninguna
+
+
+10 VÍAS DE TERCER ORDEN CERRADAS:
+                                                                                                                                    Afectación          Fecha del
+No.       Provincia       Cantón                Parroquia                        Sector/Vía                   Evento Adverso                                                         Vías alternas
+                                                                                                                                   (mts lineales)        evento
+                                                                   cto. Salvador Allende – Rcto. El Caimito
+                                            Montalvo, Cabecera
+ 1         Los Ríos       Montalvo                                  – Rcto. San Vicente – Rcto. Bosque de       INUNDACION               15             11/02/2025                     Ninguna
+                                                Cantonal
+                                                                               Oro - río Cristal
+                                                                   Pucayacu, vía Pucayacu - San Ramón -
+02        Cotopaxi        La Maná                Pucayacu                                                      DESLIZAMIENTO                            11/02/2025
+                                                                          La Chala - San Miguel
+                                                                    Recinto Chalguayacu, vía del Recinto
+03       Chimborazo       Cumandá                Cumandá                                                       SOCAVAMIENTO              60             11/02/2025                     Ninguna
+                                                                     Chalguayacu al Recinto Miraflores.
+                                                                    Recinto Chalguayacu, vía del Recinto
+04       Chimborazo       Cumandá                Cumandá                                                       SOCAVAMIENTO              --             10/02/2025                     Ninguna
+                                                                     Chalguayacu al Recinto Miraflores.
+                                                                       Barrio Balsones, vía Balsones -
+05          El Oro        Portovelo            Curtincapac                                                     SOCAVAMIENTO              20             14/01/2025                     Ninguna
+                                                                                Curtincapac
+06        Pichincha       Cayambe             Juan Montalvo            Río Guachalá - vía a la Josefina         INUNDACIÓN               100            16/06/2024                     Ninguna
+                                                                    Ushco, vía Tambillo – Panamericana
+07        Pichincha         Mejía                Tambillo                                                       INUNDACIÓN               20             10/04/2022                     Ninguna
+                                                                                   Sur
+                                                                     Vía de ingreso a las Comunidades
+                                              Manuel Cornejo
+08        Pichincha         Mejía                                  Peñas Blancas, El Paraíso, El Mirador y     DESLIZAMIENTO             140            08/02/2022                     Ninguna
+                                             Astorga (Tandapi)
+                                                                               San Francisco
+                                                                     Playas de San Luis, vía Santa María
+           Morona
+09                         Morona                  Sinaí             Tunants-Playas de San Luis-Quinta          INUNDACIÓN              3884            02/05/2021                     Ninguna
+          Santiago
+                                                                                Cooperativa
+10          Azuay          Cuenca                  Nulti           Pasto Romero, vía al centro Parroquial      DESLIZAMIENTO             30             16/04/2021                     Ninguna
+
+03 VÍAS DE TERCER ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                                        Afectación         Fecha del
+No.       Provincia        Cantón                 Parroquia                        Sector/Vía                    Evento Adverso                                                      Vías alternas
+                                                                                                                                       (mts lineales)       evento
+                                                                       Puerramal km92, vía Tulcán – Chical
+01          Carchi          Tulcán                  Chica                                                         DESLIZAMIENTO                 30        11/02/2025                    Ninguna
+                                                                                    [E182
+02       Esmeraldas        Rioverde                Montalvo                    recinto Repartidero.               SOCAVAMIENTO                  --        11/02/2025                    Ninguna
+                                                                        La Libertad, vía La Maná - Recinto
+03         Cotopaxi        La Maná                El Triunfo                                                       HUNDIMIENTO                  15        06/02/2025                    Ninguna
+                                                                                  Estero Hondo
+
+                                         Reporte generado por la Dirección de Monitoreo de Eventos Adversos de la Secretaría Nacional de Gestión de Riesgos.
+     Reporte elaborado por:                                                                                Reporte revisado por:
+     Nombre: Fernando Saltos. - Digitador Nacional de Eventos Adversos                                     Nombre: Javier Sarango. - Analista de Monitoreo de Eventos Adversos
+     Correo electrónico: fernando.saltos@gestionderiesgos.gob.ec                                           Correo electrónico: jose.sarango@gestionderiesgos.gob.ec
+     Teléfono: 042593500 ext. 1605                                                                         Teléfono: 042593500 ext. 1603
+                                        Para ser agregado o removido de esta lista de destinatarios, por favor envíe un correo electrónico a sala.nacional@gestionderiesgos.gob.ec
+                                    Para más información, visite nuestro sitio web: https://www.gestionderiesgos.gob.ec/reportes-de-monitoreo-de-amenazas-y-eventos-peligrosos/
+

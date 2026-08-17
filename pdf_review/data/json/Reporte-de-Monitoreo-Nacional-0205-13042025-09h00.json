@@ -1,0 +1,1951 @@
+{
+  "metadata": {
+    "report_name": "REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 00205",
+    "start": "2025/04/12 21:00:00",
+    "end": "2025/04/13 09:00:00",
+    "last_update": "2025/04/13 08:09:42"
+  },
+  "section_1": {
+    "section": "Threat Monitoring",
+    "tables": {
+      "volcanic_hazard": {
+        "columns": [
+          "location",
+          "declared_alert_level",
+          "current_situation",
+          "current_assessment"
+        ],
+        "rows": [
+          [
+            "Volcán Reventador Napo",
+            "NARANJA",
+            "Sector del Volcán nublado sin novedades",
+            "VERDE"
+          ],
+          [
+            "Volcán Chiles-Cerro Negro Carchi",
+            "AMARILLA",
+            "Sin reporte de actividad superficial.",
+            "VERDE"
+          ],
+          [
+            "Volcán Sangay Morona Santiago",
+            "AMARILLA",
+            "Sector del Volcán nublado sin novedades",
+            "VERDE"
+          ],
+          [
+            "Volcán Cotopaxi",
+            "",
+            "Sector del Volcán nublado sin novedades",
+            "VERDE"
+          ]
+        ]
+      },
+      "water_body_overflow": {
+        "overflowed_water_bodies": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": [
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Clemente Baquerizo",
+              "Universidad Agraria",
+              "San Pablo"
+            ],
+            [
+              "Guayas",
+              "Santa Lucía",
+              "Santa Lucía",
+              "Varios sectores",
+              "Pula"
+            ],
+            [
+              "Guayas",
+              "Milagro",
+              "Milagro",
+              "Varios sectores",
+              "Milagro"
+            ],
+            [
+              "Los Ríos",
+              "Baba Alfredo Baquerizo Moreno",
+              "Baba Alfredo Baquerizo Moreno",
+              "Rcto. Versalle",
+              "Junquillo"
+            ],
+            [
+              "Guayas",
+              "(Juján) Alfredo Baquerizo Moreno",
+              "(Juján) Alfredo Baquerizo Moreno",
+              "Varios sectores",
+              "Ñauza"
+            ],
+            [
+              "Guayas",
+              "(Juján)",
+              "(Juján)",
+              "Varios sectores",
+              "Chilintomo"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar, cabecera cantonal",
+              "Variois recintos",
+              "Daule"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar, cabecera cantonal",
+              "Variois recintos",
+              "Puca"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar, cabecera cantonal",
+              "Varios recintos",
+              "Chicompe"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar, cabecera cantonal",
+              "Varios recintos",
+              "Pucón"
+            ],
+            [
+              "Guayas",
+              "Alfredo Baquerizo Moreno (Juján)",
+              "Alfredo Baquerizo Moreno (Juján)",
+              "Varios sectores",
+              "Jujan"
+            ],
+            [
+              "Los Ríos",
+              "Montalvo",
+              "Montalvo, cabecera cantonal",
+              "rcto. Salvador Allende",
+              "Cristal"
+            ],
+            [
+              "Guayas",
+              "Simón Bolívar",
+              "Simón Bolívar, Cabecera Cantonal",
+              "Varios sectores",
+              "Chilintomo"
+            ],
+            [
+              "Guayas",
+              "Simón Bolívar",
+              "Simón Bolívar, Cabecera Cantonal",
+              "Varios sectores",
+              "Los Amarillos"
+            ],
+            [
+              "Guayas",
+              "Colimes",
+              "Colimes, cabecera cantonal",
+              "Recinto Perinao",
+              "Daule"
+            ],
+            [
+              "Manabí",
+              "Bolívar",
+              "Calceta, Cabecera Cantonal Antonio Sotomayor (Cab. en",
+              "Varios sectores",
+              "Mosca"
+            ],
+            [
+              "Los Ríos",
+              "Vinces",
+              "Playas de Vinces)",
+              "Rcto. Macul",
+              "Macul"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Pimocha",
+              "La Carmela",
+              "Babahoyo"
+            ],
+            [
+              "Guayas",
+              "Alfredo Baquerizo Moreno",
+              "Alfredo Baquerizo Moreno Febres Cordero (Las Juntas)",
+              "Varios recintos",
+              "Los Amarillos"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "(Cab. en Mata de Cacao)",
+              "rcto. Las Cañitas",
+              "Chilintomo"
+            ],
+            [
+              "Guayas",
+              "Santa Lucía",
+              "Santa Lucía, Cabecera cantonal",
+              "Varios sectores",
+              "Daule"
+            ]
+          ]
+        },
+        "water_bodies_rising_level": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": [
+            [
+              "Guayas",
+              "Milagro",
+              "Roberto Astudillo (Cab. En Cruce De Venecia)",
+              "Varios sectores",
+              "Chimbo"
+            ],
+            [
+              "Guayas",
+              "Naranjito",
+              "Naranjito",
+              "Varios sectores",
+              "Rocafuerte"
+            ],
+            [
+              "Esmeraldas",
+              "Esmeraldas",
+              "5 De Agosto",
+              "Los Mangos",
+              "Teaone"
+            ],
+            [
+              "Chimborazo",
+              "Chambo",
+              "Chambo",
+              "Chambo",
+              "Chambo"
+            ],
+            [
+              "Chimborazo",
+              "Colta",
+              "Colulmbe",
+              "Columbe",
+              "Guamote"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar",
+              "Varios recintos",
+              "Macul"
+            ],
+            [
+              "Esmeraldas",
+              "Quinindé",
+              "Viche",
+              "Viche",
+              "Viche"
+            ],
+            [
+              "Esmeraldas",
+              "Quinindé",
+              "Cube",
+              "Medio Cube",
+              "Cube"
+            ],
+            [
+              "Esmeraldas",
+              "Esmeraldas",
+              "5 De Agosto",
+              "El Cabezón",
+              "Esmeraldas"
+            ],
+            [
+              "Chimborazo",
+              "Colta",
+              "Columbe",
+              "Columbe",
+              "Sasapud"
+            ],
+            [
+              "Chimborazo",
+              "Colta",
+              "Columbe",
+              "Columbe",
+              "Columbe"
+            ],
+            [
+              "Guayas",
+              "Balao",
+              "Balao",
+              "Varios Sectores",
+              "Balao"
+            ],
+            [
+              "Chimborazo",
+              "Colta",
+              "Columbe",
+              "Columbe",
+              "Llinllin"
+            ],
+            [
+              "Guayas",
+              "Milagro",
+              "Milagro",
+              "Varios Sectores",
+              "Los Monos"
+            ],
+            [
+              "Guayas",
+              "Santa Lucía",
+              "Santa Lucía",
+              "Recinto La Capilla",
+              "Daule"
+            ],
+            [
+              "Manabí",
+              "Santa Ana",
+              "Santa Ana",
+              "Varios Sectores",
+              "Rio Grande"
+            ],
+            [
+              "Manabí",
+              "Santa Ana",
+              "La Unión",
+              "Varios Sectores (El Habra, La Alegria, La Victoria, Centro Parroquial , La Y, Boca de la Palmas)",
+              "Puca"
+            ],
+            [
+              "Guayas",
+              "Samborondón",
+              "Samborondón",
+              "Varios recintos",
+              "Babahoyo"
+            ],
+            [
+              "Guayas",
+              "Samborondón",
+              "Tarifa",
+              "Sector Río Seco",
+              "Los Tintos"
+            ],
+            [
+              "Guayas",
+              "Salitre (Urbina Jado)",
+              "Junquillal",
+              "Varios sectores",
+              "Pula"
+            ],
+            [
+              "Guayas",
+              "Salitre (Urbina Jado)",
+              "El Salitre (Las Ramas)",
+              "Varios sectores",
+              "Salitre"
+            ],
+            [
+              "Guayas",
+              "Salitre (Urbina Jado)",
+              "Gral. Vernaza (Dos Esteros)",
+              "Varios sectores",
+              "Vinces"
+            ],
+            [
+              "Guayas",
+              "Coronel Marcelino Maridueña Coronel Marcelino Maridueña",
+              "",
+              "Recinto La Modelo",
+              "Chanchán"
+            ],
+            [
+              "Manabí",
+              "Paján",
+              "Guale Campozano (La Palma De",
+              "Varios Sectores",
+              "Paján"
+            ],
+            [
+              "Manabí",
+              "Paján",
+              "Paján)",
+              "Varios Sectores",
+              "Limón"
+            ],
+            [
+              "Guayas",
+              "Samborondón",
+              "Samborondón",
+              "Recinto Paula León",
+              "Vinces"
+            ],
+            [
+              "Guayas",
+              "Samborondón",
+              "Samborondón",
+              "Sector Zapan (varios recintos)",
+              "Los Tintos"
+            ],
+            [
+              "Los Ríos",
+              "Vinces",
+              "Vinces",
+              "Boquerón",
+              "Boquerón"
+            ],
+            [
+              "Los Ríos",
+              "Baba",
+              "Baba",
+              "Rcto. Marañon",
+              "San Joaquín"
+            ],
+            [
+              "Los Ríos",
+              "Montalvo",
+              "Montalvo",
+              "La Ernestina",
+              "San Pablo"
+            ],
+            [
+              "Los Ríos",
+              "Urdaneta",
+              "Ricaurte",
+              "Santa Clara 1 y 2",
+              "Catarama"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Caracol",
+              "rcto. Nueva Fortuna",
+              "Catarama"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "La Unión",
+              "Rcto. La Pineda",
+              "Pita"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Caracol",
+              "rcto. Las Garzas",
+              "Caracol"
+            ]
+          ]
+        }
+      },
+      "forest_fires": {
+        "active_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": []
+        },
+        "controlled_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": []
+        }
+      },
+      "dams_and_reservoirs": {
+        "columns": [
+          "resource",
+          "minimum_level",
+          "current_level",
+          "maximum_level",
+          "cutoff_time",
+          "assessment"
+        ],
+        "rows": [
+          [
+            "Molino, Azuay",
+            1975.0,
+            "--",
+            1991,
+            "--",
+            "--"
+          ],
+          [
+            "Mazar, Azuay",
+            2138.05,
+            "--",
+            2153.45,
+            "--",
+            "--"
+          ],
+          [
+            "Daule Peripa, Guayas",
+            70.0,
+            "--",
+            85.0,
+            "--",
+            "--"
+          ],
+          [
+            "Central Baba, Los Ríos",
+            114.0,
+            "--",
+            117.0,
+            "--",
+            "--"
+          ],
+          [
+            "Chongón, Guayas",
+            44.5,
+            "--",
+            55.15,
+            "--",
+            "--"
+          ],
+          [
+            "El Azúcar, Santa Elena",
+            40.0,
+            "--",
+            45.09,
+            "--",
+            "--"
+          ],
+          [
+            "San Vicente, Santa Elena",
+            50.0,
+            "--",
+            57.49,
+            "--",
+            "--"
+          ],
+          [
+            "La Esperanza, Manabí",
+            53.4,
+            "--",
+            66.0,
+            "--",
+            "--"
+          ],
+          [
+            "Poza Honda, Manabí",
+            104.29,
+            "--",
+            106.51,
+            "--",
+            "--"
+          ],
+          [
+            "Multipropósito Chone, Manabí",
+            48.0,
+            "--",
+            68.5,
+            "--",
+            "--"
+          ],
+          [
+            "Agoyán, Tungurahua",
+            1645.0,
+            "--",
+            1651.0,
+            "--",
+            "--"
+          ],
+          [
+            "Pucará-Pisayambo, Tungurahua",
+            3541.0,
+            "--",
+            3565.0,
+            "--",
+            "--"
+          ]
+        ]
+      },
+      "hydrometeorological_situation": {
+        "warning_number": 22,
+        "hazard": {
+          "original": "LLUVIAS, TORMENTAS Y RÁFAGAS DE VIENTO",
+          "primary_family": "PRECIPITACION_TORMENTA",
+          "phenomena": [
+            "LLUVIA",
+            "TORMENTA",
+            "VIENTO_FUERTE"
+          ],
+          "associated_risks": []
+        },
+        "validity_start": "2025-04-12",
+        "validity_end": "2025-04-16",
+        "description": "Aunque se reduce la frecuencia e intensidad de los eventos aún se presentan condiciones atmosféricas que generarían lluvias moderadas a fuertes y muy puntual extremadamente fuertes con tormentas y ráfagas de viento en la región Litoral, Amazo-nía y región Insular. Lluvias, tormentas y ráfagas de viento mo-deradas a puntual fuertes en el callejón Interandino",
+        "affected_areas": "• Región Litoral: Esmeraldas, Santo Domingo, Los Ríos, e interior de: Guayas, El Oro y Manabí. • Región Sierra: Loja, Bolívar, la zona occidental de Carchi, Imbabura, Cotopaxi, Azuay y Pichincha. • Región Amazonía: Sucumbíos, Orellana, Pastaza, Morona Santiago y Zamora Chinchipe. • Insular: Mayor intensidad y probabilidad en Isla Isabela.",
+        "source": "INAMHI",
+        "original_narrative": "ADVERTENCIA # 22\n                                                                                                               LLUVIAS, TORMENTAS Y RÁFAGAS DE VIENTO\n                                                                                                    Vigencia: desde 21H00 del 12 hasta las 19H00 del 16 de abril 2025\n\n                                                                                          SITUACIÓN: Aunque se reduce la frecuencia e intensidad de los eventos aún se\n                                                                                          presentan condiciones atmosféricas que generarían lluvias moderadas a fuertes\n                                                                                          y muy puntual extremadamente fuertes con tormentas y ráfagas de viento en la\n                                                                                          región Litoral, Amazo-nía y región Insular. Lluvias, tormentas y ráfagas de viento\n                                                                                          mo-deradas a puntual fuertes en el callejón Interandino\n\n                                                                                          ZONAS AFECTADAS\n\n                                                                                                •       Región Litoral: Esmeraldas, Santo Domingo, Los Ríos, e interior de:\n                                                                                                        Guayas, El Oro y Manabí.\n\n                                                                                                •       Región Sierra: Loja, Bolívar, la zona occidental de Carchi, Imbabura,\n                                                                                                        Cotopaxi, Azuay y Pichincha.\n\n                                                                                                •       Región Amazonía: Sucumbíos, Orellana, Pastaza, Morona Santiago y\n                                                                                                        Zamora Chinchipe.\n\n                                                                                                •       Insular: Mayor intensidad y probabilidad en Isla Isabela.\n\n\n                                                                                          FUENTE: INAMHI"
+      },
+      "seismic_hazard": {
+        "columns": [
+          "local_datetime",
+          "magnitude",
+          "depth",
+          "near",
+          "felt_by_population"
+        ],
+        "rows": [
+          [
+            "---",
+            "---",
+            "---",
+            "---",
+            "---"
+          ]
+        ]
+      },
+      "other_tables": []
+    }
+  },
+  "section_2": {
+    "section": "Adverse Event Monitoring",
+    "zones": {
+      "1": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/10",
+            "location": {
+              "original_narrative": "Esmeraldas/ Muisne/ San Gregorio/ San Jacinto y varios recintos",
+              "province": "Esmeraldas",
+              "canton": "Muisne",
+              "parish": "San Gregorio",
+              "sectors": [
+                "San Jacinto y varios recintos"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias de la mañana del 10/04/2025, intensas lluvias provocaron el desbordamiento de los ríos Sucio, Bilsa y Canuto, generando inundaciones en varios recintos de la parroquia San Gregorio."
+            },
+            "current_situation": {
+              "original_narrative": "El caudal de los ríos se mantiene en nivel alto por lo que vías de acceso a varios recintos se encuentran incomunicadas por anegamiento. Se reportan afectaciones a viviendas y cultivos, principalmente de cacao así como otras actividades del sector productivo."
+            },
+            "impacts": {
+              "original_narrative": "- 288 familias, 1440 personas. (Dato preliminar) - 10 viviendas afectadas (Dato Preliminar) - 100% del servicio eléctrico afectado en las comunidades del Río Sucio - 40 m de tramos de vía de primer orden afectada. (Parcialmente habilitada) - 20 m de tramo de vía de segundo orden afectada. (Parcialmente habilitada)"
+            },
+            "response_actions": {
+              "original_narrative": "GAD Cantonal Muisne realiza levantamiento de información y registro en el EVIN digital. COE Cantonal sesionó y resolvió declarar en emergencia al cantón Muisne."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ1 Umeva Esmeraldas /GAD Cantonal"
+            }
+          },
+          {
+            "event_type": "Contaminación ambiental",
+            "event_start_date": "2025/03/13",
+            "location": {
+              "original_narrative": "Esmeraldas/Quinindé-Esmeraldas.",
+              "province": "Esmeraldas",
+              "canton": "Quinindé-Esmeraldas",
+              "parish": "",
+              "sectors": [],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 13/03/2025, por causas desconocidas, se produjo la rotura de una tubería del Sistema de Oleoducto Transecuatoriano (SOTE), lo que provocó una contaminación por petróleo en el estero Caple. Este estero se encuentra cerca de varias localidades de la parroquia Cube, desemboca en el río Viche y finalmente llega hasta el río Esmeraldas. El cantón con mayor impacto a la población es Quinindé con 2.733 personas afectadas debido al desabastecimiento de agua. * Hasta el 3 de abril, un total de 802 hogares han recibido el pago de $470, equivalente a un SBU, como medida de"
+            },
+            "current_situation": {
+              "original_narrative": "compensación. Esto luego de que el 27/03/2025, EP PETROECUADOR transfirió $700.000 al Ministerio de la Mujer y Gestión de Riesgos (SNGR)."
+            },
+            "impacts": {
+              "original_narrative": "* La planta San Mateo se encuentra operativa, realiza bombeos para la captación de agua cruda. Los cantones que conforman la Mancomunidad Epmapse (Esmeraldas, Rioverde y Atacames) tienen restablecido parcialmente el servicio de agua potable. * El COE Provincial Esmeraldas sesionó en la madrugada del 26/03/2025, vía zoom, debido al colapso del dique. * Al momento se registra un total de 3539 atenciones médicas por parte del MSP en coordinación con brigadas médicas de EP Petroecuador. - 5612 familias, 14619 personas afectadas, incluyendo 4402 pescadores de Esmeraldas y Rioverde. - 353 familias, 146 familias damnificadas.* - 17 bienes privados (9 balnearios y 8 establecimientos turísticos). - 312.01 superficie agrícola impactada. - 378 animales afectados. - 39 animales muertos. La MTT 1 continúa distribuyendo agua en varias localidades que no tienen aún acceso al servicio. La MTT2 mantiene activos los Equipos de Atención Integral de Salud (EAIS) en varios sectores afectados. Realiza charlas"
+            },
+            "response_actions": {
+              "original_narrative": "sobre el uso seguro del agua. La MTT 3 sigue activa. Los equipos de contingencia de Petroecuador, OCP, y las empresas de remediación fueron activados inmediatamente, al momento son 25.116,96 barriles derramados en 82 km afectados.\" La MTT4 continúa activa. SNGR continuó con el levantamiento de información en las instalaciones de la prefecteura Esmeraldas. MTT5, la Universidad Luis Vargas Torres reanudó sus actividades académicas y administrativas. Mineduc gestionó. la entrega de bidones de agua para cada uno de los Centros de Desarrollo Infantil que maneja el MIES en la provincia de Esmeraldas. MTT 6 se encuentra activa. El MAG continúa realizando el levantamiento de información de la superficie agrícola impactada, así como de los animales afectados y muertos."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ1 Umeva Esmeraldas/UGR GAD Cantonal Esmeraldas/EPMAPSE Esmeraldas/ MSP/ Cuerpo de Bomberos Quinindé/ Fuerzas Armadas/UGR GAD C Quinindé/ GAD C Quinindé."
+            }
+          }
+        ]
+      },
+      "2": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/03/07",
+            "location": {
+              "original_narrative": "Pichincha/Cayambe/Olmedo/Sectores: Pablo Urco San Jorge - Barrio San Antonio – Atahualpa.",
+              "province": "Pichincha",
+              "canton": "Cayambe",
+              "parish": "Olmedo",
+              "sectors": [
+                "Pablo Urco San Jorge - Barrio San Antonio – Atahualpa"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 07/03/2025, por causa de lluvias y granizo se produjo una inundación desbordándose la acequia, afectando a viviendas del sector. El cauce se encuentra normal"
+            },
+            "current_situation": {
+              "original_narrative": "Continúan los trabajos de reparación en las vías las cuales se encuentran parcialmente habilitada y se realizó el cierre de los dos albergues y las familias que permanecían en el lugar se movilizaron a casa de familiares de manera indefinida."
+            },
+            "impacts": {
+              "original_narrative": "• 1 persona fallecida • 184 familias afectadas • 549 personas afectadas • 105 familias damnificadas • 283 personas damnificadas • 7 familias albergadas (en casa de familiares de acogida) • 19 personas albergadas • 82 viviendas afectadas • 3 viviendas destruidas • 12 vías afectadas de segundo (parcialmente habilitadas) por determinar los metros lineales • 2 vías de segundo orden destruidas 2000 metros lineales (Vía a Pesillo) no existe ruta alterna Parcialmente habilitadas • 3 vías de tercer orden destruidas 3000 metros lineales (sector San Pablo Urco) no existe ruta alterna Cerradas • 3800 personas afectadas indirectamente sector Olmedo y Pesillos (por falta de suministro de agua) Se restableció el servicio. • 5 unidades educativas afectadas (4 por estructura y 1 por funcionalidad) • 192.53 has de cultivo afectado. • 405.78 has de cultivo perdido. • 91 animales de granja afectados. • 88 animales de granja perdidos. • 5 infraestructura Industrial afectada (centro de acopio de leche, plantaciones y florícolas)"
+            },
+            "response_actions": {
+              "original_narrative": "GAD Cantonal informó el cierre de los dos albergues y GAD Provincial de Pichincha continúa con los trabajos de reparación de las vías. Ministerio de Agricultura y Ganadería posterior a la inspección envió el informe de afectaciones agrícolas y pecuarias GAD Cantonal realiza seguimiento de las personas albergadas y coordina trabajos entre mesas técnicas, Cuerpo de Bomberos realiza limpieza de las unidades educativas afectadas."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ9 Umeva Pichincha/GAD Cantonal Cayambe/UGR/GAD PP/MINEDUC/Cuerpo de Bomberos de Cayambe."
+            }
+          },
+          {
+            "event_type": "Socavamiento",
+            "event_start_date": "2020/02",
+            "location": {
+              "original_narrative": "Orellana-Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-Lago Agrio [E45].",
+              "province": "Orellana-Napo",
+              "canton": "El Chaco",
+              "parish": "Gonzalo Díaz De Pineda (El Bombón)",
+              "sectors": [
+                "San Rafael",
+                "Piedra Fina 2",
+                "San Luis",
+                "San Carlos",
+                "vía Y de Baeza-Lago Agrio [E45]"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias viviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de SOTE, Poliducto Shushufindi – Quito y OCP."
+            },
+            "current_situation": {
+              "original_narrative": "Se mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja. El frente de erosión se estima localizado en la abscisa 6+400 durante 3 días (por confirmar); aguas abajo, entre los kilómetros 6+400 y 10+000, continúa la erosión lateral en la margen izquierda, aguas arriba de San Carlos, afectando las instalaciones petroleras y poniendo el preligro a la vía E45 en el sector del Mirador y también aguas abajo del río Loco, donde también se afectaron las instalaciones petroleras. Desde el 2020 a la fecha las afectaciones son las siguientes:"
+            },
+            "impacts": {
+              "original_narrative": "- 15 Personas afectadas - 26.804 Personas afectadas indirectas - 51 Personas damnificadas - 99 Personas evacuadas - 14 Viviendas afectadas - 6 Viviendas destruidas - 4 Bienes públicos afectados: 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el hundimiento ocurrido el 07/04/2020); y 1 tubería de agua potable de San Luis y unaTorre de soporte de tubería tipo H. - 6 Bienes privados afectados: fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas) (05/09/2023), un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus de la Cooperativa Putumayo (24/11/2023) - 5 Puentes destruidos: Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2 , Puente colgante San Carlos y Puente sobre el río Marker."
+            },
+            "response_actions": {
+              "original_narrative": "- 1120 Metros de vía afectadas - 100.03 Ha de Cultivo perdida - 3448 Animales de granja afectados y muertos Ep Petroecuador y OCP implementan las contingencias para superar los eventos de fuerza mayor; OCP construye dos bypass. La Comisión Ejecutora Río Coca - CELEC EP, SNGR, Tenencia Política de Gonzalo Diaz de Pineda, Cuerpo de Bomberos El Chaco y CCGR San Luis realizan monitoreo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ2 Umeva Napo-Orellana/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de Bomberos El Chaco."
+            }
+          }
+        ]
+      },
+      "3": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2025/03/31",
+            "location": {
+              "original_narrative": "Chimborazo / Guamote / Cebadas / Caserío Gaurón Cochapamba, vía Cebadas - San Vicente de Tablillas",
+              "province": "Chimborazo",
+              "canton": "Guamote",
+              "parish": "Cebadas",
+              "sectors": [
+                "Caserío Gaurón Cochapamba",
+                "vía Cebadas - San Vicente de Tablillas"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por causa de las lluvias en la madrugada del 31/03/2025 se produjo un deslizamiento que afectó a viviendas que eran deshabitadas, animales, un canal de riego y agua potable. Se reportan 4 comunidades sin servicio de agua (Cebadas Cabecera parroquial, San Francisco, Airón Cruz y Cecel Airón). COE Cantonal se activó el 01/04/2025 para coordinar acciones de respuesta para atender el evento. Vías alternas: 1. Cebadas – Utucún- San Vicente de Tablillas. 2. Cebadas - Gaurón Cochapamba - San Vicente de Tablillas."
+            },
+            "current_situation": {
+              "original_narrative": "La vía de tercer orden está cerrada y la población afectada está recibiendo la dotación de agua por parte de Cuerpo de Bomberos y EMAPAR."
+            },
+            "impacts": {
+              "original_narrative": "- 5 familias afectadas, 20 personas afectadas (2 familias afectadas en sus viviendas y evacuadas, 3 familias afectadas en animales) - 2 viviendas destruidas (cifra preliminar). - 560 metros aproximadamente de vía de tercer orden destruida - 100 % de servicio de agua potable afectado (continúan sin servicio). - 100 % de servicio de agua de riego afectado. - 100% del servicio de energía eléctrica afectado en las dos viviendas destruidas - 2 bienes públicos afectados (50 metros del sistema de riego Cebadas, 1 poste) - 4 bienes públicos destruidos (2 captaciones de agua, 2 tuberías de agua) - 1 bien privado afectado (1 tubería de agua de la Empresa de Lácteos El Cebadeñito) - 2.000 personas afectadas indirectamente por desabastecimiento de agua (cifra preliminar) - 6 animales muertos - 2 animales afectados"
+            },
+            "response_actions": {
+              "original_narrative": "FFAA, Cuerpo de Bomberos de Guamote y Riobamba realizan abastecimiento de agua en los sectores afectados. SNGR realizó informe técnico en el sitio en donde se concluye que: El deslizamiento rotacional de tipo complejo (rotacional, traslacional y posiblemente gravitacional) afectó una zona de 19 hectáreas en la quebrada Chilican, movilizando más de 2 millones de metros cúbicos de material. El evento, con una longitud de 550 metros y un ancho de 250 metros, obstruyó parcialmente la quebrada y se presentó en tres fases, con zonas inestables que podrían continuar el deslizamiento. El evento se clasifica como muy grande y activo, con dos escenarios posibles: continuidad del deslizamiento o estabilización parcial con colapsos localizados. Se requiere una cartografía detallada a escala 1:5000 para un análisis más preciso y la planificación de medidas de mitigación"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ3 Umeva Tungurahua/UGR Cantonal"
+            }
+          }
+        ]
+      },
+      "4": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/05",
+            "location": {
+              "original_narrative": "Manabí/Santa Ana/La Unión/Varios Sectores (El Habra, La Alegria, La Victoria, Centro Parroquial , La Y, Boca de la Palmas),",
+              "province": "Manabí",
+              "canton": "Santa Ana",
+              "parish": "La Unión",
+              "sectors": [
+                "Varios Sectores (El Habra",
+                "La Alegria",
+                "La Victoria",
+                "Centro Parroquial",
+                "La Y",
+                "Boca de la Palmas"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias presentadas en horas de la noche del 05/04/2025, se produjo el desbordamiento del río Pucan causando"
+            },
+            "current_situation": {
+              "original_narrative": "afectación en varias viviendas con ingreso de lodo. Las familias afectadas se encuentran en sus viviendas. El estado actual del río está con tendencia a disminuir de nivel."
+            },
+            "impacts": {
+              "original_narrative": "- 150 familias afectadas, 600 personas afectadas. - 150 viviendas afectadas."
+            },
+            "response_actions": {
+              "original_narrative": "GAD Cantonal realiza el levantamiento de la información. Cuerpo de Bomberos de Santa Ana realizó recorrido en los sectores afectados."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR-CZ4 UMEVA Manabí /UGR Santa Ana"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/02",
+            "location": {
+              "original_narrative": "Manabí/Portoviejo/Picoazá/ Varios Sectores",
+              "province": "Manabí",
+              "canton": "Portoviejo",
+              "parish": "Picoazá",
+              "sectors": [
+                "Varios Sectores"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias presentadas en horas de la noche del 02/04/2025, se produjo el desbordamiento del río Portoviejo causando afectación a viviendas y familias."
+            },
+            "current_situation": {
+              "original_narrative": "Al momento el río se mantiene con tendencia a disminuir de nivel."
+            },
+            "impacts": {
+              "original_narrative": ""
+            },
+            "response_actions": {
+              "original_narrative": "- 100 familias afectadas (Dato Preliminar) - 400 personas afectadas (Dato Preliminar) - 100 viviendas afectadas (Dato Preliminar) UGR Portoviejo confirma evento y se moviliza al sitio para el levantamiento y validación de información"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR-CZ4 UMEVA Manabí /UGR Portoviejo"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/02",
+            "location": {
+              "original_narrative": "Manabí/Portoviejo/Varias Parroquias (Colon, Andrés de vera, Picoazá, Simón bolívar, 18 de octubre)/ Varios Sectores",
+              "province": "Manabí",
+              "canton": "Portoviejo",
+              "parish": "Varias Parroquias (Colon, Andrés de vera, Picoazá, Simón bolívar, 18 de octubre)",
+              "sectors": [
+                "Varios Sectores"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias presentadas en horas de la noche del 02/04/2025,se produjo el desbordamiento del río Portoviejo causando afectación a viviendas y familias."
+            },
+            "current_situation": {
+              "original_narrative": "Al momento el río se mantiene con tendencia a disminuir de nivel. Total de Parroquias Inundadas: 5."
+            },
+            "impacts": {
+              "original_narrative": "- 600 familias afectadas (Dato preliminar) - 2.400 personas afectadas (Dato preliminar) - 600 viviendas afectadas (Dato preliminar Cuerpo de Bomberos Portoviejo colabora con la evacuación de enseres. UGR Portoviejo confirma evento y se moviliza al"
+            },
+            "response_actions": {
+              "original_narrative": "sitio para el levantamiento y validación de información. SNGR-CZ4 realiza seguimiento al evento"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR-CZ4 UMEVA Manabí /UGR Portoviejo"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/01",
+            "location": {
+              "original_narrative": "Manabí/Santa Ana/ Santa Ana de Vuelta Larga/Varios Sectores",
+              "province": "Manabí",
+              "canton": "Santa Ana",
+              "parish": "Santa Ana de Vuelta Larga",
+              "sectors": [
+                "Varios Sectores"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a fuertes lluvias presentadas el 01/04/2025, se produjo una inundación debido a la acumulación de agua de lluvias y colapso de alcantarillado, así mismo se presentó el incremento del caudal de Río Grande, el cual desbordó zonas bajas céntricas. COE Cantonal se activó el 02/04/2025 a las 22:00, bajo resolución administrativa se declara en emergencia Cantonal."
+            },
+            "current_situation": {
+              "original_narrative": "Al momento los sectores continúan inundados, el rio ya no se encuentra desbordado pero se encuentra con el caudal aumentado"
+            },
+            "impacts": {
+              "original_narrative": "- 1553 familias afectadas (datos bajo evaluación). - 1553 viviendas afectadas (datos bajo evaluación). - Calles inundadas. - 2 bien público afectados, Mercado Municipal con ingreso de agua y CB Santa Ana. Cuerpo de Bomberos evacua a personas afectadas a familia acogientes. Policías cascos azules colaboran en la evacuación de personas a familias acogientes. Empresa Publica del Agua conforma equipos de monitoreo permanente para el control del embalse de la Represa Poza Honda, y apoya equipo caminero para la remoción de lodo. MIES en el levantamiento de información EVIN, a los sectores afectados, para complementar con bonos."
+            },
+            "response_actions": {
+              "original_narrative": "Reunión del COE Cantonal se activa para realizar coordinaciones de atención. UGR Cantonal realiza levantamiento de información y afectaciones."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR-CZ4 realiza recorridos por los sectores afectados y participó en el COE Cantonal. UGR GAD Cantonal confirma evento. SNGR CZ4 realiza seguimiento al evento. UMEVA Manabí/UGR Santa Ana/PP.NN/C.B Santa Ana"
+            }
+          }
+        ]
+      },
+      "5": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/09",
+            "location": {
+              "original_narrative": "Guayas /Alfredo Baquerizo Moreno (Jujan) / Alfredo Baquerizo Moreno / Varios Rectores (Tanque Amarillo, El Recreo, La Beldaca, San Antonio, Chongonal, El Guayabito y la Otilia)",
+              "province": "Guayas",
+              "canton": "Alfredo Baquerizo Moreno (Jujan)",
+              "parish": "Alfredo Baquerizo Moreno",
+              "sectors": [
+                "Varios Rectores (Tanque Amarillo",
+                "El Recreo",
+                "La Beldaca",
+                "San Antonio",
+                "Chongonal",
+                "El Guayabito y la Otilia"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias registradas la noche del 09/04/2025 y madrugada del 10/04/2025 y rotura de los muros de contención, se reportó el desbordamiento del Río Los Amarillos ocasionando que varios recintos se inunden con el ingreso de agua a"
+            },
+            "current_situation": {
+              "original_narrative": "varias viviendas. Los Amarillos se mantiene desbordado, los ríos Chilintomo y Jujan se encuentran con tendencia a aumentar su caudal."
+            },
+            "impacts": {
+              "original_narrative": "- 130 familias, 400 personas afectadas (datos preliminares) - 130 viviendas afectadas (datos preliminares)"
+            },
+            "response_actions": {
+              "original_narrative": "GAD Cantonal Alfredo Baquerizo Moreno (Jujan) sigue realizando el levantamiento de información y realizó la entrega de asistencia humanitaria en los sectores Recreo y Tanque Amarillo. OOPP Municipal realizando trabajos de limpieza de palizadas en las riberas de los ríos."
+            },
+            "information_sources": {
+              "original_narrative": "GAD Cantonal / SNGR Unidad de Monitoreo Guayas"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/03",
+            "location": {
+              "original_narrative": "Guayas / Santa Lucia / Santa Lucia, Cabecera Cantonal / Varios Sectores (Santa Clara, Bermejo, La Fortuna, Piñal, Las Piñas, El Espinal, Av. Jaime Roldós, El Morochal, Miraflores, San Ramón y San Gabriel)",
+              "province": "Guayas",
+              "canton": "Santa Lucia",
+              "parish": "Santa Lucia, Cabecera Cantonal",
+              "sectors": [
+                "Varios Sectores (Santa Clara",
+                "Bermejo",
+                "La Fortuna",
+                "Piñal",
+                "Las Piñas",
+                "El Espinal",
+                "Av. Jaime Roldós",
+                "El Morochal",
+                "Miraflores",
+                "San Ramón y San Gabriel"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por las lluvias registradas la mañana y tarde del 03/04/2025 se reportó varios sectores inundados y varias viviendas afectadas con el ingreso de agua. GAD Cantonal activó del Alojamiento Temporal CDI. San Pablo donde se encuentran 4 familias, 25 personas."
+            },
+            "current_situation": {
+              "original_narrative": "En El Albergue Santa Rosa se mantienen las 8 familias, 21 familias. COE se declaró en emergencia por la etapa invernal. El río Pula sigue desbordado"
+            },
+            "impacts": {
+              "original_narrative": "- 90 familias, 1160 personas afectadas - 290 viviendas afectadas (ingreso de agua) - Calles con acumulación de agua"
+            },
+            "response_actions": {
+              "original_narrative": "GAD Cantonal realizó el respectivo levantamiento de información y coordinaciones para la activación del Alojamiento Temporal CDI. San Pablo y el albergue Santa Rosa. Cuerpo de Bomberos colabora en la evacuación de la familias afectadas. COE se encuentra activo"
+            },
+            "information_sources": {
+              "original_narrative": "GAD Cantonal / SNGR Unidad de Monitoreo Guayas"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/09",
+            "location": {
+              "original_narrative": "Los Ríos/Vinces/Antonio Sotomayor/Rcto. Macul - río Macul",
+              "province": "Los Ríos",
+              "canton": "Vinces",
+              "parish": "Antonio Sotomayor",
+              "sectors": [
+                "Rcto. Macul - río Macul"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias suscitadas en la noche del 09/04/2025, se reportó el desbordamiento del río Macul con ingreso de agua a varias viviendas del sector"
+            },
+            "current_situation": {
+              "original_narrative": "Actualmente el caudal se mantienen desbordado y las familias continúan en las viviendas."
+            },
+            "impacts": {
+              "original_narrative": ""
+            },
+            "response_actions": {
+              "original_narrative": "- 120 personas afectadas (dato preliminar) - 30 familias afectadas (dato preliminar) - 30 viviendas afectadas (dato preliminar UGR Vinces se encuentra realizando levantamiento EVIN"
+            },
+            "information_sources": {
+              "original_narrative": "GAD Cantonal / SNGR Unidad de Monitoreo Guayas"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/03/30",
+            "location": {
+              "original_narrative": "Guayas / Milagro / Enrique Valdez Chobo, Roberto Astudillo, (Cab. en Cruce de Venecia,Milagro, Coronel Enrique Valdez) / Varios Sectores (Paraiso del Chobo, Voluntad de Dios Mz.12, Las Avispas, El Cambio, Las Pilas, vía a Barcelona, Venecia Central, Córdoba, Galápagos, Papayal, Las Guaijas)",
+              "province": "Guayas",
+              "canton": "Milagro",
+              "parish": "Enrique Valdez Chobo, Roberto Astudillo, (Cab. en Cruce de Venecia,Milagro, Coronel Enrique Valdez)",
+              "sectors": [
+                "Varios Sectores (Paraiso del Chobo",
+                "Voluntad de Dios Mz.12",
+                "Las Avispas",
+                "El Cambio",
+                "Las Pilas",
+                "vía a Barcelona",
+                "Venecia Central",
+                "Córdoba",
+                "Galápagos",
+                "Papayal",
+                "Las Guaijas"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "A causas de lluvias registradas la noche del 30/03/2025 y madrugada del 31/03/2025, se produjo el desbordamiento del río Milagro, se reportaron sectores inundados y varias viviendas afectadas con el ingreso de agua. El día 03/04/2025, se realizó la apertura del albergue Colegio 17 de septiembre y el día 04/03/2025 se realizó la apertura del Refugio Temporal"
+            },
+            "current_situation": {
+              "original_narrative": "Unidad Educativa Tnte. Hugo Ortiz. Se actualiza el número de familias que se encuentran en el Refugio Temporal Unidad Educativa Tnte. Hugo Ortiz, 40 familias 140 personas. GAD Cantonal mantiene el total de familias en el albergue Unidad Educativa 17 de septiembre 35 familias, 129 personas. El río Milagro y el Estero Los Monos se mantienen con tendencia a aumentar su caudal. Parroquia Milagro"
+            },
+            "impacts": {
+              "original_narrative": "- 36438 familias afectadas,109314 personas afectadas (datos preliminare, bajo evaluación) (se encuentran en el albergue Unidad Educativa 17 de septiembre con 35 familias con 129 personas y en el Refugio Temporal Unidad Educativa Tnte. Hugo Ortiz se encuentran 40 familias con 140 personas) - 36438 viviendas afectadas (ingreso de agua en sus inmuebles) Parroquia Roberto Astudillo - 587 familias afectadas, 1761 personas afectadas (datos preliminares, bajo evaluación) - 587 viviendas afectadas (ingreso de agua en sus inmuebles) Parroquia Chobo - 1162 familias afectadas, 3486 personas afectadas (datos preliminares, bajo evaluación) - 1162 viviendas afectadas (ingreso de agua en sus inmuebles) Parroquia Mariscal Sucre - 472 familias afectadas, 1416 personas afectadas (datos preliminares, bajo evaluación) - 472 viviendas afectadas (ingreso de agua en sus inmuebles) -calles con acumulación de agua"
+            },
+            "response_actions": {
+              "original_narrative": "SNGR realizó entrega de asistencia humanitaria en Unida Sur y San José Prefectura de Guayas realizó entrega de asistencia humanitaria en Las Margaritas y Manabí Chico SNGR en conjunto con MINEDUC, MIES, se mantienen en el refugio temporal Unidad Educativa Tnte. Hugo Ortiz GAD Cantonal Milagro sigue realizando el levantamiento de información, La Dirección de Seguridad Ciudadana y la Dirección de Inclusión Social se encuentran realizando acciones para las familias afectadas que se encuentran en el albergue COE se encuentra activo. PPNN sigue brindando seguridad en los albergues"
+            },
+            "information_sources": {
+              "original_narrative": "MSP realizó brigadas médicas en los albergues Umeva Guayas realiza el monitoreo del evento. UPREA – SNGR / MINEDUC / MSP / GAD Cantonal Milagro / SNGR Unidad de Monitoreo Guayas"
+            }
+          },
+          {
+            "event_type": "Colapso estructural",
+            "event_start_date": "2025/03/19",
+            "location": {
+              "original_narrative": "Guayas/Daule/Magro/Sector Magro",
+              "province": "Guayas",
+              "canton": "Daule",
+              "parish": "Magro",
+              "sectors": [
+                "Sector Magro"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 19/03/2025, por causas desconocidas, se reporta el colapso de un puente colgante ( Gonzalo Icaza Cornejo) de uso vehicular y peatonal, el cual conecta Magro con Nobol. Cuerpo de Bomberos informó que fueron rescatadas 5 personas con vida, 4 fueron trasladadas al Hospital de Daule y 1 atendida en el sitio. Posteriormente tras evaluar la situación se identificaron varias personas desaparecidas para lo cual se activaron los equipos de búsqueda y rescate. Se recuperaron 4 cuerpos sin vida de los desaparecidos: el primero a la"
+            },
+            "current_situation": {
+              "original_narrative": "altura del sector San José del cantón Nobol; el segundo a la altura del río Nato; el tercero cerca de Pascuales junto a la Urb. Metrópolis y el cuarto en el río Pula. El 24/03/2025 se pudieron extraer dos de los cuatro vehículos pesados que se encontraban sumergidos en el río."
+            },
+            "impacts": {
+              "original_narrative": "- 4000 familias afectadas indirectamente. (aproximadamente) - 4 personas fallecidas. - 1 persona desaparecida. - 5 personas heridas. (Trasladadas al Hospital de Daule. Su estado es estable). - 1 puente destruido. - 7 bienes privados afectados. (4 vehículos pesados; 1 vehículo liviano y 2 motos). - 1 bien público destruido. (tubería de agua potable) CB Daule se encuentra realizando trabajos de búsqueda de la persona desaparecida en el río Daule, en las cercanías donde se desplomó el puente CTE sigue realizando trabajos de seguridad al tránsito vehicular, en los puntos establecidos como rutas alternas"
+            },
+            "response_actions": {
+              "original_narrative": "Prefectura de Guayas se encuentra realizando los respectivos análisis para realizar los trabajos de extracción de los vehículos que se encuentran sumergidos en el río"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ5 Umeva Guayas/Prefectura de Guayas/GAD Cantonal Lomas de Sargentillo/Cuerpo de Bomberos de Daule/CTE /PPNN"
+            }
+          }
+        ]
+      },
+      "6": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2025/02/12",
+            "location": {
+              "original_narrative": "Azuay/Cuenca/Victoria del Portete/Hacienda la Rosa",
+              "province": "Azuay",
+              "canton": "Cuenca",
+              "parish": "Victoria del Portete",
+              "sectors": [
+                "Hacienda la Rosa"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 12/02/2025, a causa de las lluvias suscitadas en los últimos días se produjo un deslizamiento de tierra que afectó la parte de un muro de contención en un reservorio de agua en el sector de la parte alta de la hacienda La Rosa, el reservorio no suministra agua a familias del sector ya que es agua utilizada para riego. Para atención al evento se activó el PMU y el COE Parroquial, adicional se evacuaron 4 viviendas de 4 familias (a casa de familia acogiente) por precaución. El 18/02/2025 MTOP reportó el cierre de vía en el km 22. Vías alternas: vehículos livianos (Estación de Cumbe, Victoria del Portete), vehículos pesados (vía Cuenca-Zhud-Cochancay-Puerto Inca-Naranjal-Machala). Con fecha 19/02/2025 Junta"
+            },
+            "current_situation": {
+              "original_narrative": "Parroquial reportó el colapso de la mesa de la vía en el km 22. MTOP informa que la vía de primer orden se mantiene habilitada, el ensanchamiento del relleno colocado en la base de la vía ha culminado, adicional se continúa con la construcción del muro de protección de la vía."
+            },
+            "impacts": {
+              "original_narrative": "-9 familias afectadas. (en sus cultivos) -36 personas afectadas. (en sus cultivos) -10 ha de cultivos destruidos. (pasto) -100 ha de cultivos afectados. (pasto) -20 metros de vía aproximadamente. (vía parcialmente habilitada) -1 bien público destruido. (poste de alumbrado eléctrico)"
+            },
+            "response_actions": {
+              "original_narrative": ""
+            },
+            "information_sources": {
+              "original_narrative": "MTOP continúa con la construcción de obras complementarias. SNGR CZ6 Umeva Azuay-Cañar"
+            }
+          },
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2022/06/03",
+            "location": {
+              "original_narrative": "Azuay/Santa Isabel/Santa Isabel/La Cría.",
+              "province": "Azuay",
+              "canton": "Santa Isabel",
+              "parish": "Santa Isabel",
+              "sectors": [
+                "La Cría"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 03/06/2022, se suscitó un deslizamiento producto de la saturación del suelo originado por la combinación del deficiente sistema de riego en el sector, del taponamiento de diferentes quebradas y la deficiencia en el drenaje del terreno. El 31/03/2023 la SGR declaró la ALERTA AMARILLA al polígono identificado como susceptible a movimientos en masa, el cual tiene un área de 526.22 hectáreas que se extiende sobre la comunidad La Cría, cantón Santa Isabel, provincia del Azuay. El 06/04/2023, la SNGR emitió el cambio a ALERTA NARANJA de acuerdo al informe elaborado por Técnico de Análisis de Riesgos de la Coordinación Zonal 6 de Gestión de Riesgos. El 20/06/2023 MIES entregó Bonos de Contingencia a 22 familias afectadas de la comunidad La Cría."
+            },
+            "current_situation": {
+              "original_narrative": "GAD Cantonal indicó que al 03/01/2024 permanecían 4 familias integradas por 10 personas alojadas en el AT San Isidro. El 26/01/2024 se realizó la activación del COE Provincial Azuay para dar seguimiento al evento y establecer acciones. Técnico de la SNGR informa que se realizaron nuevas entregas de asistencia humanitaria"
+            },
+            "impacts": {
+              "original_narrative": "- 44 familias afectadas. (178 personas) - 8 familias damnificadas. (25 personas) - 38 familias evacuadas. (130 personas) - 44 viviendas afectadas. - 8 viviendas destruidas. - 4 bienes privados afectados. (1 capilla y 3 predios) - 2 bienes públics destruidos. (1 casa comunal y 1 cancha central)"
+            },
+            "response_actions": {
+              "original_narrative": ""
+            },
+            "information_sources": {
+              "original_narrative": "UGR Santa Isabel en conjunto con SNGR CZ6 realizan acciones de atención a la emergencia. SNGR CZ6 Umeva Azuay-Cañar."
+            }
+          }
+        ]
+      },
+      "7": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2025/04/04",
+            "location": {
+              "original_narrative": "Loja/Paltas/Lauro Guerrero/Lauro Guerrero",
+              "province": "Loja",
+              "canton": "Paltas",
+              "parish": "Lauro Guerrero",
+              "sectors": [
+                "Lauro Guerrero"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias suscitadas en la madrugada del 04/04/2025, se produjo un deslizamiento de tierra de gran magnitud que destruyó a varias viviendas, quedando atrapada varias personas. COE Cantonal de Paltas en constante reunión para coordinación de atención a la emergencia. 44 familias conformadas por 129 personas se encuentran en el refugio temporal:"
+            },
+            "current_situation": {
+              "original_narrative": "Unidad Educativa Lauro Guerrero. Continúa el levantamiento de información y atención de la emergencia."
+            },
+            "impacts": {
+              "original_narrative": "- 77 familias damnificadas conformadas por 202 personas. (Evacuados al refugio temporal) - 21 familias afectadas conformadas por 69 personas. - 17 viviendas destruidas. - 1 vivienda afectada. - 3 personas heridas (fueron movilizadas a casa de salud a la ciudad de Guayaquil). - 3 personas fallecidas. (A causa del deslizamiento) - 50 metros lineales de vía. (vía de segundo orden parcialmente habilitada) - 20% del Servicio de Electricidad afectado. - UGR de Paltas continúa el levantamiento de información y coordina acciones de atención a la emergencia."
+            },
+            "response_actions": {
+              "original_narrative": "- SNGR coordina acciones de respuesta ante la emergencia en el sector y realizará entrega de Asistencia Humanitaria. - Empresa Eléctrica (EERSSA) continua restablecimiento del sistema eléctrico. - FF.AA realizó aseguramiento de la zona cero y brindó seguridad a la ciudadanía. - Cuerpo de Bomberos de Paltas realizó limpieza en viviendas afectadas. - FF.AA. apoyó con la movilización aérea y realizó el traslado de personas heridas a casa de salud. (Hospital General de Guayaquil) - MSP coordinó con FF.AA. el traslado y adicional brindó atención prehospitalaria a las personas heridas. - Gobernación de la provincia de Loja coordinó acciones de respuesta."
+            },
+            "information_sources": {
+              "original_narrative": "- GAD Provincial realiza labores de limpieza y habilitación vial. - PPNN verificó la novedad. UMEVA CZ7 Loja/Zamora Chinchipe – SNGR/UGR Paltas/CB Paltas/FF.AA"
+            }
+          },
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2025/04/04",
+            "location": {
+              "original_narrative": "Loja/Paltas/Cangonamá/Yansara",
+              "province": "Loja",
+              "canton": "Paltas",
+              "parish": "Cangonamá",
+              "sectors": [
+                "Yansara"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias suscitadas en la madrugada del 04/04/2025, se produjo un deslizamiento de tierra que destruyó a varias viviendas."
+            },
+            "current_situation": {
+              "original_narrative": "Se esta evacuando a familias por seguridad"
+            },
+            "impacts": {
+              "original_narrative": "-Vía de segundo orden parcialmente habilitada -10 familias evacuadas (Información preliminar) -6 familia damnificadas (levantamiento de información) -6 vivienda destruidas. (levantamiento de información) -20 metros lineales de vía -FF.AA colabora con la evacuación de las familias en riesgo"
+            },
+            "response_actions": {
+              "original_narrative": "-GAD Provincial de Loja, realiza labores de limpieza y habilitación vial -Presidente de la junta parroquial confirmó el evento"
+            },
+            "information_sources": {
+              "original_narrative": "-UGR Paltas realizará el levantamiento de información. -SNGR coordinó la atención del evento y realiza constante monitoreo. UMEVA CZ7 Loja/Zamora Chinchipe – SNGR/UGR Paltas/CB Paltas."
+            }
+          },
+          {
+            "event_type": "Aluvión",
+            "event_start_date": "2025/04/02",
+            "location": {
+              "original_narrative": "El Oro/Marcabelí/Marcabelí/Varios Sectores (San Antonio, Nueva Esperanza, El Eden, Cdla 16 Julio)",
+              "province": "El Oro",
+              "canton": "Marcabelí",
+              "parish": "Marcabelí",
+              "sectors": [
+                "Varios Sectores (San Antonio",
+                "Nueva Esperanza",
+                "El Eden",
+                "Cdla 16 Julio"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias suscitadas la tarde del 02/04/2025 se registra el desbordamiento del rio Marcabelí provocando inundación en varias viviendas."
+            },
+            "current_situation": {
+              "original_narrative": "Al momento familias se movilizaron a familias acogientes."
+            },
+            "impacts": {
+              "original_narrative": "- 50 familias de 180 personas (afectadas) - 40 viviendas afectadas - 2 viviendas colapsadas - 1 puente afectado - 6 bienes públicos afectados (3 alcantarillas, *3 postes de luz) - 100% afectación al servicio de agua potable - 100% afectación al servicio eléctrico"
+            },
+            "response_actions": {
+              "original_narrative": "Alcalde del Cantón, UGR GAD Cantonal, CB, PN, JP Balsas realizan recorrido y articulan acciones en respuesta al evento CB Marcabelí evacuó a varias familias hacia casas acogientes SNGR realiza monitoreo constante a las acciones de respuesta y equipo técnico en conjunto con Cruz Roja se encuentran activos para ser movilizados a realizar evaluación inicial de necesidades. JP Marcabelí confirmo el evento y realiza recorrido"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR Unidad de Monitoreo El Oro/MDG"
+            }
+          },
+          {
+            "event_type": "Aluvión",
+            "event_start_date": "2025/04/02",
+            "location": {
+              "original_narrative": "El Oro/Balsas/Balsas/Varios Sectores (Cdla La Alborada, 10 De Agosto, Cdla La Alborada, Cdla Primero de Mayo, El Progreso Juan Pablo II, Central, Machala, Urdesa, Central, El Paraíso, Cdla Las Brisas, Casas Blanca, El Tejar, El Panecillo)",
+              "province": "El Oro",
+              "canton": "Balsas",
+              "parish": "Balsas",
+              "sectors": [
+                "Varios Sectores (Cdla La Alborada",
+                "10 De Agosto",
+                "Cdla La Alborada",
+                "Cdla Primero de Mayo",
+                "El Progreso Juan Pablo II",
+                "Central",
+                "Machala",
+                "Urdesa",
+                "Central",
+                "El Paraíso",
+                "Cdla Las Brisas",
+                "Casas Blanca",
+                "El Tejar",
+                "El Panecillo"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias suscitadas la tarde del 02/04/2025 se registra el desbordamiento de la quebrada Santa Elena y San Roquito lo que provoca aluvión afectando varias viviendas."
+            },
+            "current_situation": {
+              "original_narrative": "En seguimiento al evento, se informa que el alojamiento temporal Convento Parroquial San Francisco de Asis, se encuentra cerrado, luego que la familia retornó a su domicilio."
+            },
+            "impacts": {
+              "original_narrative": "-120 familias de 400 personas afectadas. -25 familias de 54 personas damnificadas. -4 viviendas destruidas. -100 viviendas afectadas. -5 bienes privados afectados - (1 local comercial y 4 vehículos) -5 bienes públicos afectados - (alcantarillas) -1 Unidad educativa afectada (colegio Vicente Anda Aguirre.) -1 Centro de Salud afectado -100% de afectación servicio de agua potable - (restablecido parcialmente) -100% de afectación de servicio de energía eléctrica - (restablecido) -30% de afectación a telecomunicaciones. - (restablecido) -50 metros de vía afectada. (parcialmente habilitado)"
+            },
+            "response_actions": {
+              "original_narrative": "Dpto. de Desarrollo Social del GAD Balsas realiza evaluación a los sectores urbanos, para constatar afectaciones. Además, se realizó el cierre del alojamiento temporal. SNGR Uprea El Oro mantiene monitoreo y seguimiento a las acciones que se ejecutan en el cantón. Por la emergencia invernal desde el 21/02/2025 el COE Cantonal se mantiene activo y en sesión permanente además se Declaró la Emergencia Cantonal."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR Unidad de Monitoreo El Oro/MDG"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/04/11",
+            "location": {
+              "original_narrative": "El Oro/Machala/Machala, cabecera cantonal/Varios sectores",
+              "province": "El Oro",
+              "canton": "Machala",
+              "parish": "Machala, cabecera cantonal",
+              "sectors": [
+                "Varios sectores"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a las fuertes lluvias del 11/04/2025, se registra acumulación de agua lluvias en diferentes calles del cantón, al momento no se registran afectaciones."
+            },
+            "current_situation": {
+              "original_narrative": "Los sectores continúan con acumulación de agua, las familias continúan ingresando en el albergue y se registran más afectaciones."
+            },
+            "impacts": {
+              "original_narrative": "- 1095 familias de 4380 personas afectadas de las cuales 96 familia de 292 personas evacuada al coliseo 3000 - 4 familias de 17 personas damnificadas se encuentran en el coliseo 3000 - 1095 viviendas afectadas - 4 viviendas destruidas SNGR brinda asesoría técnica a UGR GAD Municipal Machala en la instalación del Albergue Coliseo 3000. Ministerio Salud Pública realiza fumigación intradomiciliaria en los sectores afectados, además brinda soporte en salud y psicológica a las familias en el albergue. Red de Salud Municipal Machala, Cruz Roja Ecuatoriana se encuentran atendiendo a las familias en el albergue. GT3 se encuentra activo y realiza evacuación de familias afectadas."
+            },
+            "response_actions": {
+              "original_narrative": "COE cantonal se reunirá a las 14:30 para evaluar afectaciones y coordinar nuevas acecines en atención al evento. OOPP del GAD cantonal realizan limpieza de alcantarillas y palizada en el canal el Macho."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ7 Umeva El Oro / GAD Cantonal Machala."
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/03/27",
+            "location": {
+              "original_narrative": "El Oro/Pasaje/Varias Parroquias (Loma de Franco, Ochoa León)/Varios Sectores.",
+              "province": "El Oro",
+              "canton": "Pasaje",
+              "parish": "Varias Parroquias (Loma de Franco, Ochoa León)",
+              "sectors": [
+                "Varios Sectores"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 27/03/2025, por lluvias suscitadas fuertes registradas se registró el desbordamiento del canal \"El Cangrejo\", provocando inundación en distintos sectores, ocasionando afectación a varias viviendas por el ingreso de agua. Además se registró el aumento del caudal del canal \"El Burro\", el cual no generó novedades."
+            },
+            "current_situation": {
+              "original_narrative": "Al momento las familias afectadas por ingreso de agua se mantienen en sus viviendas. Parroquia Ochoa León"
+            },
+            "impacts": {
+              "original_narrative": "- 235 familias afectadas de 372 personas afectadas. - 10 familias de 28 personas damnificadas - 245 viviendas afectadas. Parroquia Loma de Franco - 25 familias de 80 personas afectadas. - 20 viviendas afectadas."
+            },
+            "response_actions": {
+              "original_narrative": "UGR del GAD Pasaje y Cruz Roja continúan con el levantamiento de información y sistematización en sistema EVIN. AGUAPAS realizaron limpieza de sumideros en distintos puntos, para la evacuación de aguas lluvias retenidas. Además, con apoyo de OOPP del GAD Cantonal se realizó limpieza de palizada del canal."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ7 Umeva El Oro / GAD Pasaje."
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2025/03/11",
+            "location": {
+              "original_narrative": "Loja/Chaguarpamba/Chaguarpamba/Varios sectores",
+              "province": "Loja",
+              "canton": "Chaguarpamba",
+              "parish": "Chaguarpamba",
+              "sectors": [
+                "Varios sectores"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/03/2025, debido a las lluvias presentadas se produjo una inundación en el sector. Se activaron los refugios temporales de: Centro Diurno, Salón del Mercado Municipal y la Casa Comunal del barrio Rojas"
+            },
+            "current_situation": {
+              "original_narrative": "15 familias damnificadas conformadas por 45 personas permanecen en casa de familias acogientes. Producto de las fuertes lluvias del día 02/04/2025 afecta a varias viviendas del sector"
+            },
+            "impacts": {
+              "original_narrative": "-11 familias conformadas por 23 personas fueron evacuadas por seguridad_ -Refugio (Casa Comunal del barrio Rojas) se actualiza a: 3 familias - 12 personas -Refugio (Salón del Mercado Municipal) la familia se movilizó al refugio Centro Diurno -Refugio (Centro Diurno de Chaguarpamba) se actualiza a: 1 familias - 3 personas - 430 personas afectadas - 226 personas damnificadas - 15 familias damnificadas conformadas por 45 personas. - 3 personas heridas - 49 viviendas destruidas - 201 viviendas afectadas - 2 unidades educativas afectadas (Colegio Técnico Chaguarpamba y Unidad Educativa 5 de Junio) - Sistema de captación y distribución de agua potable (99% afectado) - 60% del Servicio de transporte afectado - 90% del Servicio de alcantarillado afectado - 1% del servicio de electricidad afectado - 1% del servicio de telecomunicaciones - 1 centro de salud afectado por ingreso de agua - Subcentro de Salud - 2 bienes públicos afectados por ingreso de agua – (UPC, Centro de Faenamiento Municipal) - 60 metros de longitud de vía de primer orden. - 50 metros de longitud de vía de tercer orden. UGR Chaguarpamba realiza el levantamiento de información, inspección técnica y activó el Alojamiento temporal: Mercado Municipal Chaguarpamba."
+            },
+            "response_actions": {
+              "original_narrative": "MTOP Loja realiza labores de limpieza vial -Cuerpo de Bomberos Chaguarpamba realiza labores de evacuación de agua y lodo en los sectores afectados"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ7 Umeva Loja-Zamora Chinchipe/UGR Chaguarpamba/Cuerpo de Bomberos"
+            }
+          },
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2025/03/01",
+            "location": {
+              "original_narrative": "Loja/Celica/Celica/Celica vía al Empalme [E68]",
+              "province": "Loja",
+              "canton": "Celica",
+              "parish": "Celica",
+              "sectors": [
+                "Celica vía al Empalme [E68]"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 01/03/2025, producto a lluvias suscitadas en la madrugadase produjo un deslizamiento que destruyó 01 vivienda en la que adicional funcionaba el negocio familiar. El 01/03/2025 se declaró en emergencia el cantón Celica"
+            },
+            "current_situation": {
+              "original_narrative": "Se activó el Refugio en la Capilla del Barrio El Dulce. Adicional, por precaución se activaron el Refugio Temporal en el Coliseo Municipal y el Albergue en el Centro de Desarrollo Infantil. Con fecha 25/03/2025 se cerró el Albergue Temporal activado en el Coliseo Ciudad de Celica y la familia conformada por"
+            },
+            "impacts": {
+              "original_narrative": "07 personas arrendó una vivienda donde permanecerá de manera indefinida -452 personas afectadas -128 familias afectadas -2 familias damnificadas conformadas por 4 personas (permanecen en la Capilla del Barrio El Dulce) -178 viviendas afectadas -2 viviendas destruidas. -2 personas fallecidas -1 bien privado destruido (restaurante ubicado en parte de la vivienda) -108 metros de longitud de vía aproximadamente UGR Celica realizó el levantamiento de información y coordinó el cierre del Albergue Temporal."
+            },
+            "response_actions": {
+              "original_narrative": "MTOP Loja en apoyo del GAD Cantonal de Celica y Empresa Minera “Titan Minerals” continúan labores de estabilización del talud. PMU actualizó cifras de afectaciones y coordina acciones de atención a la emergencia MTOP Loja en apoyo del GAD Provincial y GAD Cantonal de Celica continúan labores de limpieza vial. Ministro de MTOP coordinó en sitio la movilización de recursos para atención de la emergencia. Instituto de Investigación Geológico y Energético (IIGE), realizó inspección técnica en el sector. Gobernación de Loja coordinó atención de la emergencia. Cuerpo de Bomberos en apoyo de FFAA realizó labores de recuperación de enseres de la vivienda destruida. UGR Celica realiza el levantamiento de información y coordinó la activación de Refugio Temporal. COE Cantonal continúa coordinando acciones de respuesta de la emergencia MSP y Cruz Roja Ecuatoriana establecieron 1 punto de atención médica. PPNN verificó la novedad. SNGR coordinó la atención del evento y realiza constante monitoreo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ7 Umeva Loja-Zamora Chinchipe/Consola PPNN/Consola CB"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "section_3": {
+    "section": "Road Status Monitoring Due to Adverse Events",
+    "tables": {
+      "first_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Loja",
+            "Chaguarpamba",
+            "Santa Rufina",
+            "Santa Rufina, vía a la costa [E50]",
+            "DESLIZAMIENTO",
+            30,
+            "2025/02/22",
+            "Ninguna"
+          ]
+        ]
+      },
+      "first_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Manabí",
+            "Junín",
+            "Junín",
+            "Vía Junín, Pimpiguasí KM 42 [E384]",
+            "HUNDIMIENTO",
+            300,
+            "2025/03/21",
+            "[E-38]Rocafuerte-Tosagua, [E-387] Tosagua Calceta"
+          ],
+          [
+            "Napo",
+            "Archidona",
+            "Cotundo",
+            "Virgen de Guacamayos, Vía Y de Baeza - Y de Narupa [E20-E45]",
+            "ALUVIÓN",
+            "--",
+            "2025/03/28",
+            "Quito-Y de Baeza- Lago Agrio El Coca, Quito- Ambato-Tena-Y de Narupa-El Coca-Lago Agrio."
+          ],
+          [
+            "Chimborazo",
+            "Chunchi",
+            "Chunchi",
+            "Llarucun a 5 min de Chunchi en la vía Chunchi - Alausí [E-35]",
+            "DESLIZAMIENTO",
+            40,
+            "2025/03/21",
+            "Capzol – Chanchan – Huigra – Sibambe- Alausí."
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Nanegalito",
+            "km 68 vía Mitad del Mundo – río Blanco",
+            "SOCAVAMIENTO",
+            20,
+            "2025/03/19",
+            "Ninguna"
+          ],
+          [
+            "Loja",
+            "Loja",
+            "Malacatos",
+            "[E28] Nangora, vía Malacatos - Loja [E35]",
+            "DESLIZAMIENTO",
+            40,
+            "2025/03/10",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Salinas",
+            "Palacara, vía Salinas – Lita [E10]",
+            "SOCAVAMIENTO",
+            10,
+            "2025/03/09",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Cuenca",
+            "Molleturo",
+            "Km 53, vía Cuenca-Molleturo [E-582]",
+            "SOCAVAMIENTO",
+            25,
+            "2025/01/02",
+            "vía Cuenca-Girón-Pasaje."
+          ],
+          [
+            "Napo",
+            "Quijos",
+            "Cuyuja",
+            "El Laurel, Vía Y de Baeza – Papallacta [E20]",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/06/21",
+            "Ninguna"
+          ],
+          [
+            "Tungurahua",
+            "Baños de Agua Santa",
+            "Río Verde",
+            "Caserío El Placer, Quilloturo, ref. Vía Baños - Puyo [E30]",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/06/16",
+            "Ninugna"
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz de",
+            "Piedra Fina, vía El Chaco-Reventador",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/05/20",
+            "Ninguna"
+          ],
+          [
+            "Los Ríos",
+            "Babahoyo",
+            "Pineda Pimocha",
+            "[E45] Puente de Los Gemelos",
+            "SOCAVAMIENTO",
+            6,
+            "2024/01/19",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Carolina",
+            "San Jerónimo-Guadual; vía Salinas – Lita km 114 [E10]",
+            "DESLIZAMIENTO",
+            125,
+            "2023/12/22",
+            "Ninguna"
+          ],
+          [
+            "Tungurahua",
+            "Baños de Agua Santa",
+            "Río Verde",
+            "San Jorge, vía Baños – Puyo [E30]",
+            "SOCAVAMIENTO",
+            100,
+            "2023/07/16",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Parroquia Malimpia",
+            "Sector/Vía Malimpia, E20 pasando el basurero a mano derecha",
+            "SOCAVAMIENTO",
+            30,
+            "2023/04/03",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Limón Indanza",
+            "Yunganza (Cab. En Km 35, El Rosario, vía Bella Unión – Limón el rosario)",
+            "[E45]",
+            "DESLIZAMIENTO",
+            30,
+            "2023/03/04",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Puerto López",
+            "Salango",
+            "La Rinconada 5 Cerros, vía Puerto López –",
+            "HUNDIMIENTO",
+            4,
+            "2022/08/28",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Sucre",
+            "Leonidas Plaza",
+            "Santa Elena [E15]. Km 19, San Agustín-Tosagua [E-383]",
+            "SUBSIDENCIA",
+            150,
+            "2022/08/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo A.",
+            "km 38 + 600, vía Alóag – Unión del Toachi [E20]",
+            "HUNDIMIENTO",
+            15,
+            "2022/02/25",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Rosa Zarate (Quinindé)",
+            "Km 68 Los Vergeles, vía Esmeraldas – Quinindé [E20]",
+            "HUNDIMIENTO",
+            40,
+            "2022/02/08",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Carolina",
+            "San Jerónimo; vía Salinas – Lita [E 10]",
+            "DESLIZAMIENTO",
+            225,
+            "2021/12/22",
+            "1.- Ruta desde la E10 Guallupe – San Juan de Lachas (Carchi) – por la E 182 Gualchan – Chical – Maldonado – Tulcán – Ibarra , 2.- Para vehículos livianos, E10 desde San Jerónimo –"
+          ],
+          [
+            "Cañar",
+            "Cañar",
+            "Ingapirca",
+            "Vía El tambo – Ingapirca – Honorato Vásquez km 8+100, km 15",
+            "DESLIZAMIENTO",
+            100,
+            "2021/11/24",
+            "Buenos Aires – Cahuasqui – Tumbabiro. Ninguna"
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz De Pineda (El Bombón)",
+            "San Rafael, Piedra Fina, San Luis, San Carlos, Vía Y de Baeza-Lago Agrio [E45]",
+            "SOCAVAMIENTO",
+            1040,
+            "2020/02/02",
+            "Lago Agrio – Coca – Y de Narupa – Tena – Ambato – Quito"
+          ]
+        ]
+      },
+      "second_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "El Oro",
+            "Atahualpa",
+            "Cordoncillo",
+            "El Chupo, Vía Cordoncillo - Zaruma [E-",
+            "DESLIZAMIENTO",
+            30,
+            "2025/04/08",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Tumbaco",
+            "585] Vía Intervalles, Cununyacu – El Tingo",
+            "DESLIZAMIENTO",
+            "--",
+            "2025/04/07",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Cotacachi",
+            "Imantag",
+            "Ingreso a Piñan-Moran",
+            "DESLIZAMIENTO",
+            50,
+            "2025/02/09",
+            "Ninguna"
+          ],
+          [
+            "Santa Elena",
+            "Salinas",
+            "Anconcito",
+            "Vía al Puerto Pesquero",
+            "SOCAVAMIENTO",
+            "--",
+            "2023/03/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Conocoto",
+            "Calles Hermano Miguel y Panzaleo, cruce de vías",
+            "SOCAVAMIENTO",
+            30,
+            "2022/02/28",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Nabón",
+            "Nabón",
+            "Rosas, Bellavista, Tamboloma, Chunazana",
+            "DESLIZAMIENTO",
+            50,
+            "2021/03/14",
+            "Corraleja-Yasudel-Susudel"
+          ],
+          [
+            "Imbabura",
+            "Pimampiro",
+            "Pimampiro, Cabecera Cantonal",
+            "San José de Aloburo",
+            "DESLIZAMIENTO",
+            500,
+            "2021/11/09",
+            "Vía Narchimbuela - Pimampiro"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Tambillo",
+            "El Murco - Pasando la escuela Carlos Freire Larrea",
+            "INUNDACIÓN",
+            "---",
+            "2022/04/11",
+            "Ninguna"
+          ]
+        ]
+      },
+      "second_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": []
+      },
+      "third_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Pichincha",
+            "Quito",
+            "El Quinche",
+            "Línea Ferrea, Pasaje R Quito 7 y Reino",
+            "DESLIZAMIENTO",
+            "--",
+            "2025/03/20",
+            "Ninguna"
+          ],
+          [
+            "Carchi",
+            "Mira",
+            "Juan Montalvo",
+            "de Quito El Chilco - Juan Montalvo",
+            "DESLIZAMIENTO",
+            30,
+            "2025/03/12",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Pallatanga",
+            "Pallatanga",
+            "Pallatanga/ vía Jiménez - Azazan",
+            "SOCAVAMIENTO",
+            312,
+            "2025/03/04",
+            "Ninguna"
+          ],
+          [
+            "Cañar",
+            "Cañar",
+            "Gualleturo",
+            "Comunidad de Enén La Josefina, San Antonio de",
+            "DESLIZAMIENTO",
+            120,
+            "2025/02/22",
+            "paso alterno a la vía San Antonio-Gualleturo."
+          ],
+          [
+            "Cotopaxi",
+            "La Mana",
+            "Guasaganda (Cab. En Guasaganda Centro)",
+            "Guasaganda; vía Guayacán – Guasaganda – Pucayacu – El Arenal –",
+            "SOCAVAMIENTO",
+            "--",
+            "2025/02/13",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Pacto",
+            "La Florida – Quindigua Km 19 de la Ruta -La Loma -Ingapi-",
+            "DESLIZAMIENTO",
+            50,
+            "2025/02/13",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Cayambe",
+            "Juan Montalvo",
+            "Guayabillas y Santa Rosa Río Guachalá - vía a la Josefina",
+            "INUNDACIÓN",
+            100,
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Tambillo",
+            "Ushco, vía Tambillo – Panamericana Sur",
+            "INUNDACIÓN",
+            20,
+            "2022/04/10",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo Astorga (Tandapi)",
+            "Vía de ingreso a las Comunidades Peñas Blancas, El Paraíso, El Mirador y San Francisco",
+            "DESLIZAMIENTO",
+            140,
+            "2022/02/08",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Morona",
+            "Sinaí",
+            "Playas de San Luis, vía Santa María Tunants-Playas de San Luis-Quinta",
+            "INUNDACIÓN",
+            3884,
+            "2021/05/02",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Cuenca",
+            "Nulti",
+            "Cooperativa Pasto Romero, vía al centro Parroquial",
+            "DESLIZAMIENTO",
+            30,
+            "2021/04/16",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Chimborazo",
+            "Colta",
+            "Columbe",
+            "Comunidad San Bernardo vía San Bernardo - San Guisel Cielo Verde, Via Cielo Verde - García",
+            "SOCAVAMIENTO",
+            "--",
+            "2025/04/07",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Cotacachi",
+            "Cielo Verde, Via Cielo Verde - García García Moreno",
+            "Moreno",
+            "DESLIZAMIENTO",
+            80,
+            "2025/02/13",
+            "Ninguna"
+          ],
+          [
+            "Cotopaxi",
+            "La Maná",
+            "El Triunfo",
+            "La Libertad, vía La Maná - Recinto",
+            "HUNDIMIENTO",
+            15,
+            "2025/02/06",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Paute",
+            "Chicán",
+            "Estero Hondo Chicán",
+            "DESLIZAMIENTO",
+            20,
+            "2025/01/03",
+            "Ninguna"
+          ]
+        ]
+      }
+    }
+  }
+}

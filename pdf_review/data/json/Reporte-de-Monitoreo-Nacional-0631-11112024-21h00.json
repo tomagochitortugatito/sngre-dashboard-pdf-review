@@ -1,0 +1,1392 @@
+{
+  "metadata": {
+    "report_name": "Reporte-de-Monitoreo-Nacional-0631-11112024-21h00",
+    "start": "2024/11/11 09:00:00",
+    "end": "2024/11/11 21:00:00",
+    "last_update": "2024/11/11 21:12:38"
+  },
+  "section_1": {
+    "section": "Threat Monitoring",
+    "tables": {
+      "volcanic_hazard": {
+        "columns": [
+          "location",
+          "declared_alert_level",
+          "current_situation",
+          "current_assessment"
+        ],
+        "rows": [
+          [
+            "Volcán Reventador, Napo",
+            "NARANJA",
+            "igual a 1000 metros sobre el nivel del cráter en dirección Oeste-Nor-Oeste.",
+            "AMARILLO"
+          ],
+          [
+            "Volcán Chiles-Cerro Negro, Carchi",
+            "AMARILLA",
+            "18:00 nublado sin novedad",
+            "VERDE"
+          ],
+          [
+            "Volcán Sangay, Morona Santiago",
+            "AMARILLA",
+            "18:00 nublado sin novedad",
+            "VERDE"
+          ]
+        ]
+      },
+      "water_body_overflow": {
+        "overflowed_water_bodies": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": [
+            [
+              "---",
+              "---",
+              "--",
+              "----",
+              "---"
+            ]
+          ]
+        },
+        "water_bodies_rising_level": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": [
+            [
+              "---",
+              "---",
+              "---",
+              "--",
+              "---"
+            ]
+          ]
+        }
+      },
+      "forest_fires": {
+        "active_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": [
+            [
+              "Imbabura",
+              "San Miguel de Urcuqui",
+              "Buenos Aires",
+              "Páramo de San José",
+              10,
+              "2024/11/11"
+            ],
+            [
+              "Guayas",
+              "Guayaquil",
+              "Juan Gómez Rendón (Progreso)",
+              "vía a la Costa, por la Gasolinera Cerecita",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Guayas",
+              "Guayaquil",
+              "Chongón",
+              "vía a la Costa, ingresando por Casas Viejas – Sector La A la altura de las Antenas de",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Bolívar",
+              "Guaranda",
+              "Simiatug",
+              "Manguera la vía Simiatug Salinas",
+              5,
+              "2024/11/11"
+            ],
+            [
+              "Bolívar",
+              "Caluma",
+              "Caluma",
+              "Tres Cruces",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Chimborazo",
+              "Colta",
+              "Cajabamba",
+              "Guerraloma",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "El Oro",
+              "Pasaje",
+              "Uzhcurrumi",
+              "Uzhcurrumi",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Loja",
+              "Loja",
+              "Malacatos",
+              "Ceibopamba",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Loja",
+              "Loja",
+              "Malacatos",
+              "Rumishitana",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Pichincha",
+              "Quito",
+              "LLoa",
+              "Vía antigua hacia Chiriboga el Guarumal",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Pichincha",
+              "Quito",
+              "Calacali",
+              "Vía hacia Yunguilla",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Pichincha",
+              "Quito",
+              "San José de Minas",
+              "Chirisacha",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Pichincha",
+              "Quito",
+              "Nanegal",
+              "Chacapata",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Cañar",
+              "Cañar",
+              "San Antonio",
+              "San Antonio de Paguancay",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Cañar",
+              "Azogues",
+              "Luis Cordero",
+              "Biblicay",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Cuenca",
+              "Baños",
+              "Nero",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Cuenca",
+              "Baños",
+              "Yanasacha",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Sígsig",
+              "Sígsig",
+              "Shipir",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Girón",
+              "Asunción",
+              "Pichanillas",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Cuenca",
+              "Victoria del Portete",
+              "Corralpamba",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Cuenca",
+              "Cumbe",
+              "Cementerio de Cumbe",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Santa Isabel",
+              "Santa Isabel",
+              "Atalaya-Sauceloma",
+              "---",
+              "2024/11/10"
+            ],
+            [
+              "Azuay",
+              "Cuenca",
+              "Chaucha",
+              "San Antonio Alto - Tigranaloma",
+              "---",
+              "2024/11/09"
+            ],
+            [
+              "Azuay",
+              "Nabón",
+              "Zhiña",
+              "---",
+              "---",
+              "2024/11/08"
+            ],
+            [
+              "Azuay",
+              "Nabón",
+              "San Miguel de Rañas",
+              "267",
+              "---",
+              "2024/11/08"
+            ]
+          ]
+        },
+        "controlled_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": [
+            [
+              "Cotopaxi",
+              "Latacunga",
+              "Ignacio Flores",
+              "Ashpacruz vía a Belisario",
+              "--",
+              "2024/11/11"
+            ],
+            [
+              "El Oro",
+              "Atahualpa",
+              "Atahualpa",
+              "Quevedo. Detrás de la hidroeléctrica SIPENERG",
+              10,
+              "2024/11/11"
+            ],
+            [
+              "Azuay",
+              "Santa Isabel",
+              "Zhaglli (Shaglli)",
+              "CaraChula",
+              6,
+              "2024/11/09"
+            ]
+          ]
+        }
+      },
+      "dams_and_reservoirs": {
+        "columns": [
+          "resource",
+          "minimum_level",
+          "current_level",
+          "maximum_level",
+          "cutoff_time",
+          "assessment"
+        ],
+        "rows": [
+          [
+            "Molino, Azuay",
+            1975.0,
+            "--",
+            1990.5,
+            "--",
+            "--"
+          ],
+          [
+            "Mazar, Azuay",
+            2098,
+            "--",
+            2153.45,
+            "--",
+            "--"
+          ],
+          [
+            "Daule Peripa, Guayas",
+            70.0,
+            77.07,
+            85.0,
+            "08:48",
+            "VERDE"
+          ],
+          [
+            "Central Baba, Los Ríos",
+            114.0,
+            114.93,
+            117.0,
+            "02:07",
+            "VERDE"
+          ],
+          [
+            "Chongón, Guayas",
+            44.5,
+            44.71,
+            55.15,
+            "10:07",
+            "VERDE"
+          ],
+          [
+            "El Azúcar, Santa Elena",
+            40.0,
+            41.05,
+            45.09,
+            "10:07",
+            "VERDE"
+          ],
+          [
+            "San Vicente, Santa Elena",
+            50.0,
+            51.99,
+            57.49,
+            "10:07",
+            "VERDE"
+          ],
+          [
+            "La Esperanza, Manabí",
+            53.4,
+            61.67,
+            66.0,
+            "08:44",
+            "VERDE"
+          ],
+          [
+            "Poza Honda, Manabí",
+            104.29,
+            103.43,
+            106.51,
+            "08:44",
+            "VERDE"
+          ],
+          [
+            "Multipropósito Chone, Manabí",
+            48.0,
+            51.61,
+            68.5,
+            "08:44",
+            "VERDE"
+          ],
+          [
+            "Agoyán, Tungurahua",
+            1645.0,
+            "--",
+            1651.0,
+            "--",
+            "--"
+          ],
+          [
+            "Pucará-Pisayambo, Tungurahua",
+            3541.0,
+            "--",
+            3565.0,
+            "--",
+            "--"
+          ]
+        ]
+      },
+      "hydrometeorological_situation": {
+        "warning_number": null,
+        "hazard": {
+          "original": "",
+          "primary_family": "",
+          "phenomena": [],
+          "associated_risks": []
+        },
+        "validity_start": "",
+        "validity_end": "",
+        "description": "",
+        "affected_areas": "",
+        "source": "",
+        "original_narrative": ""
+      },
+      "seismic_hazard": {
+        "columns": [
+          "local_datetime",
+          "magnitude",
+          "depth",
+          "near",
+          "felt_by_population"
+        ],
+        "rows": [
+          [
+            "---",
+            "---",
+            "---",
+            "---",
+            "---"
+          ]
+        ]
+      },
+      "other_tables": []
+    }
+  },
+  "section_2": {
+    "section": "Adverse Event Monitoring",
+    "zones": {
+      "1": {
+        "events": [
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "Imbabura/San Miguel de Urcuqui/ Buenos Aires/Páramo de San José",
+              "province": "Imbabura",
+              "canton": "San Miguel de Urcuqui",
+              "parish": "Buenos Aires",
+              "sectors": [
+                "Páramo de San José"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se suscitó un incendio forestal, en una zona de difícil acceso."
+            },
+            "current_situation": {
+              "original_narrative": "El incendio se mantiene activo."
+            },
+            "impacts": {
+              "original_narrative": "- 10 ha de vegetación de matorrales (dato preliminar)."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Urcuquí realizaron los trabajos de control y sofocación del flagelo, debido a las condiciones del\nterreno agreste y la topografía del sector, se retira del lugar para retomar los trabajos el día 12/11/2024"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ1 Umeva Imbabura/Cuerpo de Bomberos de Urcuquí."
+            }
+          }
+        ]
+      },
+      "2": {
+        "events": [
+          {
+            "event_type": "Socavamiento",
+            "event_start_date": "2020/02",
+            "location": {
+              "original_narrative": "Orellana-Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-\nLago Agrio [E45].",
+              "province": "Orellana-Napo",
+              "canton": "El Chaco",
+              "parish": "Gonzalo Díaz De Pineda (El Bombón)",
+              "sectors": [
+                "San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza- Lago Agrio [E45]."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias\nviviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de SOTE,\nPoliducto Shushufindi – Quito y OCP."
+            },
+            "current_situation": {
+              "original_narrative": "Se mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja.\nEl frente de erosión se estima localizado en la abscisa 6+400 durante 3 días (por confirmar); aguas abajo, entre los\nkilómetros 6+400 y 10+000, continúa la erosión lateral en la margen izquierda, aguas arriba de San Carlos, afectando las\ninstalaciones petroleras y poniendo el preligro a la vía E45 en el sector del Mirador y tambien aguas abajo del río Loco,\ndonde tambien se afectaron las instalaciones petroleras."
+            },
+            "impacts": {
+              "original_narrative": "Desde el 2020 a la fecha las afectaciones son las siguientes:\n- 15 Personas afectadas\n- 26.804 Personas afectadas indirectas\n- 51 Personas damnificadas\n- 99 Personas evacuadas\n- 14 Viviendas afectadas\n- 6 Viviendas destruidas\nREPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0631\n- 4 Bienes públicos afectados: 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el\nhundimiento ocurrido el 07/04/2020); y 1 tubería de agua potable de San Luis y unaTorre de soporte de tubería tipo H.\n- 6 Bienes privados afectados: fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas)\n(05/09/2023), un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus\nde la Cooperativa Putumayo (24/11/2023)\n- 5 Puentes destruidos: Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2 , Puente colgante San Carlos\ny Puente sobre el río Marker.\n- 1120 Metros de vía afectadas\n- 100.03 Ha de Cultivo perdida\n- 3448 Animales de granja afectados y muertos"
+            },
+            "response_actions": {
+              "original_narrative": "Ep Petroecuador y OCP implementan las contingencias para superar los eventos de fuerza mayor; OCP construye dos\nbypass.\nLa Comisión Ejecutora Río Coca - CELEC EP, SNGR, Tenencia Política de Gonzalo Diaz de Pineda, Cuerpo de Bomberos El\nChaco y CCGR San Luis realizan monitoreo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ2 Umeva Napo-Orellana/ Técnico/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de\nBomberos El Chaco."
+            }
+          }
+        ]
+      },
+      "3": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2024/06/16",
+            "location": {
+              "original_narrative": "Tungurahua/Baños de Agua Santa/Río Verde/Caserío El Placer, Quilloturo, ref. Vía Baños - Puyo [E30].",
+              "province": "Tungurahua",
+              "canton": "Baños de Agua Santa",
+              "parish": "Río Verde",
+              "sectors": [
+                "Caserío El Placer, Quilloturo, ref. Vía Baños - Puyo [E30]."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a las lluvias registradas el 16/06/2024, en el sector se produjo un deslizamiento de magnitud que afecta\ncompletamente la vía de primer orden, afectó completamente la vía de primer orden, así como a las personas que se\nencontraban trabajando en el sector.\nEl 21/06/2024, se activó el COE Provincial Tungurahua.\nSNGR realizó una inspección el 18 de junio 2024.\nCOE Cantonal y Provincial activados ante la emergencia, y se coordina la participación de las mesas técnicas provinciales:\nMTT-1, MTT-3, MTT-4 y MTT-7, así como también los grupos de trabajo provinciales: GT1, GT2 y GT3."
+            },
+            "current_situation": {
+              "original_narrative": "Se trasladó a 4 heridos críticos al Hospital Básico Baños, los demás se encuentran en el Centro de Salud Río Verde; adicional\nexisten dos alojamientos temporales activados (Iglesia Evangélica Luz y Verdad, Iglesia Católica).\nCOE Provincial se reunió el 23/10/2024 a las 10:15, para coordinar acciones debido a afectaciones por lluvias en los cantones\nde Baños, Patate y Quero.\nAl momento la vía se encuentra habilitada en el lugar del evento."
+            },
+            "impacts": {
+              "original_narrative": "•     399 familias afectadas (1201 personas)\n•     67 familias damnificadas (217 personas)\n•     24 personas heridas.\n•     14 personas fallecidas\n•     30 personas ubicadas (Al momento ya se encuentran a buen recaudo)\n•     13 viviendas afectadas.\n•     11 viviendas destruidas.\n•     80 % del servicio de agua potable afectado en el cantón Baños, (restablecido el 100%)\n•     20 % del servicio de energía eléctrica afectado en cantón Baños, (restablecido el 100%)\n•     10490 metros aproximadamente de vía de primer orden afectado.\n•     1 puente afectado.\n•     10 Bienes públicos afectados. (Postes de alumbrado)\n•     4 bienes privados destruidos (Vehículos)\n•     1 establecimiento de salud afectado (Centro de Salud Río Verde)\n•     271 Familias Evacuadas\n•     Guardería 6 familias (13 personas)\n•     Fundación Oscar Efrén Reyes 4 familias (10 personas)\n•     Casa Sr. Abdón Recalde 6 familias (21 personas)\n•     66,6 ha de cultivos afectados\n•     98,5 ha de cultivos destruidos\n•     3750 animales de granja afectados\n•     3500 animales de granja muertos\nMediante reunión del COE Provincial se resolvió lo siguiente:\n- Análisis del puente Las Juntas y la mina en Pelileo: Se solicitó al MTOP y la Secretaría de Gestión de Riesgos realizar un"
+            },
+            "response_actions": {
+              "original_narrative": "análisis estructural del puente de Las Juntas, y al GAD de Pelileo un informe técnico sobre la mina cercana. Estas\nevaluaciones serán clave para futuras intervenciones.\n- Mesa de trabajo para Baños de Agua Santa: Se convocará a la Secretaría de Gestión de Riesgos, el Municipio de Baños y\nel MIDUVI para avanzar en la implementación de un decreto sobre riesgos en la zona.\nREPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0631\n- Activación de la GT3 con organismos de socorro y juntas parroquiales: El Cuerpo de Bomberos de Ambato solicitó activar\nla GT3 para coordinar acciones de respuesta ante emergencias con los organismos de socorro y juntas parroquiales.\n- Reiteración de activación de la GT3: El Cuerpo de Bomberos de Ambato reafirmó la importancia de activar la GT3 con\nparticipación de juntas parroquiales, autoconvocando una reunión el 24 de octubre de 2024 para mejorar la coordinación\nen casos de emergencia.\n- SNGR Monitorea el evento.."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ3 Umeva Tungurahua/Cuerpo de Bomberos Baños/GAD Baños/EEASA/UGR GAD Provincial"
+            }
+          }
+        ]
+      },
+      "4": {
+        "events": [
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "Manabí/Flavio Alfaro/Flavio Alfaro/Ciriaco 2, por el cementerio.",
+              "province": "Manabí",
+              "canton": "Flavio Alfaro",
+              "parish": "Flavio Alfaro",
+              "sectors": [
+                "Ciriaco 2, por el cementerio."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se suscitó un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "El incendio se encuentra liquidado en su totalidad."
+            },
+            "impacts": {
+              "original_narrative": "- 15 ha. de vegetación nativa (pajonal)."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Flavio Alfaro realizó los trabajos de control y sofocación del flagelo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ4 Umeva Manabí/Cuerpo de Bomberos de Flavio Alfaro."
+            }
+          },
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "Manabí/Chone/Convento/Vía a Zapallo por la iglesia",
+              "province": "Manabí",
+              "canton": "Chone",
+              "parish": "Convento",
+              "sectors": [
+                "Vía a Zapallo por la iglesia"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se suscitó un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "El incendio se encuentra liquidado en su totalidad."
+            },
+            "impacts": {
+              "original_narrative": "- 15 ha. de vegetación nativa (pajonal)."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Chone realizó los trabajos de control y sofocación del flagelo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ4 Umeva Manabí/Cuerpo de Bomberos de Chone."
+            }
+          }
+        ]
+      },
+      "5": {
+        "events": [
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/06",
+            "location": {
+              "original_narrative": "Bolívar/Guaranda/Gabriel Ignacio Veintimilla/Casaiche a la altura de las cordilleras.",
+              "province": "Bolívar",
+              "canton": "Guaranda",
+              "parish": "Gabriel Ignacio Veintimilla",
+              "sectors": [
+                "Casaiche a la altura de las cordilleras."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 06/11/2024, por causas desconocidas se suscitó un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "El incendio se encuentra liquidado en su totalidad."
+            },
+            "impacts": {
+              "original_narrative": "- 50 ha de pajonal y rastrojo de árboles de pino talado."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Guaranda finalizó las labores de liquidación del incendio forestal.\nMAATE Bolívar el 13/11/2024, realizará el talonamiento del área afectada."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ5 Umeva Bolívar/Cuerpo de Bomberos de Guaranda."
+            }
+          }
+        ]
+      },
+      "6": {
+        "events": [
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/08",
+            "location": {
+              "original_narrative": "Azuay/Cuenca/Chaucha/San Antonio Alto – Tigranaloma,",
+              "province": "Azuay",
+              "canton": "Cuenca",
+              "parish": "Chaucha",
+              "sectors": [
+                "San Antonio Alto – Tigranaloma"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 08/11/2024, se produjo un incendio forestal en el sector."
+            },
+            "current_situation": {
+              "original_narrative": "Debido a la topografía de la zona y los fuertes vientos el incendio forestal se mantiene activo."
+            },
+            "impacts": {
+              "original_narrative": "---"
+            },
+            "response_actions": {
+              "original_narrative": "Aeronave FENEC de Fuerzas Armadas realizó 15 descargas con un total de 11.300 litros de agua en 3 horas con 30 minutos.\nCuerpo de Bomberos de Cuenca debido a la hora retorna a su base para el día 12/11/2024 reanudar las labores de sofocación."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ6 Umeva Azuay-Cañar/Cuerpo de Bomberos de Cuenca.\nREPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0631"
+            }
+          },
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/08",
+            "location": {
+              "original_narrative": "Azuay/Nabón/Nabón/San Miguel de Rañas",
+              "province": "Azuay",
+              "canton": "Nabón",
+              "parish": "Nabón",
+              "sectors": [
+                "San Miguel de Rañas"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 08/11/2024, por causas desconocidas se suscitó un incendio forestal.\nEl 11/11/2024, 15H00 se activó el COE Cantonal para determinar acciones de respuesta a la emergencia.\nEl incendio forestal permanece activo, adicional se produjo un incendio de interfaz el cual afectó una vivienda del sector\n(vacacional)."
+            },
+            "current_situation": {
+              "original_narrative": "GAD Cantonal realizó la activación del Comité de Operaciones de Emergencias Cantonal, determinando las siguientes\nresoluciones:\n1. Solicitar la activación de Fuerzas Armadas y Brigadas de Refuerzo de Incendios Forestales – BRIF.\n2. Solicitar la activación del helicóptero de FFAA con el dispositivo Bambi Bucket.\n3. Solicitar recursos emergentes al GAD Municipal.\n4. Activar el Puesto de Mando Unificado – PMU.\n5. Solicitar apoyo de los Cuerpo de Bomberos Oña, Girón y Cuenca.\n6. Solicitar la colaboración de la CTE y Policía Nacional para resguardar la seguridad vial."
+            },
+            "impacts": {
+              "original_narrative": "- 1 vivienda afectada (vacacional).\n- 267 ha de bosque de pino (cifra preliminar)"
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Nabón mantienen las labores de combate al incendio forestal."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ6 Umeva Azuay-Cañar/Cuerpo de Bomberos de Nabón."
+            }
+          },
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/05",
+            "location": {
+              "original_narrative": "Azuay/Sígsig/Jima/Viola",
+              "province": "Azuay",
+              "canton": "Sígsig",
+              "parish": "Jima",
+              "sectors": [
+                "Viola"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 05/11/2024, por causas desconocidas se suscitó un incendio forestal.\nEl 07/11/2024, se realizó la activación del COE Cantonal para realizar el análisis de las acciones de respuesta al incendio\nforestal. Cuerpo de Bomberos Sígsig activó el Puesto de mando Unificado - PMU."
+            },
+            "current_situation": {
+              "original_narrative": "PMU informa que el incendio forestal se encuentra liquidado en su totalidad."
+            },
+            "impacts": {
+              "original_narrative": "- 32 ha de cobertura vegetal quemada (cifra preliminar)"
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Sígsig realizó monitoreo del evento."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ6 Umeva Azuay-Cañar/SNGR CZ6/Cuerpo de Bomberos de Cuenca/GAD P/Cuerpo de Bomberos de Sígsig."
+            }
+          },
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2022/06/03",
+            "location": {
+              "original_narrative": "Azuay/Santa Isabel/Santa Isabel/La Cría.",
+              "province": "Azuay",
+              "canton": "Santa Isabel",
+              "parish": "Santa Isabel",
+              "sectors": [
+                "La Cría."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 03/06/2022, se suscitó un deslizamiento producto de la saturación del suelo originado por la combinación del deficiente\nsistema de riego en el sector, del taponamiento de diferentes quebradas y la deficiencia en el drenaje del terreno.\nEl 31/03/2023 la SGR declaró la ALERTA AMARILLA al polígono identificado como susceptible a movimientos en masa, el cual\ntiene un área de 526.22 hectáreas que se extiende sobre la comunidad La Cría, cantón Santa Isabel, provincia del Azuay.\nEl 06/04/2023, la SNGR emite el cambio a ALERTA NARANJA de acuerdo al informe elaborado por Técnico de Análisis de\nRiesgos de la Coordinación Zonal 6 de Gestión de Riesgos.\nEl 20/06/2023 MIES entregó Bonos de Contingencia a 22 familias afectadas de la comunidad La Cría."
+            },
+            "current_situation": {
+              "original_narrative": "GAD Cantonal indica que al 03/01/2024 permanecían 4 familias integradas por 10 personas alojadas en el AT San Isidro.\nEl 26/01/2024 se realizó la activación del COE Provincial Azuay para realizar el seguimiento del evento y establecer\nacciones.\nTécnico de la SNGR informa que se realizaron nuevas entregas de asistencia humanitaria"
+            },
+            "impacts": {
+              "original_narrative": "-44 viviendas afectadas\n-44 familias afectadas\n-178 personas afectadas\n-8 viviendas destruidas\n-8 familias damnificadas\n-25 personas damnificadas (permanecen en casa de familias acogientes)\n-38 familias evacuadas.\n-130 personas evacuadas (albergue temporal) (Con fecha 09/05/2024 se encuentran en el albergue 1 familias de 1 persona)\n-1 bien privado afectado (capilla)\n-1 bien público afectado (casa comunal)\n-1 bien público afectado (cancha central)\n-3 bienes privados afectados (predios)"
+            },
+            "response_actions": {
+              "original_narrative": "UGR Santa Isabel en conjunto con SGR CZ6 realizan acciones de atención a la emergencia"
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ6 Umeva Azuay-Cañar.\nREPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0631"
+            }
+          }
+        ]
+      },
+      "7": {
+        "events": [
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "Loja/Loja/Gualel/El Rodeo.",
+              "province": "Loja",
+              "canton": "Loja",
+              "parish": "Gualel",
+              "sectors": [
+                "El Rodeo."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se suscitó un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "El incendio se encuentra liquidado en su totalidad."
+            },
+            "impacts": {
+              "original_narrative": "- 80 ha de pajonal y vegetación nativa."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de El Cisne culminaron con trabajos de liquidación del flagelo\nSNGR coordinó la atención del evento y realiza constante monitoreo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ4 Umeva Loja-Zamora Chinchipe/Cuerpo de Bomberos de El Cisne."
+            }
+          },
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "El Oro/Atahualpa/Atahualpa/Detrás de la hidroeléctrica Sipenerg.",
+              "province": "El Oro",
+              "canton": "Atahualpa",
+              "parish": "Atahualpa",
+              "sectors": [
+                "Detrás de la hidroeléctrica Sipenerg."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se registró un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "El incendio se encuentra liquidado en su totalidad."
+            },
+            "impacts": {
+              "original_narrative": "- 20 hectáreas de vegetación nativa y pino."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Loja con apoyo del tanquero de H2O de FFAA (Cazaderos de los ríos) realizaron labores de\nsofocación y liquidación del flagelo."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR coordinó la atención del evento.\nSNGR CZ7 Umeva Loja-Zamora Chinchipe/Cuerpo de Bomberos de Loja."
+            }
+          },
+          {
+            "event_type": "Incendio forestal",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "Loja/Loja/San Sebastián/Capulí.",
+              "province": "Loja",
+              "canton": "Loja",
+              "parish": "San Sebastián",
+              "sectors": [
+                "Capulí."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se registró un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "al momento el incendio ha sido controlado."
+            },
+            "impacts": {
+              "original_narrative": "- 10 hectáreas de pastizal y vegetación nativa consumida."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Atahualpa realizaron tareas sofocación logrando controlar el incendio. El 12/11/2024 se trasladarán\nal sitio para realizar monitoreo a pequeños focos inaccesibles los cuales se espera que se extingan de manera natural."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ7 Umeva El Oro/Cuerpo de Bomberos de Chilla/UPREA SNGR El Oro"
+            }
+          }
+        ]
+      },
+      "8": {
+        "events": [
+          {
+            "event_type": "Incendio estructural",
+            "event_start_date": "2024/11/11",
+            "location": {
+              "original_narrative": "Guayas/Guayaquil/García Moreno/Calles José Mascote y 4 de Noviembre",
+              "province": "Guayas",
+              "canton": "Guayaquil",
+              "parish": "García Moreno",
+              "sectors": [
+                "Calles José Mascote y 4 de Noviembre"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 11/11/2024, por causas desconocidas se registró un incendio forestal."
+            },
+            "current_situation": {
+              "original_narrative": "al momento el incendio ha sido controlado."
+            },
+            "impacts": {
+              "original_narrative": "- 10 hectáreas de pastizal y vegetación nativa consumida."
+            },
+            "response_actions": {
+              "original_narrative": "Cuerpo de Bomberos de Atahualpa realizaron tareas sofocación logrando controlar el incendio. El 12/11/2024 se trasladarán\nal sitio para realizar monitoreo a pequeños focos inaccesibles los cuales se espera que se extingan de manera natural."
+            },
+            "information_sources": {
+              "original_narrative": "SNGR CZ7 Umeva El Oro/Cuerpo de Bomberos de Chilla/UPREA SNGR El Oro\nREPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0631"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "section_3": {
+    "section": "Road Status Monitoring Due to Adverse Events",
+    "tables": {
+      "first_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": []
+      },
+      "first_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Napo",
+            "Quijos",
+            "Cuyuja",
+            "El Laurel, Vía Y de Baeza – Papallacta [E20]",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/06/21",
+            "Ninguna"
+          ],
+          [
+            "Bolivar",
+            "Chillanes",
+            "Chillanes",
+            "Km 31, vía Chillanes-Bucay",
+            "DESLIZAMIENTO",
+            15,
+            "2024/05/27",
+            "Ninugna"
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz de Pineda",
+            "Piedra Fina, vía El Chaco-Reventador [E45]",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/05/20",
+            "Ninguna"
+          ],
+          [
+            "Cotopaxi",
+            "Pujilí",
+            "Tingo",
+            "Tacajaló ingreso a la Esperanza, vía Pujilí –",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/01/31",
+            "Ninguna"
+          ],
+          [
+            "Los Ríos",
+            "Babahoyo",
+            "Pimocha",
+            "La Maná [E-30] Puente de Los Gemelos",
+            "SOCAVAMIENTO",
+            6,
+            "2024/01/19",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Carolina",
+            "San Jerónimo-Guadual; vía Salinas – Lita km 114 [E10]",
+            "DESLIZAMIENTO",
+            125,
+            "2023/12/22",
+            "Ninguna"
+          ],
+          [
+            "Tungurahua",
+            "Baños de Agua Santa",
+            "Río Verde",
+            "San Jorge, vía Baños – Puyo [E30]",
+            "SOCAVAMIENTO",
+            100,
+            "2023/07/16",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Malimpia",
+            "Malimpia, E20 pasando el basurero a mano derecha",
+            "SOCAVAMIENTO",
+            30,
+            "2023/04/03",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Limón Indanza",
+            "Yunganza (Cab. En el rosario)",
+            "Km 35, El Rosario, vía Bella Unión – Limón [E45]",
+            "DESLIZAMIENTO",
+            30,
+            "2023/03/04",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Sevilla de Oro",
+            "Palmas",
+            "km 76, Vía Paute Guarumales Méndez [E- 40]",
+            "DESLIZAMIENTO",
+            25,
+            "2022/09/05",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Sevilla de Oro",
+            "Palmas",
+            "km 61, Vía Paute Guarumales Méndez [E- 40]",
+            "SOCAVAMIENTO",
+            35,
+            "2022/08/30",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Puerto López",
+            "Salango",
+            "La Rinconada 5 Cerros, vía Puerto López –",
+            "HUNDIMIENTO",
+            4,
+            "2022/08/28",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Sucre",
+            "Leonidas Plaza",
+            "Santa Elena [E15]. Km 19, San Agustín-Tosagua [E-383]",
+            "SUBSIDENCIA",
+            150,
+            "2022/08/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo A.",
+            "km 38 + 600, vía Alóag – Unión del Toachi [E20]",
+            "HUNDIMIENTO",
+            15,
+            "2022/02/25",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Rosa Zarate (Quinindé)",
+            "Km 68 Los Vergeles, vía Esmeraldas – Quinindé [E20]",
+            "HUNDIMIENTO",
+            40,
+            "2022/02/08",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Ibarra",
+            "Carolina",
+            "San Jerónimo; vía Salinas – Lita [E 10]",
+            "DESLIZAMIENTO",
+            225,
+            "2021/12/22",
+            "1.- Ruta desde la E10 Guallupe – San Juan de Lachas (Carchi) – por la E 182 Gualchan – Chical – Maldonado – Tulcán – Ibarra , 2.- Para vehículos livianos, E10 desde San Jerónimo – Buenos Aires"
+          ],
+          [
+            "Cañar",
+            "Cañar",
+            "Ingapirca",
+            "Vía El tambo – Ingapirca – Honorato Vásquez km 8+100, km 15.",
+            "DESLIZAMIENTO",
+            100,
+            "2021/11/24",
+            "– Cahuasqui – Tumbabiro. Ninguna"
+          ],
+          [
+            "Napo",
+            "El Chaco",
+            "Gonzalo Díaz De Pineda (El Bombón)",
+            "San Rafael, Piedra Fina, San Luis, San Carlos, Vía Y de Baeza-Lago Agrio [E45]",
+            "SOCAVAMIENTO",
+            1040,
+            "2020/02/02",
+            "Lago Agrio – Coca – Y de Narupa – Tena – Ambato – Quito"
+          ]
+        ]
+      },
+      "second_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Tungurahua",
+            "Baños",
+            "Lligua",
+            "Capa Rosada, vía Baños- Puñapi-Patate",
+            "SOCAVAMIENTO",
+            500,
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Santa Elena",
+            "Salinas",
+            "Anconcito",
+            "aproximadamente a 2 km de Baños Vía al Puerto Pesquero",
+            "SOCAVAMIENTO",
+            "--",
+            "2023/03/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Conocoto",
+            "Calles Hermano Miguel y Panzaleo, cruce de vías",
+            "SOCAVAMIENTO",
+            30,
+            "2022/02/28",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Nabón",
+            "Nabón",
+            "Rosas, Bellavista, Tamboloma, Chunazana",
+            "DESLIZAMIENTO",
+            50,
+            "2021/03/14",
+            "Corraleja-Yasudel-Susudel"
+          ],
+          [
+            "Imbabura",
+            "Pimampiro",
+            "Pimampiro, Cabecera Cantonal",
+            "San José de Aloburo",
+            "DESLIZAMIENTO",
+            500,
+            "2021/11/09",
+            "Vía Narchimbuela - Pimampiro"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Tambillo",
+            "El Murco - Pasando la escuela Carlos Freire Larrea REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0631",
+            "INUNDACIÓN",
+            "---",
+            "2022/04/11",
+            "Ninguna"
+          ]
+        ]
+      },
+      "second_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Napo",
+            "Tena",
+            "Ahuano",
+            "Ahuano, vía Ahuano-Campana Cocha",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/07/02",
+            "Ninguna"
+          ],
+          [
+            "Napo",
+            "Tena",
+            "Chontapunta",
+            "Unión Lojana, Vía Chonta Punta- Los",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/05/29",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Pallatanga",
+            "Pallatanga",
+            "Zorros-Límite con Orellana [E436A] Jiménez, vía Jiménez - Pallatanga",
+            "SOCAVAMIENTO",
+            "--",
+            "2023/05/27",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Pastaza",
+            "Pastaza",
+            "Simón Bolívar (Cab. En",
+            "Chicocopataza, vía Simón Bolívar –",
+            "HUNDIMIENTO",
+            "---",
+            "2024/11/01",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Cayambe",
+            "Mushullacta) Juan Montalvo",
+            "Chicocopataza Río Guachalá - vía a la Josefina",
+            "INUNDACIÓN",
+            100,
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Pastaza",
+            "Pastaza",
+            "Simón Bolívar",
+            "Los Tayos, Chumpi, Peas, Wisui, Tuna",
+            "INUNDACIÓN",
+            10,
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Tambillo",
+            "Ushco, vía Tambillo – Panamericana Sur Vía de ingreso a las Comunidades Peñas",
+            "INUNDACIÓN",
+            20,
+            "2022/04/10",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo Astorga (Tandapi)",
+            "Blancas, El Paraíso, El Mirador y San Francisco",
+            "DESLIZAMIENTO",
+            140,
+            "2022/02/08",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Morona",
+            "Sinaí",
+            "Playas de San Luis, vía Santa María Tunants-Playas de San Luis-Quinta",
+            "INUNDACIÓN",
+            3884,
+            "2021/05/02",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Cuenca",
+            "Nulti",
+            "Cooperativa Pasto Romero, vía al centro Parroquial",
+            "DESLIZAMIENTO",
+            30,
+            "2021/04/16",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Chimborazo",
+            "Riobamba",
+            "Pungalá",
+            "Complejo Turístico Las Rocas, Punin Guayco, Misniag, Peltetec, Alao Llactapamba, Alao San Antonio vía",
+            "ALUVIÓN",
+            "--",
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Penipe",
+            "Bilbao",
+            "Pungalá - Alao Yuibug Chico, antigua vía Penipe - Baños",
+            "ALUVIÓN",
+            "--",
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Cayambe",
+            "Cangahua",
+            "vía Larcachaca- Oyacachi (Moras, Hierba Buena), Yacuchupa- Sayaro; sectores",
+            "DESLIZAMIENTO",
+            600,
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Penipe",
+            "La Candelaria",
+            "Chitachaca y Guanguilquí Penipe - La Candelaria",
+            "ALUVIÓN",
+            "--",
+            "2024/06/16",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Pucará",
+            "Pucará",
+            "Km 2.5 de la vía Minas-Tablón-Pucará",
+            "SOCAVAMIENTO",
+            60,
+            "2024/05/27",
+            "Ninguna"
+          ]
+        ]
+      }
+    }
+  }
+}

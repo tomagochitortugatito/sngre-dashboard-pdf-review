@@ -1,0 +1,2 @@
+streamlit[pdf]==1.61.1
+pandas==3.0.5

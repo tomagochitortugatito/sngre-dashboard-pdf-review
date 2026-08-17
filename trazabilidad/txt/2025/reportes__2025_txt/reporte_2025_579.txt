@@ -1,0 +1,507 @@
+
+Periodo de Monitoreo:		Desde:	  09:00	10/03/2025		Hasta:	21:00	10/03/2025
+								
+
+Monitoreo de amenazas
+
+[ROJO]     Amenaza en desarrollo, posible desencadenamiento de eventos adversos. [AMARILLO]     Amenaza en incremento y probable materialización inminente. [VERDE]     Amenaza dentro de los parámetros normales.
+
+
+PELIGRO VOLCÁNICO:
+Ubicación	Nivel de alerta declarada	Situación actual	Valoración actual
+	Volcán Reventador Napo	NARANJA	16:40 emisión de gases y ceniza, con una altura de la nube igual a 1000 metros sobre el nivel del cráter con dirección Nor-Este.	[VERDE]
+	Volcán Chiles-Cerro Negro Carchi	AMARILLA	18:00 Se visualiza el sector nublado.	[VERDE]
+	Volcán Sangay Morona Santiago	AMARILLA	18:00 Se visualiza el sector nublado.	[VERDE]
+	Volcán Cotopaxi		18:00 Se visualiza el sector nublado.	[VERDE]
+PELIGRO POR DESBORDAMIENTOS DE CUERPOS HÍDRICOS:
+
+
+
+
+
+PELIGRO POR APERTURA O COLAPSO DE PRESAS Y REPRESAS:
+
+Recurso	Cota mínima	Cota Actual	Cota máxima	Hora de corte	Valoración
+Molino, Azuay	1975.00	1990.85	1990.50	15:00	[VERDE]
+Mazar, Azuay	2138.05	2153.32	2153.45	15:00	[VERDE]
+Daule Peripa, Guayas	70.00	80.34	85.00	08:14	[VERDE]
+Central Baba, Los Ríos	114.00	116.27	117.00	08:14	[VERDE]
+Chongón, Guayas	44.50	48.79	55.15	10:10	[VERDE]
+El Azúcar, Santa Elena	40.00	44.80	45.09	10:10	[VERDE]
+San Vicente, Santa Elena	50.00	56.18	57.49	10:10	[VERDE]
+La Esperanza, Manabí	53.40	63.93	66.00	08:04	[VERDE]
+Poza Honda, Manabí	104.29	104.52	106.51	08:04	[VERDE]
+Multipropósito Chone, Manabí	48.00	62.69	68.50	08:04	[VERDE]
+Agoyán, Tungurahua	1645.00	--	1651.00	--	--
+Pucará-Pisayambo, Tungurahua	3541.00	--	3565.00	--	--
+
+
+
+DECLARATORIAS DE NIVELES DE ALERTA VIGENTES POR AMENAZAS Y/O EVENTOS ADVERSOS, VISITAR LA PÁGINA WEB:
+
+
+
+
+
+PELIGRO SÍSMICO:
+
+
+Fecha – Hora Local	Magnitud	Profundidad	Cercano a	Sentido por la población
+--	--	--	--	--
+
+
+
+Monitoreo de eventos adversos  (emergencias y desastres)
+
+ZONA 1
+
+	Inundación
+	Localización:	Imbabura/Ibarra/Angochagua/Sector El Barrio Zuleta
+	Antecedentes:	Producto de las fuertes precipitaciones registradas la tarde del 07/03/2025, se suscitó el desbordamiento del río Tahuando que afecto a viviendas y vías de segundo orden. Los tanques de reserva de agua potable ubicados en la zona alta del sector se cerraron para evitar contaminación del agua.
+	Situación actual:	La vía de segundo orden se encuentra totalmente habilitada. El paso del puente se encuentra cerrado para tránsito vehicular, la vía alterna se da por la  parte interior de la hacienda Zuleta. Las familias se mantienen pernoctando en sus mismas viviendas, el río Tahuando se encuentra normal. El sector ya no presenta anegamiento.
+	Afectaciones:	-29 familias 103 personas afectadas. -29 viviendas afectadas. -30 metros lineales de vía afectada (habilitada) -1 puente de madera afectado, 40% (cerrado para paso vehicular)
+	Acciones de respuesta:	Los comuneros del sector realizaron minga en las bases del puente para rehabilitar el paso vehicular GADP Angochagua conjuntamente con los comuneros del sector para la limpieza de las vías con apoyo de OOPP del GAD C Ibarra. SNGR con apoyo del GAD Cantonal Ibarra, Fuerzas Armadas, Gobernación de Imbabura y EMELNORTE realizaron la entrega de Asistencia Humanitaria a las familias afectadas. SNGR UAR realizó inspección técnica para levantamiento de información y posterior elaboración de informe respecto al área de afectación. MSP activó plan de contingencia ante el desbordamiento del río Tahuando en Imbabura, adicional brindó atención médica y apoyo psicológico permanente a las familias afectadas. MIES realizó la entrega de Asistencia Humanitaria (kits de vestir). UGR GAD Cantonal Ibarra realizó sobrevuelo con DRON equipo no tripulado para verificar los sitios donde ingresaría la maquinaria. GAD C Ibarra realizó la EVIN para la entrega de bonos de contingencia y emergencia por parte del MIES. EMAPA Imbabura conjuntamente con Cuerpo de Bomberos Ibarra realizaron la entrega de agua mediante tanqueros, además realizaron el baldeo de las viviendas y limpieza de la red de agua potable y alcantarillado
+	Fuentes de información:	SNGR CZ1 Umeva Imbabura-Carchi/Esmeraldas/UGR GAD C Ibarra.
+
+
+	Aluvion
+	Localización:	Imbabura/Cotacachi/Plaza Gutiérrez/Comunidad Santa Rosa –El Pedregal
+	Antecedentes:	Producto de las fuertes lluvias de la noche del 17/02/2025 y madrugada del 18/02/2025, se dio el desbordamiento de la quebrada La Variante y el desplome de tierra en la parte alta de la vía principal sector en el secto La Mina provocando un aluvión que arrastró flujos de lodo y material vegetal, debido a esto se cerró una vía de tercer orden en dos tramos, incomunicando a las familias del sector, lo que impide el ingreso y salida de productos, la movilización de los estudiantes a las clases; y afecta al comercio ya que en el sitio existen 3 emprendimientos turísticos y 1 criadero de trucha; ambién se produjo el ingreso de agua a una vivienda y la afectación del sistema de agua de consumo dejando sin agua a la comunidad. El día 19/02/2025 se presentaron nuevos deslizamientos cerrando totalmente la vía principal desde el Pedregal a San Fernando. Al momento la quebrada se encuentra en su estado normal.
+	Situación actual:	Al momento la vía de tercer orden, se encuentra parcialmente habilitada. Se verificó in situ la afectación de las áreas productivas en el que se determina la pérdida total de 400 m2 de plátano y se observó que otros cultivos como café 5000 m2 y mandarina 100 m2 no tienen daño en las plantas pero si se visualiza el ingreso de sedimentos sólidos de tierra a los predios.
+	Afectaciones:	-1 familia y 2 personas damnificadas (1 vivienda afectada) -8 familias y 24 personas afectadas (incomunicadas por las vías cerradas) -10 familias y 40 personas afectadas indirectamente por no contar con agua de consumo (restablecido) -100 % del sistema de agua de consumo afectado (restablecido) -3 bienes públicos destruidos (2 tanques de reserva y 1 tubería de agua de consumo) -3000 metros lineales de vía de tercer orden afectada (2 tramos: 1er tramo camino del sector Pedregal y 2do tramo vía principal El Pedregal - San Fernando) -0,04 hectáreas de cultivos destruidos (plátano)
+	Acciones de respuesta:	SNGR – UAR realizó la inspección técnica con la finalidad de identificar y analizar la amenaza de movimiento en masa conjuntamente con técnicos de la UGR del GAD C Cotacachi.
+	Fuentes de información:	SNGR CZ1 Umeva Imbabura/MAG/GAD Provincial de Imbabura/MINEDUC/SNGR UPREA /GAD Cantonal/GAD Parroquial.
+
+
+	Hundimiento
+	Localización:	Imbabura/Cotacachi/García Moreno/Ingreso a la Cabecera Parroquial de García Moreno.
+	Antecedentes:	El 03/02/2025, debido a las lluvias suscitadas en la tarde se reportó un hundimiento y el colapso de la mesa de la vía de tercer orden quedando parcialmente habilitada, además, se registró la rotura de la tubería del agua de consumo dejando sin agua a la parroquia (restablecido) y por seguridad se suspendió clases en la Unidad Educativa (clases con normalidad). Mediante la Resolución Administrativa N°. GADMSAC-A-2025-0013, con fecha 24/02/2025, resuelve en el art. 1, Declarar en Emergencia al cantón Cotacachi en base a los informes entregados de las MTT C
+	Situación actual:	El proceso de contratación para los trabajos de reconstrucción definitivos están cumplimiento las fases administrativas de compras públicas, al momento la vía se encuentra parcialmente habilitada. Se realiza mantenimiento a la vía alterna La Z- Loma Negra- Magnolia - García Moreno.
+	Afectaciones:	-290 familias afectadas indirectamente y 1500 personas. -30 metros afectados de la mesa de la vía. -100 % de servicio de agua (restablecido). -1 bien público afectado (tubería de paso de agua de consumo).
+	Acciones de respuesta:	GAD Cantonal Cotacachi realiza el estudio para ejecutar la obra de canalización de aguas lluvias para evitar la erosión hídrica en el sector. GAD Provincial de Imbabura con apoyo del GAD Parroquial García Moreno continúan con los trabajos de rehabilitación, limpieza y mantenimiento de la vía principal y la vía alterna.
+	Fuentes de información:	SNGR CZ1 Umeva Imbabura/GAD Cantonal Cotacachi/MINEDUC/GAD Parroquial García Moreno/ Prefectura de Imbabura.
+
+
+ZONA 2
+
+	Inundación
+	Localización:	Pichincha/Cayambe/Olmedo/Sectores: Pablo Urco San Jorge - Barrio San Antonio – Atahualpa.
+	Antecedentes:	El 07/03/2025, por causa de lluvias y granizo se produjo una inundación desbordándose la acequia, afectando a viviendas del sector. El cauce se encuentra normal
+	Situación actual:	Continúan las tareas de evaluación, limpieza de las vías y viviendas afectadas, se procedió con la entrega de bonos a las familias. El caudal se encuentra normal lo cual permite realizar trabajos del encauce de la acequia. Las familias afectadas se mantienen en los alojamientos temporales y en casa de familiares Continua activo el COE Cantonal y el Puesto de Comando (PC) así como dos alojamientos temporales para la atención a los damnificados.
+	Afectaciones:	- 1 persona fallecida - 28 familias afectadas, 84 Personas afectadas (En evaluación) - 18 familias damnificadas, 47 personas damnificadas (En evaluación) - 150 viviendas afectadas aproximadamente (En Olmedo 100 y en Pesillos 50, Continúan con la evaluación) - 12 Vías afectadas de segundo y tercer orden (parcialmente habilitadas). - 2 vías de segundo orden destruidas 2000 metros lineales (Vía a Pesillo) no existe ruta alterna - 3 vías de tercer orden destruidas 3000 metros lineales (sector San Pablo Urco) no existe ruta alterna - 3800 personas afectadas indirectamente sector Olmedo y Pesillos (por falta de suministro de agua) YA REESTABLECIDO EL SERVICO. - 1 Unidad Educativa Pública afectada (Colapso de cerramiento) - 2 plantaciones afectadas (Anegación de agua)
+	Acciones de respuesta:	Continúan las tareas de evaluación, limpieza de las vías y viviendas afectadas se procederá con la entrega de bonos a los afectados se mantiene activo el COE Cantonal y el Puesto de Comando (PC). Se mantiene activados dos alojamientos temporales para la población impactada. SNGR realizó la entrega de asistencia humanitaria en los sectores de: Santa Rosa, Pesillos y Arranyancucho.
+	Fuentes de información:	SNGR CZ9 Umeva Pichincha/GAD Cantonal Cayambe/UGR/GAD PP/MINEDUC/Cuerpo de Bomberos de Cayambe.
+
+
+	Socavamiento
+	Localización:	Orellana-Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-Lago Agrio [E45].
+	Antecedentes:	Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias viviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de SOTE, Poliducto Shushufindi – Quito y OCP. Se mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja.
+	Situación actual:	El frente de erosión se estima localizado en la abscisa 6+400 durante 3 días (por confirmar); aguas abajo, entre los kilómetros 6+400 y 10+000, continúa la erosión lateral en la margen izquierda, aguas arriba de San Carlos, afectando las instalaciones petroleras y poniendo el preligro a la vía E45 en el sector del Mirador y también aguas abajo del río Loco, donde también se afectaron las instalaciones petroleras.
+	Afectaciones:	Desde el 2020 a la fecha las afectaciones son las siguientes: - 15 Personas afectadas - 26.804 Personas afectadas indirectas - 51 Personas damnificadas - 99 Personas evacuadas - 14 Viviendas afectadas - 6 Viviendas destruidas - 4 Bienes públicos afectados: 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el hundimiento ocurrido el 07/04/2020); y 1 tubería de agua potable de San Luis y unaTorre de soporte de tubería tipo H. - 6 Bienes privados afectados: fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas) (05/09/2023), un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus de la Cooperativa Putumayo (24/11/2023) - 5 Puentes destruidos: Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2 , Puente colgante San Carlos y Puente sobre el río Marker. - 1120 Metros de vía afectadas - 100.03 Ha de Cultivo perdida - 3448 Animales de granja afectados y muertos
+	Acciones de respuesta:	Ep Petroecuador y OCP implementan las contingencias para superar los eventos de fuerza mayor; OCP construye dos bypass. La Comisión Ejecutora Río Coca - CELEC EP, SNGR, Tenencia Política de Gonzalo Diaz de Pineda, Cuerpo de Bomberos El Chaco y CCGR San Luis realizan monitoreo.
+	Fuentes de información:	SNGR CZ2 Umeva Napo-Orellana/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de Bomberos El Chaco.
+
+
+ZONA 4
+
+	Inundación
+	Localización:	Manabí/Paján/Cascol/Varios Sectores.
+	Antecedentes:	El 10/03/2025, debido a las lluvias presentadas en horas de la tarde se suscitó una inundación por el desbordamiento de un estero Tomasito afectando a viviendas y familias.
+	Situación actual:	Al momento las familia están inundadas.
+	Afectaciones:	- 100 Familias afectadas, 400 personas afectadas.(Dato preliminar) -80 viviendas afectadas. (Dato preliminar)
+	Acciones de respuesta:	Equipo del GAD Cantonal realiza limpieza de los sectores afectados. UGR GAD Cantonal realiza el levantamiento de información. SNGR CZ4 realiza seguimiento al evento.
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/GAD 24 de Mayo
+
+
+	Inundación
+	Localización:	Manabí/24 de Mayo/Sucre/Los Algodones
+	Antecedentes:	Por lluvias suscitadas en horas de la tarde del 05/03/2025 se produjo la inundación de varias viviendas en el sector, las personas afectadas se mantienen en sus viviendas.
+	Situación actual:	Al momento las familia están inundadas.
+	Afectaciones:	-20 familias afectadas (50 personas afectadas) -20 viviendas afectadas
+	Acciones de respuesta:	UGR GAD Cantonal confirma evento realiza EVIN. SNGR-CZ4 UMEVA realiza monitoreo.
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/GAD 24 de Mayo
+
+
+	Deslizamiento
+	Localización:	Manabí/Jipijapa/La Unión/Recinto El Ramito
+	Antecedentes:	Debido a fuerte lluvias presentadas el 01/03/2025, se produjo un deslizamiento, varias familias de la comunidad El Ramito, el evento ocurrido no pudo ser reportado a tiempo, por la distancia del lugar y la dificultad de acceso, ya que adicional se sumó el desbordamiento del Rio El Ramito y la creciente afectó las vias de acceso, las familias afectadas se encuentran en sus viviendas.
+	Situación actual:	Al momento las familias se encuentran incomunicadas, el rio se mantiene con el caudal  normal.
+	Afectaciones:	-43 familias, 115 personas afectadas. -43 viviendas afectadas.
+	Acciones de respuesta:	UGR GAD Cantonal Jipijapa confirma evento y realiza levantamiento de informacion.
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/UGR GAD Jipijapa
+
+
+
+	Deslizamiento
+	Localización:	Manabí/Portoviejo/Francisco Pacheco/ El Fátima
+	Antecedentes:	El 01/03/2025, debido a las fuertes lluvias presentadas, se produjo un deslizamiento que afecta a varias familias.
+	Situación actual:	El 03/03/2025 se realizó la activación del Alojamiento Temporal En la Cdla. Cevallos de la Parroquia Francisco Pacheco en las instalaciones del Polideportivo Cdla. Cevallos, Calificado y aprobado por la SNGR, para albergar a las familias damnificadas y afectadas de las Cdla. Fatima y Cdla. Cevallos en donde se albergan 6 familias 19 personas, de las  cuales  dos familias 7  personas  son damificadas.
+	Afectaciones:	-8 familias, 31 personas afectadas. -8 viviendas afectadas. -2 familias, 7 personas damnificadas. -2 viviendas destruidas.
+	Acciones de respuesta:	SNGR realiza entrega de asistencia humanitaria y colabora con logística para Alojamiento Temporal. GAD Cantonal realiza activación de Alojamiento Temporal y da seguimiento. UGR GAD Cantonal y CB realizaron la evacuación de personas y enseres
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/UGR Puerto López
+
+
+	Inundación
+	Localización:	Manabí/Bolívar/Calceta/Varios Sectores (Betania, Ciudadela Municipal, Inés Moreno, Santa Martha, San Felipe, La Karina, Olga Cobos, Santa Lucía, Divino Niño, Barrio Norte).
+	Antecedentes:	Producto de las lluvias suscitadas el 24/02/2025, se produjo el desbordamiento del río Mosca, y río Carrizal provocando afectación a varias familias.
+	Situación actual:	Las familias continúan en sus viviendas, al momento ya no se encuentran inundados, el rio mosca y el rio Carrizal se mantiene con tendencia a bajar de nivel, las Unidades Educativas y el Centro de Salud al momento ya no están inundadas.
+	Afectaciones:	-1818 familias afectadas, (Personas afectadas 5610) Dato Preliminar -912 familias damnificadas, (Personas damnificadas 3202) Dato Preliminar -2730 viviendas afectadas (Dato preliminar) -7 UE afectadas (Ingreso de agua) -1 Bien Público afectado (Distrito de Educación 13D06 Bolívar - Junín) -1 Centro de salud afectado (Centro de Salud Tipo A IESS Calceta)
+	Acciones de respuesta:	Entrega de AH por parte de la SNGR CZ4. UGR GAD Cantonal realizó el levantamiento de información.
+	Fuentes de información:	SNGR CZ 4 Umeva Manabí/SNGR CZ
+
+
+	Inundación
+	Localización:	Manabí/Portoviejo/Rio Chico/Varios sectores (Rio Chico, Tomatal, Chacras Adentro, Zapote, Tomatal, Zapote, San Vicente, San Clemente, La Balsita, Santa Martha, Bejuco, Pechiche)
+	Antecedentes:	El 23/02/2025, producto de las lluvias suscitadas en horas de la noche se observó el desbordamiento del río Rio Chico, autoridades cantonales en el sitio realizaron recorridos.  Producto del desbordamiento del rio se reportaron afectaciones de viviendas y familias afectadas requieren de alojamientos.
+	Situación actual:	Se realiza actualización de afectaciones, asimismo se realiza actualización de familias y personas en el AT, el río se encuentra con tendencia a bajar de nivel
+	Afectaciones:	- 73 familias afectadas (220 personas afectadas) Dato preliminar. - 54 familias damnificadas, (186 personas damnificadas) Dato preliminar. - 7 familias albergadas, 23 personas albergadas. - 127 viviendas afectadas
+	Acciones de respuesta:	UGR DEL GAD Cantonal realiza levantamiento de informacion en los diferentes sitios afectados. GAD Parroquial en los sitios realizó recorridos, coordina acciones para familias que requieren ser evacuadas. Alcalde de Portoviejo en las zonas bajas realizó recorridos. Cuerpo de Bomberos Portoviejo monitorea. SNGR-CZ4 UMEVA realiza monitoreo.
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/Cuerpo de Bomberos de Portoviejo/GAD Parroquial de Rio Chico.
+
+
+
+
+	Inundación
+	Localización:	Manabí/Tosagua/Tosagua/Varios sectores (Propicia, San Ramón, Juncal, El Tambo, Casical, Juncal, Clan Salazar).
+	Antecedentes:	El 22/02/2025, producto de las lluvias suscitadas en horas de la noche se produjo el incremento del caudal y desbordamiento de la quebrada Maconta, causando inundación en los sitios mencionados, varias viviendas se encuentran con afectacion.
+	Situación actual:	Se realiza actualización de afectaciones, las viviendas continúan inundadas.
+	Afectaciones:	-461 familias afectadas (1844 personas afectadas). Dato preliminar -461 viviendas afectadas. (Dato preliminar) -2 Unidades Educativas afectadas.
+	Acciones de respuesta:	UGR del GAD Cantonal en los sitios realiza levantamiento de informacion. Jefe Político realiza recorridos en los diferentes sitos.
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/UGR Portoviejo/Jefatura Política/UGR Tosagua.
+
+
+	Inundación
+	Localización:	Manabí/Puerto López/Puerto López/ Varios Sectores (Mata Palo, Rio Plátano, La Colombia, Ayampe, Vuelta Largas, Guale, Manantiales)
+	Antecedentes:	El 22/02/2025, debido a las lluvias presentadas se dio el desbordamiento del Rio Ayampe el cual produjo una inundación en los sectores mencionados, varias viviendas se encuentran afectadas, 10 familias fueron evacuadas a familias acogientes.
+	Situación actual:	Al momento el río continúa desbordado, COE Cantonal se encuentra activo para determinar acciones de atención.
+	Afectaciones:	-143 Familias, personas afectadas, de las cuales 10 familias fueron evacuadas (en fase de evaluación) -143 viviendas afectadas.
+	Acciones de respuesta:	UGR Cantonal informó el evento y realizó levantamiento de informacion. SNGR CZ4 da seguimiento al evento, gestiona con UGR Cantonal el EVIN.
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/UGR Puerto López
+
+
+	Inundación
+	Localización:	Manabí/Sucre/Charapotó/Varios Sectores (Cañita, San Bartolo, Pasadero)
+	Antecedentes:	El 22/02/2025, por lluvias suscitadas en horas de la tarde se produjo el desbordamiento de la quebrada Cañitas, provocando inundación en el sector. La vía de primer orden Charapotó a Rocafuerte [E15] estaba anegada. Las familias permanecen en sus viviendas.
+	Situación actual:	Al momento la quebrada se encuentra normal, la via actualmente no esta  anegada y se encuentra parcialmente habilitada.
+	Afectaciones:	- 34 familias afectadas 112 personas afectadas. - 11 Familias, 39 personas damnificadas - 35 viviendas afectadas.
+	Acciones de respuesta:	UGR GAD Cantonal realiza EVIN. GAD Provincial, GAD Cantonal y CB Sucre realizaron trabajos de evacuación de agua y lodo de los sectores afectados
+	Fuentes de información:	SNGR CZ4 Umeva Manabí/UGR GAD Sucre/CB Sucre/GAD Provincial
+
+
+ZONA 5
+
+	Inundación
+	Localización:	Guayas/Salitre/General Vernaza /Varios sectores.
+	Antecedentes:	El 08/03/2025, a causa de las precipitaciones que se registraron en la madrugada se produjo la ruptura de un muro de contención del río Vinces.
+	Situación actual:	Se reportan varias familias afectadas con acumulación de agua en viviendas. (el río Vinces continúa desbordado)
+	Afectaciones:	-25 familias afectadas (bajo evaluación) -25 Viviendas afectadas (bajo evaluación) -1 Unidad Educativa afectada.
+	Acciones de respuesta:	GAD Cantonal realiza el levantamiento de información
+	Fuentes de información:	SNGR CZ5 Umeva Guayas/GAD Cantonal.
+
+
+	Inundación
+	Localización:	Los Ríos/Mocache/Mocache/Hacienda la Virgen - Santa Barbara – La Yuca – San Felipe – San Ignacio – La Victoria – Barrio Lindo- 23 de Agosto – Las Campanas – Barrio Vinces - río Mocache
+	Antecedentes:	Debido a las lluvias suscitadas el 05/03/2025, se reportó desbordamiento del río Mocache, con ingreso a varias viviendas de los sectores antes mencionados, como también afectando a una vía de segundo orden, misma que va desde Mocache hacia Vinces, actualmente el caudal se mantiene desbordado y se recomienda tomar la ruta alterna misma que con dirección a Palenque.
+	Situación actual:	Actualmente el caudal se encuentra con tendencia a aumentar de nivel, la vía de segundo orden se continúa habilitada y las familias se mantienen en las viviendas.
+	Afectaciones:	- 182 familias afectadas - 728 personas afectadas - 165 viviendas afectadas - 200 metros lineales afectados
+	Acciones de respuesta:	UGR Mocache se encuentra realizando barrido de la zona afectada el 08/03/2025
+	Fuentes de información:	SNGR CZ5 Umeva Los Ríos/UGR Mocache.
+
+
+	Inundación
+	Localización:	Los Ríos/Quevedo/San Camilo/Recreo 1 – Cruz María – río Quevedo
+	Antecedentes:	Debido a las lluvias suscitadas en la madrugada del 05/03/2025, se reportó el desbordamiento del río Quevedo, dejando consigo varias viviendas afectadas.
+	Situación actual:	Actualmente el caudal se encuentra con tendencia a aumentar de nivel, aun se visualiza estancamiento de agua y las familias se mantienen en sus viviendas.
+	Afectaciones:	-90 familias afectadas -360 personas afectadas -90 viviendas afectadas
+	Acciones de respuesta:	GAD Quevedo realizó la entrega de ayuda humanitaria el 08/03/2025, mientras que la UGR continúa levantando información.
+	Fuentes de información:	SNGR CZ5 Umeva Los Ríos/GAD Quevedo.
+
+
+	Inundación
+	Localización:	Los Ríos/Baba/Baba/Rcto. Versalle – río Junquillo
+	Antecedentes:	Debido a la presencia lluvias la madrugada del 04/03/2025, se reportó el desbordamiento del río Junquillo, dejando consigo varias viviendas afectadas.
+	Situación actual:	Actualmente el caudal continúa desbordado, mientras que 8 familias de 32 personas fueron trasladadas hasta un alojamiento temporal y las demás familias continúa en las viviendas.
+	Afectaciones:	-90 personas afectadas -33 familias afectadas -27 viviendas afectadas
+	Acciones de respuesta:	SNGR en compañía de GAD Baba, MSP, MIES y MINEDUC realizaron la activación de un alojamiento temporal “Escuela Intiraymi” el 09/03/2025
+	Fuentes de información:	SNGR CZ5 Umeva Los Ríos/GAD Baba/MSP/MIES/MINEDUC
+
+
+
+
+
+
+	Inundación
+	Localización:	Guayas/Pedro Carbo, cabecera Cantonal/Varios Sectores (Recinto Villao, San Pedro, San José, Paraíso de Villao, Mata Palo)
+	Antecedentes:	El 05/03/2025, a Causa de las constantes lluvias que se presentan, y por desbordamiento del Río Villao
+	Situación actual:	Las familias se mantienen en sus viviendas, el río Villao continúa desbordado.
+	Afectaciones:	-180 viviendas afectadas (preliminarmente, bajo evaluación) -180 familias afectadas (preliminarmente, bajo evaluación) -4 puentes peatonales afectados  (preliminarmente, bajo evaluación)
+	Acciones de respuesta:	GAD Cantonal confirmo la novedad, y se movilizará a realizar el respectivo levantamiento de información.
+	Fuentes de información:	SNGR CZ5 Umeva Guayas/GAD Cantonales/ECU 911 Samborondón.
+
+
+	Inundación
+	Localización:	Guayas/Salitre/Salitre, Cabecera cantonal/Varios Sectores.
+	Antecedentes:	A Causa de las constantes lluvias y por desbordamiento la madrugada del 26/02/2025 se reportaron viviendas afectadas con ingreso de agua y varias calles anegadas.
+	Situación actual:	Las familias se mantienen en sus viviendas, los ríos Vinces y salitre continúan desbordado.
+	Afectaciones:	-45 viviendas afectadas -45 familias con 152 personas afectadas -calles y avenidas inundadas
+	Acciones de respuesta:	GAD Cantonal continúa realizando levantamiento de información.
+	Fuentes de información:	SNGR CZ5 Umeva Guayas/GAD Salitre/ECU 911 Samborondón
+
+
+	Inundación
+	Localización:	Guayas/Naranjal/Taura/Varios recintos ( Florenciana, El Mirador, Las Jaguas, Los Laureles y Centro Poblado)
+	Antecedentes:	El 28/02/2025, a causa de las lluvias registradas la madrugada se reportan varios recintos inundados, dichos sectores no tienen desfogue de aguas lluvias y son sectores bajos.
+	Situación actual:	Las viviendas se encuentran aisladas y algunas afectadas con ingreso de agua.
+	Afectaciones:	-100 familias afectadas (dato preliminar y bajo evaluación) -100 viviendas afectadas (datos preliminares y bajo evaluación) -calles y avenidas inundadas
+	Acciones de respuesta:	GAD Cantonal realizó recorridos en los sectores y confirman evento
+	Fuentes de información:	SNGR CZ5 Umeva Guayas/GAD Cantonal Naranjal
+
+
+	Inundación
+	Localización:	Guayas/Palestina/Palestina, Cabecera Cantonal/Varios Sectores (Recinto La Corona y Cristo del Consuelo, San Ramón y Macul de Abajo
+	Antecedentes:	El 23/02/2025, debido a las precipitaciones que se registró la madrugada y mañana se produjo el desbordamiento del río Pula, ocasionando inundación y afectando al sector antes mencionado, se reportan viviendas afectadas con el ingreso de agua.
+	Situación actual:	GAD Cantonal, mediante EVIN indicó que las familias afectadas se encuentran en sus inmuebles. Al momento el río Pula se encuentra con tendencia a disminuir su caudal
+	Afectaciones:	-38 familias, 113 personas afectadas (San Ramón y Macul de Abajo) -38 viviendas afectadas (San Ramón y Macul de Abajo) -263 Viviendas afectadas (Recinto La Corona y Cristo del Consuelo) -263 familias, 526 personas afectadas (Recinto La Corona y Cristo del Consuelo) -calles inundadas
+	Acciones de respuesta:	GAD Cantonal confirmó el evento y se realizará el respectivo levantamiento de información Prefectura de Guayas realizó la entrega de asistencia humanitaria a las familias afectadas
+	Fuentes de información:	SNGR CZ5 Umeva Guayas/GAD Cantonal Palestina.
+
+
+	Inundación
+	Localización:	Los Ríos/Babahoyo/La Unión/Rcto. La Pineda - La Esperanza - La Bodeguita - Los Robles - Río Pita
+	Antecedentes:	El 19/02/2025, debido a la presencia de lluvias se reportó el desbordamiento del río Pita, afectando a varias viviendas de los sectores antes mencionados.
+	Situación actual:	Mediante barrido en la zona afectada, se reporta que actualmente el caudal continúa desbordado y las familias se mantienen en sus hogares con presencia de agua.
+	Afectaciones:	- 376 personas afectadas - 94 familias afectadas - 94 viviendas afectadas - 207 ha. de cultivos con afectación parcial (Arroz - Cacao) - 43 productores con cultivos afectados parcialmente - 129 ha de cultivos con pérdida total (Arroz) - 70 productores con cultivos con pérdida total
+	Acciones de respuesta:	MAG facilitó matriz MAAPEA Teniente Político de La Unión realizó verificación de novedades
+	Fuentes de información:	SNGR CZ5 Umeva Los Ríos/Jefatura Política de Pimocha - Ministerio de Gobierno
+
+
+	Aluvion
+	Localización:	Bolívar/San Miguel/Balsapamba/Chaupiyacu, vía San Miguel-Balsapamba [E-491]
+	Antecedentes:	El 14/02/2025, a causa de las lluvias registradas en el lugar, se produjo un represamiento en la quebrada Chaupiyacu, lo que ocasionó afectación a varias viviendas y a la vía estatal por el arrastre de material lodoso, palos, piedras. El 18/02/2025, se activó el COE Parroquial de Balsapamba con el fin de continuar coordinando la atención del evento. El 19/02/2025, se reunirá el COE Cantonal de San Miguel
+	Situación actual:	La familia damnificada salió del alojamiento temporal de casa Comunal de Chaupiyacu y se trasladó a  la casa donde un familiar por el mismo sector El líquido vital se encuentra restablecido para toda la comunidad. MIDUVI Bolívar indica que la familia damnificada no es procedente el otorgamiento del Bono de Emergencia para construcción de vivienda nueva. debido que el terreno se encuentra ubicada en zona de riesgo.
+	Afectaciones:	-4 familias, 11 personas damnificadas (1 familia, 5 personas se encontraban en el alojamiento temporal, modalidad refugio en la casa Comunal de Chaupiyacu). -6 familias, 16 personas afectadas -15 familias, 60 personas afectadas indirectamente(por desabastecimiento de agua). -7 viviendas afectadas -1 vivienda destruida -300 metros lineales de vía afectada -4 Bienes privados destruidos (Locales comerciales) -6 Bienes privados afectados(5 vehículos y 1 tanque de cemento de reserva de agua para la comunidad)
+	Acciones de respuesta:	SNGR Bolívar en conjunto con TEPOL de Balsapamba apoyaron en el traslado de los bienes y enseres de la familia damnificada. Junta del Agua de la comunidad y GAD Parroquial de Balsapamba realizaron los trabajos de restablecimiento de líquido vital para la población. MIDUVI Bolívar realizó la inspección de la vivienda destruida.
+	Fuentes de información:	SNGR CZ5 Umeva Bolíva/GAD Parroquial
+
+
+	Inundación
+	Localización:	Los Ríos/Babahoyo/Pimocha/rcto. Colorado del Río - La Alegría 1- La Alegría 2 – El Tejar - Porvenir - La Fortuna - San Fernando - rcto. La Eugenia - rcto. San Vicente - río Babahoyo.
+	Antecedentes:	El 14/02/2025, debido a la presencia de fuertes lluvias en la mañana se reportó el desbordamiento del río Babahoyo, afectando indirectamente a varias viviendas del lugar.
+	Situación actual:	El caudal continúa desbordado, las familias se mantienen afectadas indirectamente debido a la alta presencia de agua en los exteriores de sus viviendas que les dificulta la circulación de las personas, en horas de la tarde del 28/02/2025 sesionó el COE Cantonal Babahoyo en las instalaciones del GAD cantonal.
+	Afectaciones:	- 237 viviendas afectadas - 237 familias afectadas - 948 personas afectadas - 20 personas afectadas indirectamente - 5 familias afectadas indirectamente - 39,5 ha. de cultivos con afectación parcial (Arroz) - 26 productores con cultivos afectados parcialmente - 51 ha de cultivos con pérdida total (Arroz) - 16 productores con cultivos con pérdida total
+	Acciones de respuesta:	Presidente de la Republica en compañía del Secretario Nacional de Gestión de Riesgos, Coordinador Zonal 5-8 con Técnico de UPREA de la SNGR y Gobernador de Los Ríos realizaron entrega de ayuda humanitaria el 04/03/2025 UMEVA-LOS RÍOS de la SNGR realizó seguimiento del evento.
+	Fuentes de información:	SNGR CZ5 Umeva Los Ríos/Jefatura Política de Pimocha - Ministerio de Gobierno
+
+
+	Inundación
+	Localización:	Los Ríos/Babahoyo/Febres Cordero/Rcto. Los Álamos – La Macarena - Escuela de Educación Básica José María Urbina - río Chilintomo
+	Antecedentes:	El 12/02/2025, debido a la presencia lluvias en la madrugada se reportó el desbordamiento del río Chilintomo, dejando consigo 1 Unidad Educativa afectada funcionalmente, como también ingreso de agua a varias viviendas de los sectores antes mencionados.
+	Situación actual:	Actualmente el caudal del río Chilintomo se encuentra con tendencia a aumentar de nivel, aun se visualiza estancamiento de agua en los sectores antes mencionados y las familias se mantienen en las viviendas
+	Afectaciones:	- 90 familias afectadas - 360 personas afectadas - 100 familias afectadas indirectamente - 400 personas afectadas indirectamente - 1 Unidad Educativa afectada Funcionalmente (Escuela de Educación Básica José María Urbina) - 57 viviendas afectadas - 2 bienes Públicos afectados (muros de contención) - 25 metros lineales afectados
+	Acciones de respuesta:	Presidenta del GAD Parroquial de Febres Cordero realizó verificación de novedades.
+	Fuentes de información:	SNGR CZ5 Umeva Los Ríos/UPREA/UGR Babahoyo.
+
+
+	Inundación
+	Localización:	Guayas/Santa Lucía/Santa Lucía, Cabecera Cantonal/varios Sectores (Sector Barbasco Central, Espinal, Chonana Vieja, Che Guevara)
+	Antecedentes:	El 10/02/2025 a causa de las fuertes lluvias registradas al momento, se reportan viviendas afectadas con el ingreso de agua.
+	Situación actual:	Al momento no se registran lluvias en el cantón y las familias se encuentran realizando la limpieza de sus inmuebles, las familias continúan pernoctando los mismos
+	Afectaciones:	-110 familias, 234 personas afectadas -110 viviendas afectadas
+	Acciones de respuesta:	GAD Cantonal continúa realizando levantamiento de información SNGR y Prefectura realizaron la entrega asistencia humanitaria a las familias afectadas GAD Cantonal acompañó a la entrega de asistencia humanitaria SNGR realiza el monitoreo de la novedad
+	Fuentes de información:	SNGR CZ5 Umeva Guayas/UPREA/Prefectura de Guayas/GAD Santa Lucía.
+
+
+
+	Contaminación
+	Localización:	Galapagos/San Cristóbal/Puerto Baquerizo Moreno/Playa de Los Marino y Playa de Oro.
+	Antecedentes:	Con fecha al 13/01/2025 La Dirección del Parque Nacional Galápagos luego de obtener los resultados de los análisis de las muestras tomadas del agua del mar en la bahía de Puerto Baquerizo Moreno, por entidades acreditadas, confirmaron la presencia de un alto índice de coliformes fecales (bacterias que se encuentran en excremento de los seres humanos y animales), entre otros componentes químicos que afectan la calidad del agua de la Playa de Los Marino y Playa de Oro y presentan un riesgo para la salud humana y la biodiversidad, esta situación se deriva del vertido de aguas residuales sin el debido tratamiento al mar. La MTT # 1 se mantendrá activa el tiempo que dure el evento.
+	Situación actual:	Parque Nacional Galápagos ha entregado los análisis del agua de las playas cerradas al Gad Cantonal, con el fin que en los próximos días se convoque a reunión de la MTT 1, y dar seguimiento a las diferentes acciones realizadas por las Instituciones involucradas en éste evento.
+	Afectaciones:	---
+	Acciones de respuesta:	GAD Cantonal  continúan con las labores de recuperación de la poza de las garzas. ⁠SNGR CZ5 realiza monitoreo del evento para conocer las diferentes disposiciones de las autoridades cantonales.
+	Fuentes de información:	SNGR CZ5 Umeva Galápagos/DPNG.
+
+
+ZONA 6
+
+	Deslizamiento
+	Localización:	Azuay/Cuenca/Victoria del Portete/Hacienda la Rosa
+	Antecedentes:	El 12/02/2025, a causa de las lluvias suscitadas en los últimos días se produjo un deslizamiento de tierra que afectó la parte de un muro de contención en un reservorio de agua en el sector de la parte alta de la hacienda La Rosa, el reservorio no suministra agua a familias del sector ya que es agua utilizada para riego. Para atención al evento se activó el PMU y el COE Parroquial, adicional se  evacuaron 4 viviendas de 4 familias (a casa de familia acogiente) por precaución.
+	Situación actual:	MTOP informa que la vía de primer orden se mantiene habilitada, adicional menciona que continúan las labores de ensanchamiento del relleno colocado en la base de la vía. Vías alternas: vehículos livianos (Estación de Cumbe, Victoria del Portete), vehículos pesados (vía Cuenca-Zhud-Cochancay-Puerto Inca-Naranjal-Machala). Con fecha 19/02/2025 Junta Parroquial reportó el colapso de la mesa de la vía en el km 22.
+	Afectaciones:	- 9 familias afectadas (en sus cultivos) - 36 personas afectadas (en sus cultivos) - 10 ha de cultivos destruidos (pasto) - 100 ha de cultivos afectados (pasto) - 20 metros de vía aproximadamente (vía parcialmente habilitada) - 1 bien público destruido (poste de alumbrado eléctrico)
+	Acciones de respuesta:	MTOP continúa con la construcción de obras complementarias.
+	Fuentes de información:	SNGR CZ6 Umeva Azuay-Cañar
+
+
+	Deslizamiento
+	Localización:	Azuay/Santa Isabel/Santa Isabel/La Cría.
+	Antecedentes:	El 03/06/2022, se suscitó un deslizamiento producto de la saturación del suelo originado por la combinación del deficiente sistema  de riego en el sector, del taponamiento de diferentes quebradas y la deficiencia en el drenaje del terreno. El 31/03/2023 la SGR declaró la ALERTA AMARILLA al polígono identificado como susceptible a movimientos en masa, el cual tiene un área de 526.22 hectáreas que se extiende sobre la comunidad La Cría, cantón Santa Isabel, provincia del Azuay. El 06/04/2023, la SNGR emitió el cambio a ALERTA NARANJA de acuerdo al informe elaborado por Técnico de Análisis de Riesgos de la Coordinación Zonal 6 de Gestión de Riesgos. El 20/06/2023  MIES entregó Bonos de Contingencia a 22 familias afectadas de la comunidad La Cría. GAD Cantonal indicó que al  03/01/2024 permanecían 4 familias integradas por 10 personas alojadas en el AT San Isidro. El 26/01/2024 se realizó la activación del COE Provincial Azuay para dar seguimiento al evento y establecer acciones.
+	Situación actual:	Técnico de la SNGR informa que se realizaron nuevas entregas de asistencia humanitaria
+	Afectaciones:	- 44 familias afectadas (178 personas) - 8 familias damnificadas (25 personas) - 38 familias evacuadas (130 personas) - 44 viviendas afectadas - 8 viviendas destruidas - 4 bienes privados afectados (1 capilla y 3 predios) - 2 bienes públics destruidos (1 casa comunal y 1 cancha central)
+	Acciones de respuesta:	UGR Santa Isabel  en conjunto con SNGR CZ6 realizan acciones de atención a la emergencia
+	Fuentes de información:	SNGR CZ6 Umeva Azuay-Cañar.
+
+
+ZONA 7
+
+	Aluvion
+	Localización:	El Oro/Piñas/Capiro/Centro Parroquial.
+	Antecedentes:	Por lluvias fuertes suscitadas en la noche del 04/03/2025, se registró el desbordamiento de una quebrada S/N, provocando un aluvión en el centro parroquial, trayendo consigo agua y palizada.
+	Situación actual:	La quebrada se encuentra dentro de su cauce, además se logró habilitar la vías de la cabecera parroquial.Al momento no se registran lluvias, la quebrada mantiene su cauce normal.
+	Afectaciones:	- 50 familias de 200 personas afectadas (las cuales evacuaron hacia el GAD Parroquial y a familias acogientes.) - 50 viviendas afectadas por ingreso de agua y lodo. - 100% afectación servicio agua potable (Conchicola, Amarillos, Guayacanes, Guerras y Tinajas, donde 1200 personas son afectados indirectamente). - 80 % afectación servicio de energía eléctrica. - 100% de telecomunicaciones afectados - 1 unidad educativa afectada (Sebastían de Benalcazar) - 1 bien privado afectado (1 vehículo) - 800 metros de vías afectada (habilitado)
+	Acciones de respuesta:	Coordinador Zonal y personal técnico de Matriz, con presencia de Ministra de la SNP, MTOP y autoridades parroquiales realizaron recorrido y coordinaron acciones emergentes en la parroquia para atención del evento. Cuerpo de Bomberos y GAD Cantonal de Piñas dotó de agua potable a la cabecera parroquial. Cruz Roja entregó Kit de herramientas y frazadas. SNGR coordina con MAG por posibles afectaciones agrícolas y ganaderas, con el objetivo de gestionar ayuda a los productores y con MSP para dotación de medicamentos y atención prehospitalaria a personas, que lo requieran. OOPP DEL GAD Piñas y Provincial realizaron conjuntamente labores de limpieza dentro de la cabecera parroquial.
+	Fuentes de información:	SNGR CZ7 Umeva El Oro/GAD Parroquial Capiro
+
+
+	Aluvion
+	Localización:	El Oro/Zaruma/Abañin/Varios Sectores (Algodonal, Abañin, Lacay, Naranja Loma y Liyo)
+	Antecedentes:	Por lluvias suscitada el 03/03/2025, se registró el desbordamiento de 6 quebrada S/N mismo que afectaron las tuberías de las quebradas, provocando un aluvión en la vía de tercer orden y pérdida de mesa vial que obstaculizó totalmente desde Uzhcurrumi hacia Abañin, asimismo los sectores de Lacay, Naranja Loma y Liyo se encuentran incomunicados.
+	Situación actual:	La vía desde Uzhcurrumi hacia Abañin se encuentra parcialmente habilitada solo para camionetas 4X4, debido al material causado por el aluvión. Adicional se registran 6 viviendas en riesgo, donde las familias permanecen en sus viviendas. Al momento los sectores Lacay, Naranja Loma y Liyo continúan incomunicados. En relación a las 6 quebradas se encuentran en su cauce normal
+	Afectaciones:	- 120 metros lineales afectados
+	Acciones de respuesta:	Presidente del GAD Parroquial confirmó el evento. Comunidad de Abañin realizó trabajos de limpieza de la vía dejando parcialmente habilitada. SNGR coordina con Obras Públicas (OOPP) del GAD Provincial para los trabajos de limpieza y habilitación de la vía y con GAD Cantonal para el levantamiento de información.
+	Fuentes de información:	SNGR CZ7 Umeva El Oro/GAD Parroquial
+
+
+	Deslizamiento
+	Localización:	Loja/Celica/Celica/Celica
+	Antecedentes:	Producto a lluvias suscitadas en la madrugada del 01/03/2025, se produjo un deslizamiento que destruyó 01 vivienda. De 3 personas atrapadas al momento 1 ha sido rescatada con vida y 2 fallecidas, se descartaron las 2 personas adicionales inicialmente reportadas. Se activaron el refugio temporal en el Coliseo Municipal y el Albergue en el Centro de Desarrollo Infantil por época lluviosa El 01/03/2025 se declaró en emergencia el cantón Celica
+	Situación actual:	En el alojamiento temporal en el Coliseo Municipal, ingreso 1 familia conformada por 7 personas Se activaron el refugio temporal en el Coliseo Municipal y el Albergue en el Centro de Desarrollo Infantil por época lluviosa. El 01/03/2025 se declara en emergencia el cantón Celica
+	Afectaciones:	-1 familia damnificada -3 personas damnificadas -79 familias afectadas -273 personas afectadas -1 vivienda destruida. (Restaurante ubicado en parte de la vivienda-1bien privado destruido) -29 viviendas afectadas -2 personas fallecidas. -108 metros de longitud de vía aproximadamente - Vía de primer orden cerrada
+	Acciones de respuesta:	Continúa activó el PMU para coordinar acciones de respuesta de la emergencia MTOP Loja en apoyo del GAD Provincial y GAD Cantonal de Celica continúan labores de limpieza vial. Ministro de MTOP coordino en sitio la movilización de recursos para atención de la emergencia Instituto de Investigación Geológico y Energético (IIGE), realiza inspección técnica en el sector SNGR realizó la entrega de Asistencia Humanitaria MTOP Loja en apoyo del GAD Provincial y GAD Cantonal de Celica realizan labores de limpieza vial. Instituto de Investigación Geológico y Energético (IIGE), realiza inspección técnica en el sector Gobernación de Loja coordina atención de la emergencia Cuerpo de Bomberos en apoyo de FFAA realizan labores de recuperación de enseres de la vivienda destruida.
+	Fuentes de información:	SNGR CZ7 Umeva Loja-Zamora Chinchipe/Consola PPNN/Consola CB
+
+
+	Aluvion
+	Localización:	El Oro/Piñas/Piñas/Varios Sectores (Cdla Daquilema, La Susaya, Cdla El Cisne, Recinto Ferial, Barrio San José, 12 de Octubre, 28 De Mayo, Avenida Independencia, Cdla San Roquito, Coronita, San Francisco, Cdla La Merced, Cdla Jaime Roldós, La Tigrera, Cdla Las Brisas, Villa Elbita, Vía a San Roquito.
+	Antecedentes:	El 28/02/2025, por fuertes lluvias suscitadas la noche se registró el desbordamiento de rio San Roque, que provocó un aluvión (ingreso de agua y lodo) que generó, gran impacto a la población, registrando viviendas afectadas, destruidas, vehículos atrapados y 2 personas fallecidas. EL 24/02/2025 el COE Cantonal resuelve mantenerse activo y en sesión permanente y el GAD de Piñas declaró la situación de emergencia mediante RESOLUCIÓN NO. 092-AC-GADM-P-2025. El 01/03/2025 se instaló el PMU que se encuentra activo en el GAD Municipal de Piñas.
+	Situación actual:	Mediante levantamiento de información se actualizan afectaciones. Adicional se informa el ingreso de familias a refugio temporal. GAD Provincial informa varias vías internas de tercer orden afectadas con deslizamientos y acumulación de escombros producto del aluvión las cuales se encuentran parcialmente habilitadas. Al momento las vías se encuentran habilitadas en un 70%. En cuanto a alojamiento temporal de San Vicente de Paul, sale 1 familia de 4 personas a su vivienda.
+	Afectaciones:	-81 personas con heridas leves (recibieron atención medica) -2 personas fallecidas. (1 menor y adulto) -149 familias de 517 personas afectadas, distribuidos de la siguiente manera: -Escuela Fiscomisional San José: 35 familias de 119 personas. -Refugio Temporal Transport Grand S.A: 8 familias de 28 personas. -Casas acogientes: 95 familias de 293 personas. -Familias en sus viviendas: 15 familias de 87 personas. -126 familias 434 personas damnificadas, distribuidas de la siguiente manera: -Coliseo José Gallardo: 30 familias de 92 personas. -Albergue San Vicente de Paúl: 12 familias de 33 personas. -20 viviendas destruidas -85 viviendas afectadas por ingreso de agua y lodo -1 centro de salud afectado (Centro de Salud Piñas) -1 puente vehicular afectado en sus bases -15 bienes privados afectados (3 vehículos, 12 locales) -23 bienes públicos afectados (10 postes de tendido eléctrico, 10 luminarias y 3 transformadores) -80% porcentaje de afectación en servicio de agua potable. -80% servicio de energía eléctrico afectado (restablecido en su totalidad.) -400 metros de vías afectados (parcialmente habilitadas)
+	Acciones de respuesta:	SNGR mantiene monitoreo con los responsables de los Alojamientos Temporales, quienes dan seguimiento. Además, GAD Piñas articuló meriendas para las familias albergadas. GAD Cantonal, Prefectura, MTOP y Empresa Privada, continuarán los trabajos de habilitación de las vías dentro del casco urbano.
+	Fuentes de información:	SNGR CZ7 Umeva El Oro/Sala Situacional/UGR GAD Cantonal
+
+
+	Inundación
+	Localización:	Loja/Loja/Vilcabamba/Yamburara Alto
+	Antecedentes:	El 20/02/2025, producto a las lluvias suscitadas la tarde se produjo un deslizamiento de tierra que bloqueó el río Chamba, provocando el incremento y posterior desbordamiento. Las familias afectadas fueron movilizadas por seguridad a casa de familias acogientes COE Cantonal de Loja sugiere la Declaratoria de Emergencia en base a los informes presentados por las mesas y grupos de trabajo por las afectaciones suscitadas a nivel cantonal. El 21/02/2025 en la Sala de Coordinación del Municipio de Loja se reunió COE Cantonal de Loja para tratar las afectaciones suscitadas por lluvias en el cantón.
+	Situación actual:	COE Provincial de Loja se reunió en la mañana del 23/02/2025 para coordinar acciones de respuesta ante los diferentes eventos presentados El río Chamba se encuentra en su cauce normal
+	Afectaciones:	-4 familias conformadas por 15 personas evacuada -15 viviendas afectadas (la corriente del agua afecta las bases de las viviendas).
+	Acciones de respuesta:	Obras Públicas de Gobierno Provincial realizó los trabajos de encausamiento del caudal del río Junta Parroquial de Vilcabamba movilizó maquinaria para realizar los trabajos de limpieza Cuerpo de Bomberos de Vilcabamba verificó la novedad y prestó apoyo en labores de evacuación de los habitantes SNGR coordinó la atención del evento y realiza constante monitoreo.
+	Fuentes de información:	SNGR CZ7 Umeva Loja-Zamora Chinchipe/UGR Loja
+
+
+	Inundación
+	Localización:	Loja/Saraguro/Saraguro/Varios sectores (Bura y Gera)
+	Antecedentes:	El 20/02/2025, producto de las lluvias suscitadas se produjeron varios deslizamientos de tierra que afectan las bases de viviendas y obstaculiza parcialmente la vía de segundo orden. El 20/02/2025 se activó el COE Cantonal de Saraguro. El 20/02/2025 se recomendó  la declaratoria de emergencia el cantón Saraguro.
+	Situación actual:	El sistema de Agua Potable ha sido restablecido en su totalidad, adicional parte del cementerio del sector Manú se deslizó producto de las lluvias suscitadas Las familias afectadas continúan habitando las viviendas.
+	Afectaciones:	-02 familias afectadas conformadas por 4 personas. -02 viviendas afectadas. -Vía de segundo orden parcialmente habilitada (tramo Saraguro – Manu) -70%Colapso parcial del Sistema de Agua Potable (Restablecido) -01 bien público afectado (Cementerio del sector de Manú)
+	Acciones de respuesta:	Gobierno Cantonal de Saraguro realizó los trabajos de reparación del Sistema de Agua Potable y trabajos de limpieza en la vía. UGR Saraguro confirmó la novedad y continúa realizando levantamiento de información y daños. MTOP coordinó la movilización de recursos para realizar los trabajos de limpieza vial. GAD Cantonal de Saraguro realizó los trabajos de reparación del Sistema de Agua Potable. SNGR coordinó la atención del evento y realiza constante monitoreo.
+	Fuentes de información:	SNGR CZ7 Umeva Loja-Zamora Chinchipe/UGR Saraguro.
+
+
+ZONA 9
+
+	Deslizamiento
+	Localización:	Pichincha/Quito/Pacto/Km 19 de la Ruta -La Loma  -Ingapi- Guayabillas y Santa Rosa.
+	Antecedentes:	El 13/02/2025, a causa de lluvias en la tarde se suscitaron varios deslizamientos de tierra en la vía de tercer orden.
+	Situación actual:	La vía se permanece cerrada al tránsito vehicular. Se continúa con los trabajos de limpieza en los tramos afectados de la vía Guayabillas -Santa Rosa  y  Pacto – Hacia Pacto Loma donde se registra un hundimiento en la calzada se trabaja para habilitar una variante. La ruta alterna que se a dispuesto será: Saguangal, El Chontal, Gualea Cruz o la vía Saguangal, Paraíso, Pacto.
+	Afectaciones:	- 50 metros lineales aproximadamente
+	Acciones de respuesta:	GAD Provincial de Pichincha, informa que los trabajos se mantienen en el sitio.
+	Fuentes de información:	SNGR CZ9 Umeva Pichincha/ GAD Provincial Pichincha
+
+
+
+Monitoreo de estado de vías afectadas por eventos adversos
+
+01 VÍA DE PRIMER ORDEN CERRADA:
+No.	Provincia	Cantón	Parroquia	Sector/Vía	Evento adverso	Afectación (mts lineales)	Fecha del evento	Vías alternas
+01	Napo	Archidona	Archidona	El Retén, vía Archidona - Cotundo [E45]	SOCAVAMIENTO	--	04/03/2025	Narupa - Loreto - Coca - Chontapunta - Puente Puerto Napo.--
+
+
+26 VÍAS DE PRIMER ORDEN PARCIALMENTE HABILITADAS:
+ No.	Provincia	Cantón	Parroquia	Sector/Vía	Evento adverso	Afectación (mts lineales)	Fecha del evento	Vías alternas
+1	Azuay	Cuenca	Molleturo	Km 94, vía Cuenca-Molleturo [E-582]	DESLIZAMIENTO	20	10/03/2025	Ninguna
+2	Loja	Catamayo	San Pedro de La Bendita	Las Chinchas, vía Catamayo – Las Chinchas [E35]	DESLIZAMIENTO	20	10/03/2025	Ninguna
+3	Imbabura	Ibarra	Salinas	Palacara, vía Salinas – Lita [E10]	SOCAVAMIENTO	10	09/03/2025	
+4	Pichincha	Quito	Calacali	Km  27 de la vía Mitad del Mundo -Rio Blanco (E-28)	DESLIZAMIENTO	--	09/03/2025	Ninguna
+5	Napo	Quijos	Cuyuja	Flor del Bosque, vía Papallacta  - Baeza[E20]	CONTAMINACIÓN AMBIENTAL	6000	09/03/2025	Ninguna
+6	Loja	Chaguarpamba	Chaguarpamba	El Progreso, Chaguarpamba - a la Costa [E50]	SOCAVAMIENTO	20	05/03/2025	Ninguna
+7	Loja	Puyango	El Limo	Alto del Limo	DESLIZAMIENTO	--	01/03/2025	Ninguna
+8	Loja	Olmedo	La Tingue	Chivatos, vía a la costa [E50]	DESLIZAMIENTO	20	28/02/2025	Ninguna
+9	Manabí	Junín	Junín	Cerro Junín, vía Junín - Portoviejo [E384]	DESLIZAMIENTO	20	28/02/2025	Ninguna
+10	Loja	Chaguarpamba	Santa Rufina	Santa Rufina, vía a la costa [E50]	DESLIZAMIENTO	30	22/02/2025	Ninguna
+11	Azuay	Cuenca	Molleturo	Km 53, vía Cuenca-Molleturo [E-582]	SOCAVAMIENTO	25	02/01/2025	vía Cuenca-Girón-Pasaje.
+12	Napo	Quijos	Cuyuja	El Laurel, Vía Y de Baeza – Papallacta [E20]	SOCAVAMIENTO	--	21/06/2024	Ninguna
+13	Tungurahua	Baños de Agua Santa	Río Verde	Caserío El Placer, Quilloturo, ref. Vía  Baños - Puyo [E30]	DESLIZAMIENTO	--	16/06/2024	Ninugna
+14	Napo	El Chaco	Gonzalo Díaz de Pineda	Piedra Fina, vía El Chaco-Reventador [E45]	SOCAVAMIENTO	--	20/05/2024	Ninguna
+15	Los Ríos	Babahoyo	Pimocha	Puente de Los Gemelos	SOCAVAMIENTO	6	19/01/2024	Ninguna
+16	Imbabura	Ibarra	Carolina	San Jerónimo-Guadual; vía Salinas – Lita km 114 [E10]	DESLIZAMIENTO	125	22/12/2023	Ninguna
+17	Tungurahua	Baños de Agua Santa	Río Verde	San Jorge, vía Baños – Puyo [E30]	SOCAVAMIENTO	100	16/07/2023	Ninguna
+18	Esmeraldas	Quinindé	Malimpia	Malimpia, E20 pasando el basurero a mano derecha	SOCAVAMIENTO	30	03/04/2023	Ninguna
+19	Morona Santiago	Limón Indanza	Yunganza (Cab. En el rosario)	Km 35, El Rosario, vía Bella Unión – Limón [E45]	DESLIZAMIENTO	30	04/03/2023	Ninguna
+20	Manabí	Puerto López	Salango	La Rinconada 5 Cerros, vía Puerto López – Santa Elena [E15].	HUNDIMIENTO	4	28/08/2022	Ninguna
+21	Manabí	Sucre	Leonidas Plaza	Km 19, San Agustín-Tosagua [E-383]	SUBSIDENCIA	150	14/08/2022	Ninguna
+22	Pichincha	Mejía	Manuel Cornejo A.	km 38 + 600, vía Alóag – Unión del Toachi [E20]	HUNDIMIENTO	15	25/02/2022	Ninguna
+23	Esmeraldas	Quinindé	Rosa Zarate (Quinindé)	Km 68 Los Vergeles, vía Esmeraldas – Quinindé [E20]	HUNDIMIENTO	40	8/02/2022	Ninguna
+24	Imbabura	Ibarra	Carolina	San Jerónimo; vía Salinas – Lita [E 10]	DESLIZAMIENTO	225	22/12/2021	1.- Ruta desde la E10 Guallupe – San Juan de Lachas (Carchi) – por la E 182 Gualchan – Chical – Maldonado – Tulcán – Ibarra , 2.- Para vehículos livianos, E10 desde San Jerónimo – Buenos Aires – Cahuasqui – Tumbabiro.
+25	Cañar	Cañar	Ingapirca	Vía El tambo – Ingapirca – Honorato Vásquez km 8+100, km 15	DESLIZAMIENTO	100	24/11/2021	Ninguna
+26	Napo	El Chaco	Gonzalo Díaz De Pineda (El Bombón)	San Rafael, Piedra Fina, San Luis, San Carlos, Vía Y de Baeza-Lago Agrio [E45]	SOCAVAMIENTO	1040	2/02/2020	Lago Agrio – Coca – Y de Narupa – Tena – Ambato – Quito
+
+
+08 VÍAS DE SEGUNDO ORDEN CERRADAS:
+No.	Provincia	Cantón	Parroquia	Sector/Vía	Evento Adverso	Afectación (mts lineales)	Fecha del evento	Vías alternas
+1	Carchi	Montúfar	La Paz	vía a la Gruta de La Paz	DESLIZAMIENTO	30	09/03/2025	Vía alterna (Sandial).
+2	Pichincha	Quito	Guamaní	Barrio Primavera de Cornejo	HUNDIMIENTO	--	05/03/2025	Ninguna
+3	Imbabura	Cotacachi	Imantag	Ingreso a Piñan-Moran	DESLIZAMIENTO	50	09/02/2025	Ninguna
+4	Santa Elena	Salinas	Anconcito	Vía al Puerto Pesquero	SOCAVAMIENTO	--	14/03/2023	Ninguna
+5	Pichincha	Quito	Conocoto	Calles Hermano Miguel y Panzaleo, cruce de vías	SOCAVAMIENTO	30	28/02/2022	Ninguna
+6	Azuay	Nabón	Nabón	Rosas, Bellavista, Tamboloma, Chunazana	DESLIZAMIENTO	50	14/03/2021	Corraleja-Yasudel-Susudel
+7	Imbabura	Pimampiro	Pimampiro, Cabecera Cantonal	San José de Aloburo	DESLIZAMIENTO	500	09/11/2021	Vía Narchimbuela - Pimampiro
+8	Pichincha	Mejía	Tambillo	El Murco - Pasando la escuela Carlos Freire Larrea	INUNDACIÓN	---	11/04/2022	Ninguna
+
+
+06 VÍAS DE SEGUNDO ORDEN PARCIALMENTE HABILITADAS:
+No	Provincia	Cantón	Parroquia	Sector/Vía	Evento Adverso	Afectación (mts lineales)	Fecha del evento	Vías alternas
+1	El Oro	Zaruma	Malvas	Malvas, vía Zaruma – Atahualpa [E-585]	DESLIZAMIENTO	25	28/02/2025	Ninguna
+2	Pichincha	Quito	Pacto	Antes de llegar a la Quinta Pactoloma	SOCAVAMIENTIO	--	28/02/2025	Ninguna
+3	Imbabura	Cotacachi	Quiroga	Las Antenas	SOCAVAMIENTIO	10	21/02/2025	Ninguna
+4	Pichincha	Mejía	Uyumbicho	Av. Simón Bolívar vía Pasochoa	DESLIZAMENTO	--	16/02/2025	Ninguna
+5	Napo	Tena	Ahuano	Ahuano, vía Ahuano-Campana Cocha	SOCAVAMIENTO	--	02/07/2024	Ninguna
+6	Chimborazo	Pallatanga	Pallatanga	Jiménez, vía Jiménez - Pallatanga	SOCAVAMIENTO	--	27/05/2023	Ninguna
+
+
+13 VÍAS DE TERCER ORDEN CERRADAS:
+No.	Provincia	Cantón	Parroquia	Sector/Vía	Evento Adverso	Afectación (mts lineales)	Fecha del evento	Vías alternas
+1	Carchi	Montúfar	San Gabriel	Casa del Duende, vía a Chután Bajo	DESLIZAMIENTO	20	07/03/2025	Ninguna
+2	El Oro	Piñas	Piñas	Sector Puente de Busa, Vía Puente de Buza – El Pache	DESLIZAMIENTO	50	28/02/2025	Ninguna
+3	Cañar	Cañar	Gualleturo	Comunidad de Enén	DESLIZAMIENTO	120	22/02/2025	paso alterno a la vía San Antonio-Gualleturo.
+4	Cotopaxi	Pangua	Moraspungo	Recinto La Providencia Alta, vía Moraspungo – Aguas Calientes	SOCAVAMIENTO	--	19/02/2025	Ninguna
+5	Cotopaxi	La Maná	Pucayacu	Guadual, vía Pucayacu – Guadual	DESLIZAMIENTO	--	15/02/2025	Ninguna
+6	Cotopaxi	La Mana	Guasaganda (Cab. En Guasaganda Centro)	La josefina, San Antonio de Guasaganda; vía Guayacán – Guasaganda – Pucayacu	SOCAVAMIENTO	--	13/02/2025	Ninguna
+7	Pichincha	Quito	Pacto	Km 19 de la Ruta -La Loma  -Ingapi- Guayabillas y Santa Rosa	DESLIZAMIENTO	50	13/02/2025	Ninguna
+8	Cotopaxi	La Maná	Pucayacu	Pucayacu, vía Pucayacu - San Ramón - La Chala - San Miguel	DESLIZAMIENTO	150	11/02/2025	Ninguna
+9	Pichincha	Cayambe	Juan Montalvo	Río Guachalá - vía a la Josefina	INUNDACIÓN	100	16/06/2024	Ninguna
+10	Pichincha	Mejía	Tambillo	Ushco, vía Tambillo – Panamericana Sur	INUNDACIÓN	20	10/04/2022	Ninguna
+11	Pichincha	Mejía	Manuel Cornejo Astorga (Tandapi)	Vía de ingreso a las Comunidades Peñas Blancas, El Paraíso, El Mirador y San Francisco	DESLIZAMIENTO	140	08/02/2022	Ninguna
+12	Morona Santiago	Morona	Sinaí	Playas de San Luis, vía Santa María Tunants-Playas de San Luis-Quinta Cooperativa	INUNDACIÓN	3884	02/05/2021	Ninguna
+13	Azuay	Cuenca	Nulti	Pasto Romero, vía al centro Parroquial	DESLIZAMIENTO	30	16/04/2021	Ninguna
+
+
+07 VÍAS DE TERCER ORDEN PARCIALMENTE HABILITADAS:
+No.	Provincia	Cantón	Parroquia	Sector/Vía	Evento Adverso	Afectación (mts lineales)	Fecha del evento	Vías alternas
+1	Pastaza	Pastaza	Puyo	Vía a Río Blanco camino a la planta de tratamiento de agua Potable del Municipio de Pastaza.	SOCAVAMIENTO	--	09/03/2025	Ninguna
+2	Azuay	Girón	Asunción	Pichanillas	DESLIZAMIENTO	20	03/03/2025	Ninguna
+	El Oro	Chilla	Chilla	Sitio La Z, vía Porotillo – Chilla	DESLIZAMIENTO	20	28/02/2025	Ninguna
+3	El Oro	Machala	Nueve de Mayo	El Camperito	SOCAVAMIENTO	5	26/02/2025	Ninguna
+4	El Oro	Portovelo	Morales	Morales, vía Morales – Curtincapac	HUNDIMIENTO	2	17/02/2025	Ninguna
+5	Imbabura	Cotacachi	García Moreno	Cielo Verde, Via Cielo Verde - García Moreno	DESLIZAMIENTO	80	13/02/2025	Ninguna
+6	Esmeraldas	Rioverde	Montalvo	recinto Repartidero	SOCAVAMIENTO	--	11/02/2025	Ninguna
+7	Cotopaxi	La Maná	El Triunfo	La Libertad, vía La Maná - Recinto Estero Hondo	HUNDIMIENTO	15	06/02/2025	Ninguna
+
+
+
+Reporte generado por la Dirección de Monitoreo de Eventos Adversos de la Secretaría Nacional de Gestión de Riesgos.
+
+Reporte elaborado por:		Reporte revisado por:
+Nombre: Jorge Dután. - Digitador Nacional de Eventos Adversos Correo electrónico:  jorge.dutan@gestionderiesgos.gob.ec Teléfono: 042593500 ext. 1605		Nombre: Javier Sarango - Analista de Monitoreo de Eventos Adversos Correo electrónico: jose.sarango@ Teléfono: 042593500 ext. 1603
+
+Para ser agregado o removido de esta lista de destinatarios, por favor envíe un correo electrónico a
+Para más información, visite nuestro sitio web:

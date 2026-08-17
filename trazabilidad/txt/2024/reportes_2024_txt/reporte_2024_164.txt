@@ -1,0 +1,717 @@
+                                                                                                                   Secretaría Nacional de Gestión de Riesgos
+                                                                                                                               Dirección de Monitoreo de Eventos Adversos
+                                                            REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                                       Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 1 de 10
+                          Periodo de Monitoreo:                Desde:       09:00           03/09/2024                Hasta:       21:00               03/09/2024
+
+ 1. Monitoreo de amenazas
+           [ROJO]    Amenaza en desarrollo, posible desencadenamiento de eventos adversos.
+           [AMARILLO]    Amenaza en incremento y probable materialización inminente.
+           [VERDE]    Amenaza dentro de los parámetros normales.
+PELIGRO VOLCÁNICO:
+                                                                 Nivel de alerta
+                         Ubicación                                                                              Situación actual                                    Valoración actual
+                                                                   declarada
+
+                         Volcán Reventador
+                         Napo
+                                                            NARANJA                  18H00 Se observa volcán nublado y sin novedades                                       [VERDE]
+                         Volcán Chiles-Cerro Negro
+                         Carchi
+                                                                   AMARILLA          17H00 Se observa volcán nublado y sin novedades                                       [VERDE]
+                         Volcán Sangay
+                         Morona Santiago
+                                                                   AMARILLA          16H00 Se observa volcán nublado y sin novedades                                       [VERDE]
+PELIGRO POR DESBORDAMIENTOS DE CUERPOS HÍDRICOS:
+00 cuerpos de agua desbordados:
+          Provincia                          Cantón                            Parroquia                                 Sector                                     Nombre
+             ---                               ---                                ---                                      ---                                        ---
+
+00 cuerpos de agua con tendencia a subir el nivel:
+          Provincia                          Cantón                            Parroquia                                 Sector                                     Nombre
+             ---                               ---                                ---                                      ---                                        ---
+
+PELIGRO POR INCENDIOS FORESTALES:
+15 incendios forestales activos:
+                Provincia                           Cantón                             Parroquia                            Sector                     Afectación (Ha)      Fecha de inicio
+                 Cotopaxi                         Latacunga                              Mulaló                        Caserío Chaupi                        ---             03/09/2024
+                  Azuay                            Cuenca                              Molleturo                Km 53, vía Cuenca Molleturo                  ---             03/09/2024
+               Chimborazo                           Guano                             San Andrés            San Pablo ingresando por la Escuela              --              02/09/2024
+                Imbabura                            Ibarra                            El Sagrario                         Yuracruz                           --              02/09/2024
+               Chimborazo                           Alausí                              Sibambe                            Caluvín                           --              01/09/2024
+                  Carchi                            Espejo                             La libertad                          Morán                           280              31/08/2024
+                   Loja                              Loja                               Quinara                            Quinara                          1505             31/08/2024
+                Imbabura                           Urcuqui                     La Merced de Buenos Aires               Cerro el Chispo                       50              28/08/2024
+                 Cotopaxi                          Sigchos                              Sigchos              Cerro El Púlpito, Caserío Las Rosas            430              26/08/2024
+               Chimborazo                            Colta                      Juan de Velasco (Pangor)              Sector las Danas.                      ---             03/09/2024
+                  Azuay                             Nabón                                Nabón                              Silvan                           ---             03/09/2024
+                  Azuay                             Paute                                Paute                             Zhumir                            ---             03/09/2024
+                  Azuay                            Cuenca                               Sayausí                             Gulac                            ---             03/09/2024
+                   Loja                            Quilanga                             Quilanga                       Santa Bárbara                         70              03/09/2024
+                Pichincha                            Mejía                             El Chaupi                         Los Ilinizas                       200              02/09/2024
+
+05 incendios forestales controlados:
+                     Provincia                        Cantón                           Parroquia                            Sector                     Afectación (Ha)      Fecha de inicio
+               Pichincha                               Quito                          El Quinche                          Chamisal                           ---             02/09/2024
+               Pichincha                               Quito                           Puengasí                         Cerro Auqui                          --              02/09/2024
+               Pichincha                               Quito                              Pifo                            Itulcachi                          --              02/09/2024
+                 Azuay                                Nabón                           El Progreso                        Santa Rosa                         550              28/08/2024
+                                                                                                              Varios sectores (Valdivia, Santa
+                                                                              San Antonio de las Aradas y
+                  Loja                                Quilanga                                              Rosa, El Limón, El Sauce, La Libertad          7600              23/08/2024
+                                                                                    Fundochamba
+                                                                                                                        y Naranjito)
+                                                                                                          Secretaría Nacional de Gestión de Riesgos
+                                                                                                                       Dirección de Monitoreo de Eventos Adversos
+                                                   REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                              Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 2 de 10
+PELIGRO POR APERTURA O COLAPSO DE PRESAS Y REPRESAS:
+                    Recurso                    Cota mínima                  Cota Actual                  Cota máxima                  Hora de corte                Valoración
+ Molino, Azuay                                   1970.00                        ---                         1990.50                        ---                         ---
+ Mazar, Azuay                                    2138.05                        ---                         2153.45                        ---                         ---
+ Daule Peripa, Guayas                             70.00                         ---                          85.00                         ---                         ---
+ Central Baba, Los Ríos                           114.00                        ---                          117.00                        ---                         ---
+ Chongón, Guayas                                  44.50                         ---                           55.15                        ---                         ---
+ El Azúcar, Santa Elena                           40.00                         ---                          45.09                         ---                         ---
+ San Vicente, Santa Elena                         50.00                         ---                          57.49                         ---                         ---
+ La Esperanza, Manabí                             53.40                        62.62                         66.00                         ---                         ---
+ Poza Honda, Manabí                               104.29                      105.38                         106.51                        ---                         ---
+ Multipropósito Chone, Manabí                     48.00                        51.58                         68.50                         ---                         ---
+ Agoyán, Tungurahua                              1645.00                        ---                         1651.00                        ---                         ---
+ Pucará-Pisayambo, Tungurahua                    3541.00                        ---                        3565.00                         ---                         ---
+            DECLARATORIAS DE NIVELES DE ALERTA VIGENTES POR AMENAZAS Y/O EVENTOS ADVERSOS, VISITAR LA PÁGINA WEB:
+                      https://www.gestionderiesgos.gob.ec/niveles-de-alertas-y-declaratorias-vigentes-establecidas-por-la-
+
+         SITUACIÓN HIDROMETEOROLÓGICA:
+
+
+                                                                                                               ADVERTENCIA
+
+                                                                           AMENAZA: ALTA TEMPERATURA DIURNA Y PROBABLES INCENDIOS FORESTALES -
+                                                                                                         ADVERTENCIA N° 47
+                                                                           Vigencia: desde 13H00 del 01 hasta las 17H00 del 05 de Septiembre de 2024
+
+                                                                           SITUACIÓN: Los próximos días continuarán Muy Altas Temperaturas y Radia-ción
+                                                                           Ultravioleta en el día, con mayor énfasis al norte y sur de la región Interandina, el
+                                                                           centro y sur del Litoral y Amazonía. Esta si-tuación persistente, combinada con el
+                                                                           bajo contenido de humedad y ráfagas de viento moderadas y fuertes, incrementa la
+                                                                           probabili-dad de ocurrencia de incendios forestales (zonas delimitadas con color rojo
+                                                                           en el mapa de amenaza).
+
+                                                                             ZONAS AFECTADAS
+
+                                                                           Región Litoral: Mayor intensidad en las provincias de Guayas y parte de El Oro y
+                                                                           Manabí.
+
+                                                                           Región Interandina: Mayor riesgo en las provincias de Carchi, Imbabura, Pichincha,
+                                                                           Chimborazo, Azuay y Loja
+
+                                                                           Región Amazónica: Mayores temperaturas en las provincias del centro y norte de la
+                                                                           región
+
+
+                                                                           FUENTE: INAMHI
+
+
+PELIGRO SÍSMICO:
+          Fecha – Hora Local          Magnitud             Profundidad                                 Cercano a                                   Sentido por la población
+                  ---                   ---                    ---                                        ---                                                ---
+
+
+
+2. Monitoreo de eventos peligrosos (emergencias y desastres)
+ZONA 1
+
+                Incendio Forestal
+                Localización:       Carchi/Espejo/La Libertad/Morán en la zona de amortiguamiento de la Reserva Ecológica El Ángel (REEA)
+                                    El 31/08/2024, por causas desconocidas se registró un incendio forestal en la zona de amortiguamiento de la Reserva Ecológica El Ángel
+                Antecedentes:       (REEA), debido a las condiciones del terreno, la alta radiación, presencia de fuertes vientos y la topografía del sector se ha tornado un
+                                    incendio de magnitud.
+                Situación actual:   El incendio se encuentra activo.
+                                                                                             Secretaría Nacional de Gestión de Riesgos
+                                                                                                          Dirección de Monitoreo de Eventos Adversos
+                                     REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                    Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 3 de 10
+Afectaciones:         - 280 ha consumidas de vegetación de páramo (dato preliminar
+                      EL 02/09/2024, se reunió el COE C Espejo para la coordinación de acciones de respuesta y toma de decisiones.
+                      Art. 1.- Se movilice todas las instituciones de control, Cuerpos de bomberos del Cantón Espejo, Unidad de gestión de riesgo GADM-E,
+                      Secretaria de Gestión de Riesgo, Representante de la reserva ecológica El Ángel, al punto de emergencia el día 02 de septiembre de
+                      2024, para valorar situación.
+                      Art. 2.-Solicitar a la REEA, el permiso correspondiente para establecer un PMU en sus instalaciones, en el sector el salado.
+                      Art. 3.-Disponer al Cuerpo de Bomberos colocar un PMU, en sector el salado, dentro la guardianía de la REEA.
+                      Art. 4.-Solicitar al ministerio de salud pública, movilizar personal al punto de control para la atención del personal que combate el fuego.
+                      Art.5.-Solicitar a EMAPA-E, la cantidad de 150 botellas diarias de agua para el personal que combate el incendio.
+                      Art. 6.-Solicitar al GOBIERNO PROVINCIAL, personal y logística para atender el incendio.
+Acciones de           Art. 7 .-Solicitar a las ONG, recursos y logística disponible para atender al personal que realiza trabajos en el incendio forestal, a través
+respuesta:            del Consejo de protección de derechos Espejo.
+                      Art. 8.-Solicitar a la Gobernación del Carchi la gestión de recursos y logística para atender personal que combate el incendio. COMITÉ
+                      DE OPERACIONES DE EMERGENCIA DEL CANTÓN ESPEJO 5
+                      Art. 9.-Solicitar a Policía Nacional el apoyo de seguridad en el PMU establecido.
+                      Art.10.-Insistir a la SECRETARIA DE GESTIÓN DE RIESGOS, la colaboración de los radios para el Cuerpo de Bomberos, para cubrir las
+                      Emergencias.
+                      -GAD C Espejo y Gobernación del Carchi realizan la entrega de almuerzos refrigerios al personal que esta combatiendo el incendio.
+                      -Cuerpo de Bomberos de Espejo, con apoyo de los guardaparques de la Reserva Ecológica El Ángel, comunidad de Morán, Brigada
+                      Comunitaria de la Comuna de Indígenas Pasto La Libertad y los residentes locales, Prefectura del Carchi y el apoyo logístico del GAD
+                      Municipal de Espejo realizan los trabajos de control y sofocación del flagelo.
+
+Fuentes de
+                      SNGR CZ1 Umeva Imbabura/SIS ECU 911 Tulcán/Cuerpo de Bomberos de Espejo.
+información:
+
+
+Incendio Forestal
+Localización:         Imbabura/Urcuqui/La Merced de Buenos Aires/Cerro el Chispo
+                      El 28/08/2024, por causas desconocidas se encuentra en curso un incendio forestal, en una zona de difícil acceso y debido a las
+                      condiciones del terreno agreste y la topografía del sector se ha tornado un incendio de magnitud, afectando a 2 cantones de la provincia
+Antecedentes:
+                      de Imbabura; cantón Urcuqui, parroquia de Buenos Aires y cantón Ibarra parroquia La Carolina; actualmente se visualiza que se
+                      encuentra en lado de la parroquia La Carolina.
+Situación actual:     El incendio forestal al momento se encuentra activo.
+Afectaciones:         - 50 ha de vegetación de matorrales (dato preliminar).
+                      -El Sr. alcalde en representación del Cantón Urcuqui convocó 02/09/2024 a las 15h00, a la reunión del COE para la coordinación de
+                      acciones de respuesta y toma de decisiones con las Instituciones presentes.
+                      - Debido a varios incendios presentados en la localidad a causa de temporada seca y altas temperaturas se pone a consideración
+                      realizar un sobrevuelo para identificar las zonas afectadas por el evento.
+Acciones de           Realizado este sobrevuelo se presentará un informe y analizar estrategias que se pueden realizar en el sector y accesos con personal
+respuesta:            para tareas de sofocación.
+                      - SNGR Solicita la activación de helicóptero de FFAA para sobrevuelo por incendio forestal en la Parroquia Buenos Aires, Cantón Urcuqui,
+                      Provincia de Imbabura.
+                      - GAD Parroquial de Buenos Aires monitorea el evento
+                      - SNGR-UMEVA da seguimiento al evento
+
+Fuentes de
+                      SNGR CZ1 Umeva Imbabura/GAD Parroquial Buenos Aires/Cuerpo de Bomberos de Urcuqui.
+información:
+
+
+Oleaje
+Localización:       Esmeraldas/ San Lorenzo/ Ancón de Sardinas/ Playa de Cauchal
+                    El 22/08/2024, debido a las condiciones del mar, se suscitó un oleaje que afectó y destruyó varias viviendas de la comunidad, adicional
+Antecedentes:
+                    se registró un bien privado destruido.
+                    COE Cantonal San Lorenzo se encuentra activo para coordinar acciones para la atención del evento.
+Situación actual:   Las familias afectadas se encuentran pernoctando en sus viviendas y las damnificadas continúan alojadas en casa de Familias de
+                    Acogida. Al momento se registra una pleamar en el sitio.
+                    -116 familias, 280 personas afectadas.
+                    -15 familias, 60 personas damnificadas.
+Afectaciones:       -8 viviendas destruidas.
+                    -7 viviendas afectadas.
+                    -1 bien privado destruido (lancha utilizada para la pesca).
+                    GAD Cantonal San Lorenzo sesiona en las instalaciones del GAD Cantonal de San Lorenzo.
+Acciones de
+                    UGR GAD Cantonal San Lorenzo remitió la EVIN.
+respuesta:
+                    MIES realizó la entrega de asistencia humanitaria (kits de vestimenta y calzado).
+Fuentes de
+                    SNGRCZ1 Umeva Esmeraldas/UGR GAD Cantonal San Lorenzo/MIES.
+información:
+                                                                                                       Secretaría Nacional de Gestión de Riesgos
+                                                                                                                    Dirección de Monitoreo de Eventos Adversos
+                                               REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                          Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 4 de 10
+
+
+
+ZONA 2
+
+
+         Socavamiento
+                             Orellana-Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-Lago Agrio
+         Localización:
+                             [E45].
+                             Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a varias viviendas y sectores
+                             estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair, tuberías de SOTE, Poliducto Shushufindi – Quito y
+         Antecedentes:
+                             OCP.
+                             Se mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a Roja.
+                             El frente de erosión se estima localizado en la abscisa 6+400(por confirmar) durante 3 dias; aguas abajo, entre los kilómetros 6+400 y
+         Situación actual:   10+000, continúa la erosión lateral en la margen izquierda, aguas arriba de San Carlos, afectando las instalaciones petroleras y poniendo
+                             el preligro a la vía E45 en el sector del Mirador y tambien aguas abajo del rio Loco, donde tambien se afectó las instalaciones petroleras.
+                             Desde el 2020 a la fecha las afectaciones son las siguientes:
+                             - Personas afectadas: 115
+                             - Personas afectadas indirectas: 26.804 personas
+                             - Personas damnificadas: 51
+                             - Personas evacuadas: 99
+                             - Viviendas afectadas: 14
+                             - Viviendas destruidas: 6
+                             -Bienes públicos afectados (4): 3 corresponden al fenómeno de erosión (rotura de tuberías: SOTE, Poliducto y OCP por el hundimiento
+         Afectaciones:       ocurrido el 07/04/2020); y 1 tubería de agua potable de San Luis y 1 Torres de soporte de tubería tipo H.
+                             -Bienes privados afectados (6): fueron afectados al intentar cruzar el río Marker un bus interprovincial (trans Esmeraldas) (05/09/2023),
+                             un camión (10/09/2023), bus interprovincial (Zaracay) (14/09/2023), camioneta (30/10/2023), tráiler y un bus de la Cooperativa Putumayo
+                             (24/11/2023)
+                             -Puentes destruidos (5): Puente sobre el río Montana, Puente Ventana 2, Puente Piedra Fina 2 , Puente colgante San Carlos y Puente
+                             sobre el río Marker.
+                             - Metros de vía afectadas: 1120
+                             - Ha de Cultivo perdida: 100.03
+                             - Animales de granja afectados y muertos: 3448
+                             Ep Petroecuador y OCP implementan las contingencias para superar los eventos de fuerza mayor; OCP contruye dos bypass
+         Acciones de
+                             La Comisión Ejecutora Río Coca - CELEC EP, SNGR, Tenencia Política de Gonzalo Diaz de Pineda, Cuerpo de Bomberos El Chaco y CCGR
+         respuesta:
+                             San Luis realizan monitoreo.
+
+         Fuentes de          SNGR CZ2 Umeva Napo-Orellana/ Técnico/SNGR CZ2/UGR GAD El Chaco/MDG/Comunidad/CELEC EP/ECU 911/Cuerpo de Bomberos El
+         información:        Chaco.
+
+
+ZONA 3
+         Incendio Forestal
+         Localización:         Cotopaxi/Sigchos/Sigchos/Cerro El Púlpito, Caserío Las Rosas.
+                               El 26/08/2024 se suscitó un incendio forestal en el sector.
+                               El 31/08/2024 se reunió el COE Cantonal Sigchos donde se tomaron las siguientes resoluciones:
+                               -La salida del personal del Cuerpo de Bomberos al sitio del siniestro será a las 05H00 del día domingo del desde el PMU.
+                               -Sobrevolar los drones para ver los puntos calientes.
+                               -Gestionar las Brigadas BRIF, responsables el señor alcalde y el señor Gobernador.
+                               -Gestionar a los miembros de la Brigada Patria para que ayuden a sofocar el incendio, responsable el señor Gobernador.
+         Antecedentes:         -Solicitar la presencia del MATTE en el sitio del siniestro y realice la valoración respectiva.
+                               -El MAG entregara silos por la afectación de los pastizales.
+                               El 01/09/2024 se reunió el COE Cantonal Sigchos donde se tomaron las siguientes resoluciones:
+                               -Las BRIF iniciaran las operaciones desde las 05H00.
+                               -El PMU se traslada a las instalaciones del GADM – SIGCHOS.
+                               -Se ubicará el Punto de Comando en el sector del Tablón.
+                               -Todo el personal, ayudas, refrigerios, hidratación deberán ingresar con la autorización del PMU
+                               Mediante sobrevuelo con dron calculan área estimada de afectación hasta el momento.
+         Situación actual:
+                               El incendio se encuentra activo.
+         Afectaciones:         - 430 ha de arbustos, pino y vegetación nativa.
+         Acciones de           30 especializados de la Brigada BRIF de Quito y 42 especializados de FFAA realizaron labores de sofocación del flagelo
+         respuesta:
+
+         Fuentes de
+                               SNGR CZ3 Umeva Chimborazo/Cuerpo de Bomberos de Sigchos/Cuerpo de Bomberos de Latacunga.
+         información:
+                                                                                                      Secretaría Nacional de Gestión de Riesgos
+                                                                                                                  Dirección de Monitoreo de Eventos Adversos
+                                              REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                         Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 5 de 10
+
+
+
+         Deslizamiento
+         Localización:       Tungurahua/Baños de Agua Santa/Río Verde/Caserío El Placer, Quilloturo, ref. Vía Baños - Puyo [E30].
+                             Debido a las lluvias registradas el 16/06/2024, en el sector se produjo un deslizamiento de magnitud que afecta completamente la vía
+                             de primer orden afectó a personas y maquinaria que se encontraba trabajando en el sector.
+                             El 21/06/2024, se activó el COE Provincial Tungurahua.
+                             SNGR realizó una inspección el 18 de junio 2024.
+         Antecedentes:
+                             COE Cantonal y Provincial activados ante la emergencia, y se coordina la participación de MTT-3 MTT-1 MTT4 y MTT-7,GT1;GT2,GT3
+                             Provinciales.
+                             Se trasladó a 4 heridos críticos al Hospital Básico Baños, los demás se encuentran en el Centro de Salud Río Verde; adicional existen
+                             dos alojamientos temporales activados (Iglesia Evangélica Luz y Verdad, Iglesia Católica).
+                             Al momento la vía continúa cerrada, el puente de la merced El Placer se encuentra afectado, el Centro de Salud Rio Verde fue afectado
+         Situación actual:   debido a colapso de alcantarilla, se estima 300 familias afectadas indirectas y directamente entre las cuales están sin accesibilidad,
+                             sin energía ni eléctrica agua y en algunos casos viviendas afectadas.
+                             - 19 personas heridas.
+                             - 06 personas fallecidas
+                             - 399 familias afectadas (1201 personas)
+                             - 271 familias evacuadas
+                             - 67 familias damnificadas (217 personas)
+                             - 18 viviendas afectadas.
+                             - 31 viviendas destruidas.
+                             - 10490 metros aproximadamente de vía de primer orden afectado.
+                             - 1 puente afectado.
+                             - 1 establecimiento de salud afectado (Centro de Salud Río Verde)
+                             - 10 bienes públicos afectados. (Postes de alumbrado)
+                             - 4 bienes privados destruidos (Vehículos)
+                             - 80 % del servicio de agua potable afectado en el cantón Baños (restablecido al 100%.)
+         Afectaciones:
+                             - 20 % del servicio de energía eléctrica afectado en cantón Baños (restablecido al 100%)
+                             -Familias evacuadas (Iglesia Evangélica Luz y Verdad 170 familias, Iglesia Católica 80 familias).
+                             –10 desaprecidos (cifra preliminar)
+                             Por la emergencia se han activado los siguientes alojamientos temporales:
+                                          Iglesia Católica 17 familias (57 personas)
+                                          Guardería 12 familias (29 personas)
+                                          San Vicente ubicado en Baños Cabecera Cantonal 8 familias (25 personas)
+                                          Fundación Oscar Efrén Reyes 5 familias (14 personas)
+                                          Casa Sr. Abdón Recalde 6 familias (21 personas)
+                                          66,6 ha de cultivos afectados
+                                          98,5 ha de cultivos destruidos
+                                          3750 animales de granja afectados
+                                          3500 animales de granja muertos
+                             MAG realizó la entrega de ensilaje.
+         Acciones de
+                             SNGR monitorea el evento, realizó la entrega de asistencia humanitaria y participó de la reunión del COE.
+         respuesta:
+                             SNGR-UGIAR-CZ3 realizó la inspección del predio donde serán reubicadas las familias damnificadas.
+         Fuentes de
+         información:        SNGR CZ3 Umeva Tungurahua/CB/GAD Baños/EEASA/UGR GAD Provincial
+
+ZONA 5
+         Déficit Hídrico
+         Localización:       Galápagos/Cantones: Santa Cruz, Isabella, San Cristóbal.
+                             Debido a la ausencia de lluvias a nivel provincial, el sector agrícola se ha visto afectado con el debilitamiento de los sembríos, pastos y
+                             plantas nativas dejándolos susceptibles a enfermedades y plagas. El MAG indica que la ausencia de lluvias ha ocasionado que a partir
+                             del mes de abril no se registren siembras de cultivos a campo abierto. La disponibilidad de pasto para alimentación de los animales se
+                             vió afectado en un 70%.
+                             El 11/06/2024, El COE Provincial se activó.
+                             MAG con base a las razones expuestas en su informe técnico, sugirió que se declare en emergencia al sector y sugirió a los COPAES y
+         Antecedentes:
+                             COEs Cantonales analizar la situación para futuras declaratorias de emergencias.
+                             El 21/06/2024 El COE se reunió para analizar el “INFORME DE ANÁLISIS CLIMÁTICO DEL ARCHIPIÉLAGO DE GALÁPAGOS” elaborado por el
+                             INAMHI y el informe del MAG anteriormente mencionado, para tomar acciones sobre la situación del déficit en la provincia. Mediante
+                             Resolución N0. 40 de fecha 26 de junio del 2024 el Ministro de Agricultura y Ganadería, Franklin Danilo Palacios declara la emergencia
+                             Institucional del Sector Agropecuaria en la Provincia de Galápagos por un plazo de 90 días, con base en las razones expuestas en el
+                             INFORME TÉCNICO No. 20D01.
+                             Se informó de la presencia de lluvias esporádicas en las últimas dos semanas del mes de agosto en la parte alta de los diferentes
+         Situación actual:
+                             cantones las afectaciones en la Provincia han disminuido.
+         Afectaciones:       - Pasto tropical
+                                                                                                     Secretaría Nacional de Gestión de Riesgos
+                                                                                                                  Dirección de Monitoreo de Eventos Adversos
+                                             REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                           Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 6 de 10
+                             - 653.86 ha de cultivos destruidos ( plátano, naranja, pepinillo, cebolla blanca, cilantro, pasto, braquiaria, maíz duro y tomate riñón).
+                             - 4242.24 ha cultivos destruidos ( plátano, yuca, cebolla, piña, café, cilantro, maíz duro, naranja, tomate riñón, pepinillo, pasto, braquiaria
+                             y misceláneo)
+                             - 245 animales de granja afectados (ganado bovino)
+                             - 5 animales de granja muertos ( ganado bovino)
+                             - 104 familias de agricultores afectados
+                             - 416 personas afectadas
+                             - A la espera de informe técnico por parte del MAG para actualizar afectaciones agropecuarias.
+                             - Desde días anteriores se coordinó con Instituciones de la Provincia, GAD´S Cantonales, PP.NN, Armada del Ecuador, Consejo de
+                             Gobierno, Cuerpos de Bomberos, la entrega de agua a Productores, priorizando a quienes tienen mayor necesidad de abastecimiento
+                             del líquido vital.
+                             - MAG gestionó ante la Dirección del Parque Nacional Galápagos el permiso de ingreso a diferentes zonas protegidas para la extracción
+         Acciones de
+                             de pasto elefante, con el fin de picarlo y realizar la entrega de ensilado a diferentes ganaderos con mayor afectación en sus pastizales,
+         respuesta:
+                             y puedan alimentar a sus bovinos, actividad que hasta la presente fecha se la está realizando.
+                             - MAG conjuntamente con productores de los diferentes cantones han realizado la limpieza y mantenimiento de los 147 micro reservorios
+                             existentes en la Provincia, Santa Cruz 46, San Cristóbal 71, Isabela 26 y Floreana 7.
+                             - SNGR se mantiene activo ante éste evento.
+         Fuentes de
+         información:        SNGR CZ5 Umeva Santa Elena/UPREA Galápagos/MAG Galápagos
+
+ZONA 6
+
+
+         Incendio Forestal
+         Localización:       Azuay/Nabón/El Progreso/Santa Rosa.
+                             Se suscitó un incendio forestal de vegetación del lugar.
+         Antecedentes:       El 31/08/2024 se activó el COE cantonal de Nabón tomando la siguiente resolución:
+                             -Solicitar a la SNGR CZ6 la activación del Bambi Bucket.
+         Situación actual:   El incendio forestal se encuentra controlado.
+         Afectaciones:       - 522 ha de vegetación del lugar (preliminar).
+                             Cuerpo de Bomberos Cuenca y personal de FFAA colaboran en las labores de sofocación del flagelo.
+         Acciones de
+                             Aeronave AEROSPATIALE LAMA AEE319 con el dispositivo Bambi Bucket realizó 33 descargas con un total de 23100 litros en un tiempo
+         respuesta:
+                             de 4horas en la zona del incendio.
+                             SNGR CZ6 Umeva Azuay-Cañar/Cuerpo de Bomberos de Cuenca/Cuerpo de Bomberos de Nabón.
+         Fuentes de
+         información:
+
+
+         Deslizamiento
+         Localización:       Azuay/Santa Isabel/Santa Isabel/La Cría.
+                             El 03/06/2022, se suscitó un deslizamiento producto de la saturación del suelo originado por la combinación del deficiente sistema de
+                             riego en el sector, del taponamiento de diferentes quebradas y la deficiencia en el drenaje del terreno.
+         Antecedentes:       El 06/04/2023, la SNGR emitó el cambio a ALERTA NARANJA
+                             El 20/06/2023 MIES entregó Bonos de Contingencia a 22 familias afectadas de la comunidad La Cría.
+                             Con fecha 26/01/2024 se realizó la activación del COE Provincial Azuay para realizar el seguimiento del evento y establecer acciones.
+                             Gestor del alojamiento temporal “San Isidro” informa que 3 familias de 9 personas se desplazaron del albergue, adicional menciona
+         Situación actual:
+                             que al momento se encuentra acogida 1 familia de 1 persona.
+                             -44 viviendas afectadas
+                             -44 familias afectadas
+                             -178 personas afectadas
+                             -8 viviendas destruidas
+                             -8 familias damnificadas
+                             -25 personas damnificadas (permanecen en casa de familias acogientes)
+         Afectaciones:
+                             -38 familias evacuadas.
+                             -130 personas evacuadas (albergue temporal) (Con fecha 09/05/2024 se encuentran en el albergue 1 familias de 1 persona)
+                             -1 bien privado afectado (capilla)
+                             -1 bien público afectado (casa comunal)
+                             -1 bien público afectado (cancha central)
+                             -3 bienes privados afectados (predios)
+         Acciones de         UGR Santa Isabel en conjunto con SGR CZ6 realizan acciones de atención a la emergencia
+         respuesta:
+
+         Fuentes de          SNGR CZ6 Umeva Azuay-Cañar.
+         información:
+                                                                                                    Secretaría Nacional de Gestión de Riesgos
+                                                                                                                 Dirección de Monitoreo de Eventos Adversos
+                                             REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                        Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 7 de 10
+
+
+
+
+ZONA 7
+
+
+         Incendio Forestal
+                             Loja/Quilanga Parroquia San Antonio de las Aradas: Valdivia, Santa Rosa, El Limón y El Sauce.
+         Localización:
+                             Parroquia Fundochamba: La Libertad y Naranjito.
+                             Desde el 23 de agosto se produjo un incendio forestal el cual inició en el barrio Valdivia.
+                             Desde el 30/08/2024 se activó el Helicóptero LAMA de las FF. AA (500 litros de descarga de agua) con sistema Bambi bucket. Ministerio
+                             de Defensa del Ecuador y el Comando Conjunto de las FF.AA. activó el Sistema de Cooperación entre las Fuerzas Aéreas Americanas
+                             “SICOFAA”, con la Fuerza Aérea Peruana con la presencia de 2 Helicópteros MI-17 (3000 litros de descarga de agua) y 1 avión Spartan C-
+                             27 (5000gl de descarga de agua) que han realizado actividades de sofocación.
+                             El 29/08/2024 se activó las BRIF de Cañar y El Oro. Se realizó la transferencia de mando del BRIF Cañar (retorno a Cañar) al BRIF El Oro
+         Antecedentes:
+                             en la mañana del lunes 02/09/2024
+                             -Desde el 30/08/2024 el COE Parroquial de Fundochamba coordina las actividades a realizarse con las diferentes instituciones.
+                             -El 28/08/2024 se reunió COE Provincial de Loja y se declara en sesión permanente hasta culminar el evento.
+                             -Desde el 25/08/2024 se mantiene activo COE Cantonal de Quilanga y su gestión principal es la coordinación integral de la emergencia.
+                             -Desde el 24/08/2024 el COE Parroquial de San Antonio de las Aradas coordina las actividades a realizarse con las diferentes
+                             instituciones.
+                             El incendio forestal se encuentra controlado en un 95%
+                             BRIF El Oro conjuntamente con SNGR y MAG realizaron análisis de las coordenadas tomadas por Cuerpo de Bomberos en sitio y de los
+         Situación actual:
+                             mapas de monitoreo satelital NASA FIRMS; se realizó el desglose de las afectaciones de la cobertura vegetal total quemada (7.600
+                             hectáreas) donde informaron que en el cantón Quilanga se registran 6295 hectáreas
+                             -3 personas heridas (2 bomberos y 1 comunero). Al momento su salud es estable.
+                             -25 familias afectadas compuestas por 63 personas
+                             -147 personas recibieron atención prehospitalaria
+                             -79 familias damnificadas conformadas por 207 personas.
+                             -17 viviendas afectadas
+                             -3 viviendas destruidas
+         Afectaciones:       -8 bienes privados destruidos (chozas deshabitadas)
+                             -6010 animales muertos (6.000 pollos y 10 cabezas de ganado). Información confirmada por personal técnico del MAG
+                             -488 animales afectados
+                             -60% de Servicio de Agua Potable Afectado en las parroquias de Fundochamba y San Antonio de las Aradas
+                             -6.295 hectáreas de vegetación nativa, bosque de pino y pajonal.
+                             -Del total del área consumida se consumieron: 128.5 hectáreas de sembríos de café, 6.5 hectáreas de huertos de legumbres y 200
+                             hectáreas de semilleros de café.
+                             e realizó la transferencia de mando del BRIF Cañar al BRIF El Oro en la mañana del lunes 02/09/2024.
+                             -MAG continúa con el levantamiento de información y daños.
+                             -SNGR y MIES continúan con la evaluación de necesidades a las familias afectadas.
+                             -Secretaría Técnica “Ecuador Crece sin Desnutrición Infantil” realizó levantamiento de información y entrega de Asistencia
+                             Humanitaria.
+                             -El Ministerio de Educación suspendió actividades académicas en las Unidades Educativas de las parroquias San Antonio de las
+                             Aradas y Fundochamba de Quilanga.
+         Acciones de
+                             -Ministerio de Finanzas transfirió $188.000 al GAD Cantonal de Quilanga para la emergencia.
+         respuesta:
+                             -2 helicópteros de la Fuerza Aérea Peruana, se sumaron para liquidación del flagelo desde el 31/08/2024.
+                             -El albergue de la Esc. Miguel Antoleano Salinas fue cerrado y las familias retornaron a sus viviendas.
+                             -Gobierno Provincial de Loja movilizó recursos para tareas de limpieza, construcción de fosas y movilización de materiales.
+                             -Policía Nacional colabora realizando control y seguridad ciudadana y apoyó en las tareas de sofocación del flagelo.
+                             -MSP continúa brindando atención pre-hospitalaria a pobladores de sectores afectados y al momento 217 personas han sido
+                             atendidas
+                             -Secretario Nacional, Coordinador Zonal y SNGR coordinan acciones de atención del evento.
+                             SNGR CZ7 Umeva Loja-Zamora Chinchipe/Consola Cuerpo de Bomberos.
+         Fuentes de
+         información:
+                                                                                                                                     Secretaría Nacional de Gestión de Riesgos
+                                                                                                                                                   Dirección de Monitoreo de Eventos Adversos
+                                                                         REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                                                       Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 8 de 10
+ 3. Monitoreo de estado de vías afectadas por eventos peligrosos
+
+02 VÍA DE PRIMER ORDEN CERRADA:
+                                                                                                                                      Afectación
+                                                                                                                                                    Fecha del
+  No.         Provincia          Cantón            Parroquia                        Sector/Vía                    Evento Peligroso        (mts                                  Vías alternas
+                                                                                                                                                     evento
+                                                                                                                                       lineales)
+                                                                                                                                                                * Guamote -García Moreno - Sibambe - Alausí.
+                                                                        Casual y Nuevo Alausí, vía Alausí -                                                       * Charicando - Cherlo - Guasuntos – Alausí.
+      1      Chimborazo           Alausí             Alausí                                                        DESLIZAMIENTO         2320      26/03/2023
+                                                                                 Guamote [E-35]                                                                 * Tixán - Pueblo Viejo – Alausí, para vehículos
+                                                                                                                                                                             hasta 3.5 toneladas.
+                              Baños de Agua                           El Placer, Quilloturo, vía Baños – Puyo                                                                      Ninguna
+      2      Tungurahua                            Río Verde                                                       DESLIZAMIENTO                   16/06/2024
+                                  Santa                                                 [E30]
+
+
+30 VÍAS DE PRIMER ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                                     Afectación
+                                                                                                                     Evento                        Fecha del
+No.         Provincia           Cantón           Parroquia                        Sector/Vía                                             (mts                                    Vías alternas
+                                                                                                                    Peligroso                       evento
+                                                                                                                                      lineales)
+                                                                   Chuzalongo, Maspa, Yahuana, Laurel, Vía
+ 1             Napo             Quijos             Cuyuja                                                         DESLIZAMIENTO         100        16/06/2024                       Ninguna
+                                                                            Baeza – Pifo [E20]
+                                                                     El Laurel, Vía Y de Baeza – Papallacta                                                                         Ninguna
+ 2             Napo             Quijos             Cuyuja                                                         SOCAVAMIENTO           --        21/06/2024
+                                                                                      [E20]
+ 3            Bolivar          Chillanes          Chillanes               Km 31, vía Chillanes-Bucay              DESLIZAMIENTO          15        27/05/2024                       Ninugna
+                                               Gonzalo Díaz de
+ 4             Napo            El Chaco                           Piedra Fina, vía El Chaco-Reventador [E45]      SOCAVAMIENTO           --        20/05/2024                       Ninguna
+                                                   Pineda
+          Santo Domingo                                           En la entrada a la parroquia la Villegas vía                                                      Vía Antigual La Villegas- Monterrey/ Ka
+ 5                           La Concordia       La Concordia                                                      SOCAVAMIENTO          30         19/02/2024
+          de los Tsáchilas                                        de primer orden la Concordia – Monterey                                                       Concordia- Plan Piloto- Las Villegas – Monterrey
+                                                                  Tacajaló ingreso a la Esperanza, vía Pujilí –
+ 6           Cotopaxi            Pujilí            Tingo                                                          DESLIZAMIENTO          --        31/01/2024                       Ninguna
+                                                                                La Maná [E-30]
+ 7           Los Ríos          Babahoyo           Pimocha                   Puente de Los Gemelos                 SOCAVAMIENTO           6         19/01/2024                       Ninguna
+                                                                   San Jerónimo-Guadual; vía Salinas – Lita
+ 8           Imbabura           Ibarra            Carolina                                                        DESLIZAMIENTO         125        22/12/2023                       Ninguna
+                                                                               km 114 [E10]
+                                              General Leonidas
+              Morona                                                Loma de la Virgen, vía Plan de Milagro-                                                      Cuenca-Guarumales-Méndez-Limón Indanza-
+ 9                           Limón Indanza     Plaza Gutiérrez                                                    DESLIZAMIENTO         26         12/12/2023
+             Santiago                                                             Gualaceo                                                                                   Plan de Milagro.
+                                                   (Limón)
+                             Baños de Agua
+ 10        Tungurahua                             Río Verde           San Jorge, vía Baños – Puyo [E30]           SOCAVAMIENTO          100        16/7/2023                        Ninguna
+                                 Santa
+ 11                          Baños de Agua
+           Tungurahua                               Ulba               Agoyán, vía Baños – Puyo [E-30]            SOCAVAMIENTO          30         27/6/2023                        Ninguna
+                                 Santa
+ 12                                                               Malimpia, E20 pasando el basurero a mano
+            Esmeraldas         Quinindé           Malimpia                                                        SOCAVAMIENTO          30         03/04/2023                       Ninguna
+                                                                                  derecha
+ 13           Morona                          Yunganza (Cab. En   Km 35, El Rosario, vía Bella Unión – Limón
+                             Limón Indanza                                                                        DESLIZAMIENTO         30         04/03/2023                       Ninguna
+             Santiago                            el rosario)                        [E45]
+ 14                                                                km 76, Vía Paute Guarumales Méndez [E-
+               Azuay         Sevilla de Oro        Palmas                                                         DESLIZAMIENTO         25         5/09/2022                        Ninguna
+                                                                                     40]
+ 15                                                                km 61, Vía Paute Guarumales Méndez [E-
+               Azuay         Sevilla de Oro        Palmas                                                         SOCAVAMIENTO          35         30/08/2022                       Ninguna
+                                                                                     40]
+ 16                                                               La Rinconada 5 Cerros, vía Puerto López –
+              Manabí         Puerto López         Salango                                                         HUNDIMIENTO            4         28/08/2022                       Ninguna
+                                                                             Santa Elena [E15].
+ 17           Manabí             Sucre         Leonidas Plaza        Km 19, San Agustín-Tosagua [E-383]            SUBSIDENCIA          150        14/08/2022                       Ninguna
+ 18           Morona
+                                Sucúa             Asunción                Sector paso Carreño [E45]               SOCAVAMIENTO           5         18/05/2022                       Ninguna
+             Santiago
+ 19                                                               km 38 + 600, vía Alóag – Unión del Toachi
+             Pichincha           Mejía        Manuel Cornejo A.                                                   HUNDIMIENTO            15        25/02/2022                       Ninguna
+                                                                                    [E20]
+ 20                                              Rosa Zarate        Km 68 Los Vergeles, vía Esmeraldas –
+            Esmeraldas         Quinindé                                                                           HUNDIMIENTO           40         8/02/2022                        Ninguna
+                                                  (Quinindé)                  Quinindé [E20]
+ 21                                                                                                                                                              1.- Ruta desde la E10 Guallupe – San Juan de
+                                                                                                                                                                Lachas (Carchi) – por la E 182 Gualchan – Chical
+             Imbabura           Ibarra            Carolina          San Jerónimo; vía Salinas – Lita [E 10]       DESLIZAMIENTO         225        22/12/2021       – Maldonado – Tulcán – Ibarra , 2.- Para
+                                                                                                                                                                 vehículos livianos, E10 desde San Jerónimo –
+                                                                                                                                                                    Buenos Aires – Cahuasqui – Tumbabiro.
+ 22                                                                  Vía El tambo – Ingapirca – Honorato
+               Cañar            Cañar             Ingapirca                                                       DESLIZAMIENTO         100        24/11/2021                       Ninguna
+                                                                          Vásquez km 8+100, km 15.
+                                                                                                                          Secretaría Nacional de Gestión de Riesgos
+                                                                                                                                         Dirección de Monitoreo de Eventos Adversos
+                                                            REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                                            Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 9 de 10
+                                                                                                                         Afectación
+                                                                                                         Evento                          Fecha del
+No.   Provincia      Cantón         Parroquia                        Sector/Vía                                              (mts                                     Vías alternas
+                                                                                                        Peligroso                         evento
+                                                                                                                          lineales)
+ 23                              Macas, cabecera
+        Morona                                      Vía Macas-Puyo [E45], tramo puente sobre
+                     Morona      cantonal y capital                                                   SOCAVAMIENTO           180         16/05/2021                     Ninguna
+       Santiago                                      el río Copueno-puente sobre el río Upano
+                                    provincial
+ 24                               Gonzalo Díaz De
+                                                        San Rafael, Piedra Fina, San Luis, San                                                           Lago Agrio – Coca – Y de Narupa – Tena –
+         Napo       El Chaco        Pineda (El                                                        SOCAVAMIENTO          1040         2/02/2020
+                                                       Carlos, Vía Y de Baeza-Lago Agrio [E45]                                                                        Ambato – Quito
+                                     Bombón)
+ 25     Morona
+                    Santiago          Patuca           Loma Seca vía Patuca – Santiago [E40]          SOCAVAMIENTO            15         15/01/2020                     Ninguna
+       Santiago
+ 26     Morona                     San José de        Shaime, vía Santiago-San José de Morona
+                     Tiwintza                                                                 COLAPSOESTRUCTURA              170         13/05/2020                     Ninguna
+       Santiago                      Morona                             [E40]
+ 27     Morona                       Santiago,     Km 75, Yapapas, vía Entronque a Santiago
+                     Tiwintza                                                                          DESLIZAMIENO          70          16/05/2020                     Ninguna
+       Santiago                  cabecera cantonal        de Méndez – Santiago [E40]
+ 28     Morona                       Santiago,     Palomino km 68, vía Santiago-San José de
+                     Tiwintza                                                                         SOCAVAMIENTO           70          16/05/2020                     Ninguna
+       Santiago                  cabecera cantonal              Morona [E40]
+ 29                              Macas, cabecera
+        Morona                                          Puente sobre el río Upano, vía Macas-
+                     Morona      cantonal y capital                                                   SOCAVAMIENTO           57          21/06/2020                     Ninguna
+       Santiago                                                     Puyo-[E45]
+                                    provincial
+ 30     Morona                       Santiago,         Yapapas, vía Entronque a Santiago de
+                     Tiwintza                                                                         SOCAVAMIENTO           50          21/08/2020                     Ninguna
+       Santiago                  cabecera cantonal          Méndez – Santiago [E40]
+
+ 07 VÍAS DE SEGUNDO ORDEN CERRADAS:
+                                                                                                                         Afectación         Fecha del
+No.   Provincia      Cantón           Parroquia                       Sector/Vía                    Evento Peligroso                                                   Vías alternas
+                                                                                                                        (mts lineales)       evento
+                                                        Capa Rosada, vía Baños- Puñapi-Patate
+  1   Tungurahua      Baños             Lligua                                                       SOCAVAMIENTO            500           16/06/2024                     Ninguna
+                                                          aproximadamente a 2 km de Baños
+ 2      Cañar        Biblian            Nazón                          San Roque                      INUNDACIÓN             100           16/06/2024                     Ninguna
+ 3    Santa Elena    Salinas          Anconcito                  Vía al Puerto Pesquero              SOCAVAMIENTO             --           14/03/2023                     Ninguna
+                                                          Calles Hermano Miguel y Panzaleo,
+ 4    Pichincha       Quito           Conocoto                                                       SOCAVAMIENTO            30            28/02/2022                     Ninguna
+                                                                    cruce de vías
+                                                             Rosas, Bellavista, Tamboloma,
+ 5      Azuay         Nabón             Nabón                                                        DESLIZAMIENTO           50            14/03/2021            Corraleja-Yasudel-Susudel
+                                                                      Chunazana
+                                 Pimampiro, Cabecera
+ 6     Imbabura     Pimampiro                                     San José de Aloburo                DESLIZAMIENTO           500            09/11/2021         Vía Narchimbuela - Pimampiro
+                                      Cantonal
+                                                         El Murco - Pasando la escuela Carlos
+ 7    Pichincha       Mejía            Tambillo                                                       INUNDACIÓN             ---           11/04/2022                     Ninguna
+                                                                     Freire Larrea
+
+
+ 03 VÍAS DE SEGUNDO ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                          Afectación
+                                                                                                                                          Fecha del
+ No   Provincia      Cantón           Parroquia                       Sector/Vía                     Evento Peligroso         (mts                                    Vías alternas
+                                                                                                                                           evento
+                                                                                                                           lineales)
+  1      Napo         Tena             Ahuano            Ahuano, vía Ahuano-Campana Cocha             SOCAVAMIENTO             --         02/07/2024                    Ninguna
+                                                         Unión Lojana, Vía Chonta Punta- Los
+ 2       Napo         Tena          Chontapunta                                                       SOCAVAMIENTO             --         29/05/2024                    Ninguna
+                                                         Zorros-Límite con Orellana [E436A]
+ 3    Chimborazo    Pallatanga        Pallatanga           Jiménez, vía Jiménez - Pallatanga          SOCAVAMIENTO             --         27/05/2023                    Ninguna
+
+ 08 VÍAS DE TERCER ORDEN CERRADAS:
+                                                                                                                         Afectación       Fecha del
+No.   Provincia      Cantón           Parroquia                       Sector/Vía                    Evento Peligroso                                                  Vías alternas
+                                                                                                                        (mts lineales)     evento
+  1   Pichincha     Cayambe         Juan Montalvo           Río Guachalá - vía a la Josefina          INUNDACIÓN             100         16/06/2024                     Ninguna
+ 2     Pastaza       Pastaza        Simón Bolívar              Los Tayos, Chumpi, Peas                INUNDACIÓN              10         16/06/2024                     Ninguna
+ 3    Chimborazo     Penipe            El Altar             Palitahua, vía Penipe-Palitahua          SOCAVAMIENTO             --         16/06/2024                     Ninguna
+ 4     Imbabura     Cotacachi        Peñaherrera         El Cristal, vía Peñaherrera - Villaflora    DESLIZAMIENTO           50          19/12/2023                     Ninguna
+ 5    Pichincha       Mejía            Tambillo         Ushco, vía Tambillo – Panamericana Sur        INUNDACIÓN             20          10/04/2022                     Ninguna
+                                                           Vía de ingreso a las Comunidades
+                                   Manuel Cornejo
+ 6    Pichincha       Mejía                              Peñas Blancas, El Paraíso, El Mirador y     DESLIZAMIENTO           140         08/02/2022                     Ninguna
+                                  Astorga (Tandapi)
+                                                                     San Francisco
+                                                          Playas de San Luis, vía Santa María
+        Morona
+ 7                   Morona             Sinaí             Tunants-Playas de San Luis-Quinta           INUNDACIÓN            3884         02/05/2021                     Ninguna
+       Santiago
+                                                                     Cooperativa
+ 8      Azuay        Cuenca              Nulti          Pasto Romero, vía al centro Parroquial       DESLIZAMIENTO           30          16/04/2021                     Ninguna
+                                                                                                                                     Secretaría Nacional de Gestión de Riesgos
+                                                                                                                                                    Dirección de Monitoreo de Eventos Adversos
+                                                                   REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS ADVERSOS – No. 0493
+                                                                                                                     Fecha y Hora de actualización: jueves, 05 de septiembre de 2024 – 13:29:15 / Página 10 de 10
+
+05 VÍAS DE TERCER ORDEN PARCIALMENTE HABILITADAS:
+                                                                                                                                    Afectación        Fecha del
+No.     Provincia        Cantón             Parroquia                         Sector/Vía                    Evento Peligroso                                                       Vías alternas
+                                                                                                                                   (mts lineales)      evento
+                                                                 Complejo Turístico Las Rocas, Punin                                                                                 Ninguna
+                                                                    Guayco, Misniag, Peltetec, Alao
+ 1     Chimborazo       Riobamba             Pungalá                                                             ALUVIÓN                 --           16/06/2024
+                                                                  Llactapamba, Alao San Antonio vía
+                                                                            Pungalá - Alao
+2                                                                 Yuibug Chico, antigua vía Penipe -
+       Chimborazo         Penipe              Bilbao                                                             ALUVIÓN                 --           16/06/2024                     Ninguna
+                                                                                Baños
+                                                                   vía Larcachaca- Oyacachi (Moras,                                                                                  Ninguna
+3       Pichincha        Cayambe            Cangahua              Hierba Buena), Yacuchupa- Sayaro;          DESLIZAMIENTO              600           16/06/2024
+                                                                  sectores Chitachaca y Guanguilquí
+4      Chimborazo         Penipe          La Candelaria                 Penipe - La Candelaria                   ALUVIÓN                 --           16/06/2024                     Ninguna
+5         Azuay           Pucará             Pucará             Km 2.5 de la vía Minas-Tablón-Pucará          SOCAVAMIENTO               60           27/05/2024                     Ninguna
+                                      Reporte generado por la Dirección de Monitoreo de Eventos Adversos de la Secretaría Nacional de Gestión de Riesgos.
+
+
+      Reporte elaborado por:                                                                            Reporte revisado por:
+      Nombre: Carlos Álvarez.- Digitador Nacional de Eventos Adversos                                   Nombre: Victor Sanchez - Analista de Monitoreo de Eventos Adversos
+      Correo electrónico: Carlos.alvarez@gestionderiesgos.gob.ec                                        Correo electrónico: victor.sanchez@gestionderiesgos.gob.ec
+      Teléfono: 042593500 ext. 1605                                                                     Teléfono: 042593500 ext. 1603
+                                      Para ser agregado o removido de esta lista de destinatarios, por favor envíe un correo electrónico a sala.nacional@gestionderiesgos.gob.ec
+                                   Para más información, visite nuestro sitio web: https://www.gestionderiesgos.gob.ec/reportes-de-monitoreo-de-amenazas-y-eventos-peligrosos/
+

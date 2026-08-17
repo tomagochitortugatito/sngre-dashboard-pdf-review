@@ -1,0 +1,1178 @@
+{
+  "metadata": {
+    "report_name": "REPORTE DE MONITOREO DE AMENAZAS Y EVENTOS PELIGROSOS – No. 0096",
+    "start": "2024/02/17 21:00:00",
+    "end": "2024/02/18 09:00:00",
+    "last_update": "2024/02/18 08:55:18"
+  },
+  "section_1": {
+    "section": "Threat Monitoring",
+    "tables": {
+      "volcanic_hazard": {
+        "columns": [
+          "location",
+          "declared_alert_level",
+          "current_situation",
+          "current_assessment"
+        ],
+        "rows": [
+          [
+            "Volcán Reventador, Napo",
+            "",
+            "07:00 Nublado, sin novedad.",
+            ""
+          ],
+          [
+            "Volcán Chiles-Cerro Negro, Carchi",
+            "AMARILLA",
+            "",
+            "VERDE"
+          ],
+          [
+            "Volcán Sangay, Morona Santiago",
+            "",
+            "07:00 Nublado, sin novedad.",
+            ""
+          ]
+        ]
+      },
+      "water_body_overflow": {
+        "overflowed_water_bodies": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": [
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Febres Cordero (Las Juntas) (Cab. en Mata de Cacao)",
+              "Piladora Don Eduardo",
+              "Chilintomo"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Rcto. Nueva Fortuna - Rcto. San Vicente - Rcto. las Caracol",
+              "Garzas",
+              "Catarama"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Pimocha",
+              "Recinto Guarumo",
+              "Puebloviejo"
+            ],
+            [
+              "Guayas",
+              "Daule",
+              "Laurel",
+              "Cabecera Cantonal",
+              "Pula"
+            ],
+            [
+              "Guayas",
+              "Pedro Carbo",
+              "Pedro Carbo, Cabecera Cantonal",
+              "Recinto Mis Ensueños",
+              "Río Dos Bocas"
+            ],
+            [
+              "Guayas",
+              "Pedro Carbo",
+              "Pedro Carbo, Cabecera cantonal",
+              "Recinto San Jacinto",
+              "Jerusalén"
+            ]
+          ]
+        },
+        "water_bodies_rising_level": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "name"
+          ],
+          "rows": [
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Babahoyo",
+              "Babahoyo",
+              "Babahoyo"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "La Unión",
+              "Hcda. La Clementina",
+              "La Clementina"
+            ],
+            [
+              "Los Ríos",
+              "Babahoyo",
+              "Clemente Baquerizo",
+              "El Palmar",
+              "San Pablo"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar Varios sectores, San Isidro, la Oz San Pableño , San",
+              "Recinto Chicompe",
+              "Chicompe"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar, Cabecera Cantonal",
+              "Isidro, Santa Genera",
+              "Río Pucón"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar",
+              "La Linda",
+              "Daule"
+            ],
+            [
+              "Guayas",
+              "Balzar",
+              "Balzar",
+              "Recinto La Laguna",
+              "Estero La Oz"
+            ],
+            [
+              "Guayas",
+              "Samborondón",
+              "Samborondón, Cabecera Cantonal",
+              "El Oro y Malecón",
+              "Babahoyo"
+            ],
+            [
+              "Los Ríos",
+              "Baba",
+              "Guare",
+              "La Estacada",
+              "Río El Arenal"
+            ]
+          ]
+        }
+      },
+      "forest_fires": {
+        "active_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": [
+            [
+              "--",
+              "--",
+              "--",
+              "--",
+              "--",
+              "--"
+            ]
+          ]
+        },
+        "controlled_forest_fires": {
+          "columns": [
+            "province",
+            "canton",
+            "parish",
+            "sector",
+            "affected_area_ha",
+            "start_date"
+          ],
+          "rows": [
+            [
+              "--",
+              "--",
+              "--",
+              "--",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      },
+      "dams_and_reservoirs": {
+        "columns": [
+          "resource",
+          "minimum_level",
+          "current_level",
+          "maximum_level",
+          "cutoff_time",
+          "assessment"
+        ],
+        "rows": [
+          [
+            "Molino, Azuay",
+            1970.0,
+            "---",
+            1990.5,
+            "---",
+            "---"
+          ],
+          [
+            "Mazar, Azuay",
+            2138.05,
+            "---",
+            2153.45,
+            "---",
+            "---"
+          ],
+          [
+            "Daule Peripa, Guayas",
+            70.0,
+            77.27,
+            85.0,
+            "08:46",
+            ""
+          ],
+          [
+            "Central Baba, Los Ríos",
+            114.0,
+            116.89,
+            117.0,
+            "08:21",
+            "VERDE"
+          ],
+          [
+            "Chongón, Guayas",
+            44.5,
+            "---",
+            55.15,
+            "---",
+            "[VERDE] ---"
+          ],
+          [
+            "El Azúcar, Santa Elena",
+            40.0,
+            "---",
+            45.09,
+            "---",
+            "---"
+          ],
+          [
+            "San Vicente, Santa Elena",
+            50.0,
+            "---",
+            57.49,
+            "---",
+            "---"
+          ],
+          [
+            "La Esperanza, Manabí",
+            53.4,
+            "---",
+            66.0,
+            "---",
+            "---"
+          ],
+          [
+            "Poza Honda, Manabí",
+            104.29,
+            "---",
+            106.5,
+            "---",
+            "---"
+          ],
+          [
+            "Multipropósito Chone, Manabí",
+            48.0,
+            "---",
+            68.5,
+            "---",
+            "---"
+          ],
+          [
+            "Agoyán, Tungurahua",
+            1645.0,
+            "---",
+            1651.0,
+            "---",
+            "---"
+          ],
+          [
+            "Pucará-Pisayambo, Tungurahua",
+            3541.0,
+            "---",
+            3565.0,
+            "---",
+            "---"
+          ]
+        ]
+      },
+      "hydrometeorological_situation": {
+        "warning_number": 11,
+        "hazard": {
+          "original": "LLUVIAS Y TORMENTAS ELÉCTRICAS -\nADVERTENCIA N° 11\ndesde 00H00 del 17 hasta las 22H00 del 21 de febrero de\n2024\nSITUACIÓN: En los próximos días se presentarán lluvias de alta\nintensidad, con mayor énfasis al interior de toda la región\nLitoral y estribación Occidental. En dichos sectores, los\neventos de mayor relevancia se enfocarán entre la tarde del\n19 y madrugada el 20 de febrero.\n• Región Litoral: Lluvias de moderada y muy alta intensidad\ncon tormentas y ráfagas de viento. Se prevé que las\nprecipitaciones se presenten hacia finales de la tarde y se\nextiendan durante la madrugada.\n• Región Interandina: Lluvias de variable intensidad al\nnorte y sur; eventos de alta intensidad en estribación de\ncordillera occidental.\n•    Región Amazónica: Lluvias de variables intensidad.\n•    Región Insular: Lluvias de moderada y puntual alta\nintensidad.",
+          "primary_family": "PRECIPITACION_TORMENTA",
+          "phenomena": [
+            "LLUVIA",
+            "TORMENTA",
+            "VIENTO_FUERTE"
+          ],
+          "associated_risks": []
+        },
+        "validity_start": "",
+        "validity_end": "",
+        "description": "En los próximos días se presentarán lluvias de alta\nintensidad, con mayor énfasis al interior de toda la región\nLitoral y estribación Occidental. En dichos sectores, los\neventos de mayor relevancia se enfocarán entre la tarde del\n19 y madrugada el 20 de febrero.",
+        "affected_areas": "• Región Litoral: Lluvias de moderada y muy alta intensidad\ncon tormentas y ráfagas de viento. Se prevé que las\nprecipitaciones se presenten hacia finales de la tarde y se\nextiendan durante la madrugada.\n• Región Interandina: Lluvias de variable intensidad al\nnorte y sur; eventos de alta intensidad en estribación de\ncordillera occidental.\n•    Región Amazónica: Lluvias de variables intensidad.\n•    Región Insular: Lluvias de moderada y puntual alta\nintensidad.",
+        "source": "",
+        "original_narrative": "ADVERTENCIA\nAMENAZA: LLUVIAS Y TORMENTAS ELÉCTRICAS -\nADVERTENCIA N° 11\ndesde 00H00 del 17 hasta las 22H00 del 21 de febrero de\n2024\nSITUACIÓN: En los próximos días se presentarán lluvias de alta\nintensidad, con mayor énfasis al interior de toda la región\nLitoral y estribación Occidental. En dichos sectores, los\neventos de mayor relevancia se enfocarán entre la tarde del\n19 y madrugada el 20 de febrero.\n• Región Litoral: Lluvias de moderada y muy alta intensidad\ncon tormentas y ráfagas de viento. Se prevé que las\nprecipitaciones se presenten hacia finales de la tarde y se\nextiendan durante la madrugada.\n• Región Interandina: Lluvias de variable intensidad al\nnorte y sur; eventos de alta intensidad en estribación de\ncordillera occidental.\n•    Región Amazónica: Lluvias de variables intensidad.\n•    Región Insular: Lluvias de moderada y puntual alta\nintensidad."
+      },
+      "seismic_hazard": {
+        "columns": [
+          "local_datetime",
+          "magnitude",
+          "depth",
+          "near",
+          "felt_by_population"
+        ],
+        "rows": [
+          [
+            "---",
+            "---",
+            "---",
+            "---",
+            "---"
+          ]
+        ]
+      },
+      "other_tables": []
+    }
+  },
+  "section_2": {
+    "section": "Adverse Event Monitoring",
+    "zones": {
+      "1": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2024/01/29",
+            "location": {
+              "original_narrative": "Esmeraldas/ Esmeraldas/ Vuelta Larga/ Gatazo, Vuelta Larga",
+              "province": "Esmeraldas",
+              "canton": "Esmeraldas",
+              "parish": "Vuelta Larga",
+              "sectors": [
+                "Gatazo, Vuelta Larga"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a lluvias registradas la noche del 29/01/2024, se suscitó una inundación en el sector.\nEn la entrega de asistencia humanitaria de la SGR-CZ1 se registraron a familias afectadas del sector Gatazo.\nSituación       Las familias afectadas se encuentran pernoctando en sus mismas viviendas.\nactual:         El río Teaone se encuentra normal.\nLos sectores Gatazo y Vuelta Larga ya no presentan anegamiento."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "-73 familias (315 personas afectadas dato preliminar)."
+            },
+            "response_actions": {
+              "original_narrative": "SGR-CZ1 con apoyo de Cuerpo de Bomberos Esmeraldas, Fuerzas Armadas, GAD Cantonal Esmeraldas, MIES y\nCruz Roja se realizó la entrega de Asistencia Humanitaria en el sector de Gatazo.\nLa SGR-CZ1 coordina acciones de MTT4 Cantonal con la finalidad de organizar las actividades del día\n02/02/2024."
+            },
+            "information_sources": {
+              "original_narrative": "Cuerpo de Bomberos Esmeraldas/ Umeva Esmeraldas."
+            }
+          }
+        ]
+      },
+      "2": {
+        "events": [
+          {
+            "event_type": "Socavamiento",
+            "event_start_date": "2020/02",
+            "location": {
+              "original_narrative": "Napo/El Chaco/Gonzalo Díaz De Pineda (El Bombón)/San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza-\nLago Agrio [E45].",
+              "province": "Napo",
+              "canton": "El Chaco",
+              "parish": "Gonzalo Díaz De Pineda (El Bombón)",
+              "sectors": [
+                "San Rafael, Piedra Fina 2, San Luis, San Carlos, vía Y de Baeza- Lago Agrio [E45]."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido al proceso erosivo desarrollado desde febrero del 2020, el río Quijos (Alto Coca) mantiene en riesgo a\nvarias viviendas y sectores estratégicos, tales como: la Red Estatal Vial [E45], Hidroeléctrica Coca Codo Sinclair,\ntuberías de SOTE, Poliducto Shushufindi – Quito y OCP.\nSe mantiene la declaratoria emitida mediante resolución SGR-058-2021 de cambiar el nivel de alerta Naranja a\nRoja.\nSituación       El frente de erosión se encuentra en la abscisa 7+500 por 180 días (21/01/2024). La vía El Chaco-Reventador se\nactual:         encuentra habilitada."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "- Desde el 2020 a la fecha las afectaciones son las siguientes:\n- 122 personas afectadas\n- 27692 personas afectadas indirectas\n- 76 personas damnificadas\n- 105 personas evacuadas\n- 7 viviendas destruidas\n- 1120 metros de vía afectadas\n- 4 puentes destruidos: (Puente sobre el río Montana, Marker, Ventana 2 y Puente Piedra Fina 2)\n- 4 bienes Afectados: (tuberías del SOTE, Poliducto Shushufindi- Quito y OCP, Sistema de Agua Potable de San\nLuis ,05/09/2023 bus interprovincial)\n- 100.03 Ha de Cultivo perdidos\n- 3448 animales de granja afectados y muertos\nEl 30/12/2023, MTOP junto a otras instituciones como GAD Municipal El Chaco, GAD Municipal de Gonzalo"
+            },
+            "response_actions": {
+              "original_narrative": "Pizarro, GAD Provincial de Sucumbíos y Petroecuador, habilitaron al 100% el puente bailey.\nLa Comisión Ejecutora Río Coca - CELEC EP, SGR CZ2 y CCGR San Luis realizan monitoreo constante."
+            },
+            "information_sources": {
+              "original_narrative": "SGR CZ2 Unidad de Monitoreo Napo-Orellana/CELEC EP/GAD Municipal El Chaco/MTOP/teniente Político\nGonzalo Díaz de Pineda"
+            }
+          }
+        ]
+      },
+      "3": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2022/12/09",
+            "location": {
+              "original_narrative": "Chimborazo/Alausí/Alausí, Cabecera Cantonal/Casual, vía Guamote – Alausí [E-35].",
+              "province": "Chimborazo",
+              "canton": "Alausí",
+              "parish": "Alausí, Cabecera Cantonal",
+              "sectors": [
+                "Casual, vía Guamote – Alausí [E-35]."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 09/12/2022, se produjo un hundimiento en la vía de primer orden, lo que inhabilitó el paso vehicular en ese\nmomento.\nEl día 26/03/2023, se produjo un deslizamiento donde cedió el cerro Casual destruyendo viviendas y causando\npérdidas de vidas en los barrios Nuevo Alausí y Casual.\nMediante RESOLUCIÓN Nro. SGR-111-2023, se determinó: CAMBIAR EL NIVEL DE ALERTA AMARILLA A NARANJA\npor movimientos en masa en el área de 214 hectáreas, que comprende el sector: Casual y los barrios: La\nEsperanza, Control Norte, Nueva Alausí, Pircapamba y Bua, del cantón Alausí y, RATIFICAR el estado de ALERTA\nAMARILLA en el área de 38,07 hectáreas, considerando la actualización del análisis y observaciones técnicas\nrealizadas en campo.\nEl COE Cantonal de Alausí sigue activo, y según las últimas resoluciones del 30/10/2023:\nMTOP analiza la creación de una variante mediante estudios conjuntos con la ESPOL o la creación de una variante\ndesde Aypud hasta la feria de ganado en la vía a Chunchi (E-35).\nSe planifica inspección de parte de OOPP del GAD Provincial para intervenir en los tramos que sean necesarios.\nMTOP mediante Oficio Nro. MTOP-DDCH-23-1819-OF comunica que no ha otorgado ninguna autorización para la\nimposición de peajes en las vías de acceso al Cantón Alausí, Además, es importante destacar que las comunidades\ncircundantes al mencionado cantón han establecido tales cargos sin el respaldo ni el consentimiento de esta\nentidad gubernamental.\nGADMC Alausí, la Comisaria Municipal y de Construcción mediante MEMORANDO Nro. ALAUSI-DACMC-2023-\n0161-M comunica que la comunidad Pueblo Viejo hace caso omiso a los informes emitidos para mantener cerrada\nel paso y desafía a la fuerza pública PPNN en la labor de mantener cerrada la calle, además recomienda a OOPP\ndel GADMC el inicio de acciones administrativas y judiciales en razón del presunto cometimiento de delitos.\nEl secretario de la SGR, cumple agenda en territorio y mantuvo una importante reunión con técnicos de la\nUniversidad Central del Ecuador de la Facultad de Geología, Patricia Núñez Asambleísta de Chimborazo, PUND,\nSituación       donde socializaron los estudios técnicos sobre el deslizamiento, para establecer líneas de acción entorno al post\nactual:         evento del 26. Además, se realizó la décima reunión del Comité Técnico Itinerante en Alausí, liderada por el IIGE.\nSe discuten los avances en cuanto a la recuperación de la zona y la hoja de ruta interinstitucional con próximos\npasos."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "- 65 personas fallecidas.\n- 44 personas heridas.\n- 225 personas afectadas\n- 800 personas damnificadas (evacuadas hacia los alojamientos temporales).\n- 10 personas desaparecidas.\n- 104 viviendas afectadas\n- 57 viviendas destruidas\n- 1 Unidad Educativa afectada estructuralmente (U.E. Federico González Suárez).\n- 2 Unidades Educativas afectadas funcionalmente (Unidad Educativa Ciudad De Alausí; Unidad Educativa San\nFrancisco De Sales).\n- 3 bienes públicos afectados (25% de red de alumbrado público afectado y 40 % de servicio de agua potable\nafectado, 20 % de servicio de alcantarillado afectado).\n- 2 bienes públicos destruidos (1 Estadio y 1 coliseo).\n- 1 bien privado afectado (Hostería Pircapamba).\n- 2 bienes privados destruidos (Asadero Don Fausto y Damada – cafetería).\n- 20 ha de cultivos afectados.\n- 6 ha de cultivos y pasto destruidos.\n- 230 Animales afectados.\n- 2320 metros de vía afectada (1120 metros de vía de Primer orden y 1200 en vía de segundo orden.\n- 427 metros de línea férrea destruida."
+            },
+            "response_actions": {
+              "original_narrative": "SGR, UCE, PUND y IIGE se reúnen para coordinar avances para la recuperación de la zona cero."
+            },
+            "information_sources": {
+              "original_narrative": "SGR CZ3 Unidad de Monitoreo Tungurahua/COE Cantonal Alausí /MTT-4/MTT-7."
+            }
+          }
+        ]
+      },
+      "5": {
+        "events": [
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2024/02/08",
+            "location": {
+              "original_narrative": "Guayas / Playas / General Villamil (Playas) / Varios Sectores, San Jacinto, Playas Dos, Ecuador -La Finquita-\nGuayaquil Los Delfines, La Quebradita; Tiwinza",
+              "province": "Guayas",
+              "canton": "Playas",
+              "parish": "General Villamil (Playas)",
+              "sectors": [
+                "Varios Sectores, San Jacinto, Playas Dos, Ecuador -La Finquita- Guayaquil Los Delfines, La Quebradita; Tiwinza"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Por lluvias suscitadas el 08/02/2024 y madrugada del 09/02/2023, UGR informa que se evidencia acumulación de\nagua en calles, avenidas y varias viviendas.\nGAD Cantonal realizó actualización de EVIN 14/02/2024, las familias permanecen en sus inmuebles. OOPP\nSituación\nMunicipal realizó trabajos de limpieza en las riberas del río. Al momento el río Arenas se encuentra con tendencia\nactual:\na disminuir su caudal."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "-66 viviendas afectadas.\n-66 familias, 235 personas afectadas."
+            },
+            "response_actions": {
+              "original_narrative": "Prefectura realizó la entrega de asistencia humanitaria en sectores afectados."
+            },
+            "information_sources": {
+              "original_narrative": "GAD Cantonal Playas / SGR-Unidad de Monitoreo Guayas"
+            }
+          },
+          {
+            "event_type": "Colapso estructural",
+            "event_start_date": "2024/02/05",
+            "location": {
+              "original_narrative": "Los Ríos/Valencia/Valencia/ Puente La Luci - Estero La Luci",
+              "province": "Los Ríos",
+              "canton": "Valencia",
+              "parish": "Valencia",
+              "sectors": [
+                "Puente La Luci - Estero La Luci"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a la presencia de lluvias en la madrugada del 05/02/2024, se reportó el colapso de un puente que va por\nuna vía de tercer orden, misma que conecta al sector los pantaloni hacia penizola.\nMediante visita al sitio, se realizó estudios topográficos en el puente destruido, el estero La Luci se mantiene en\nSituación\nsu caudal normal, no se han realizado nuevas acciones de búsqueda de la persona desaparecida, actualmente la\nactual:\nvía se encuentra cerrada y el tránsito peatonal, vehicular se moviliza por el puente San Pablo."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "- 1 puente destruido\n- 12 metros lineales afectados.\n- 1 persona desaparecida"
+            },
+            "response_actions": {
+              "original_narrative": "- Cuerpo de Bomberos de Valencia realizó verificación de novedades en la zona el 08/02/2024.\n- Personal técnico de Prefectura realizó estudios del puente el 14/02/2024 y 15/02/2024."
+            },
+            "information_sources": {
+              "original_narrative": "Cuerpo de Bomberos de Valencia/SGR-Unidad de Monitoreo Los Ríos"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2024/02/13",
+            "location": {
+              "original_narrative": "Guayas / Milagro / Roberto Astudillo / Sector Venecia Central.\nA causa de las lluvias registradas la noche del 11/02/2024 y madrugada del 12/02/2024 UGR informa que el Río",
+              "province": "Guayas",
+              "canton": "Milagro",
+              "parish": "Roberto Astudillo",
+              "sectors": [
+                "Sector Venecia Central. A causa de las lluvias registradas la noche del 11",
+                "02",
+                "2024 y madrugada del 12",
+                "02",
+                "2024 UGR informa que el Río"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Milagro se encuentra desbordado. 13/02/2024 se activó el COE Cantonal por la emergencia e informa que las\nfamilias afectadas se mantienen en sus inmuebles.\nUGR informa que se han retirado familias del Albergue Temporal en el Coliseo Ecuador Martínez, Policía Nacional\nSituación\ncontinúa brindando resguardo en el albergue a las familias afectadas. MSP brinda atención médica a los afectados\nactual:\nen el albergue."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "-200 viviendas afectadas\n-200 familias, 800 personas afectadas aproximadamente\n-16 familias, 45 personas (se encuentran en el Albergue Temporal)\nPPNN brinda resguardo a las familias afectadas en el albergue."
+            },
+            "response_actions": {
+              "original_narrative": "MSP realiza brigadas médicas para las familias afectadas.\nUMEVA Guayas realiza seguimiento a la novedad."
+            },
+            "information_sources": {
+              "original_narrative": "GAD Cantonal Milagro / SGR -Unidad de Monitoreo Guayas"
+            }
+          },
+          {
+            "event_type": "Inundación",
+            "event_start_date": "2024/01/29",
+            "location": {
+              "original_narrative": "Los Ríos/Urdaneta/Ricaurte/rcto. Roblecito – La Troncal - Rcto. Santo Tomas – La Hojita - Escuela de Educación\nBásica 6 de octubre - río Catarama - río Pijullo",
+              "province": "Los Ríos",
+              "canton": "Urdaneta",
+              "parish": "Ricaurte",
+              "sectors": [
+                "rcto. Roblecito – La Troncal - Rcto. Santo Tomas – La Hojita - Escuela de Educación Básica 6 de octubre - río Catarama - río Pijullo"
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Debido a la presencia de fuertes lluvias la madrugada del 29/01/2024, se reportó la rotura de un muro de\ncontención, provocando el desbordamiento de los río Pijullo con Catarama, dejando consigo afectaciones en el\nsitio.\nSe recepta matriz de MINEDUC, en donde verificó que debido al desbordamiento del río Catarama 1 unidad\neducativa se vio afectada por ingreso de agua, actualmente se visualiza leve presencia de agua, por los que las\nSituación\nclases se mantendrán de manera virtual, el caudal del río catarama de encuentra con tendencia a disminuir de\nactual:\nnivel, mientras el río Pijullo se encuentra con tendencia a aumentar, las familias evacuadas continúan en casa\nacogiente, mientras el restante de familias afectadas se mantienen en sus viviendas con presencia de agua."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "- 66 viviendas afectadas\n- 66 familias afectadas (15 familias evacuadas)\n- 239 personas afectadas (49 personas evacuadas)\n- 1 bien público destruido (rotura de muro)\n- 138 ha. de cultivos afectados (cacao, plátano, banano, maíz duro)\n- 32 productores con cultivos afectados\n- 1 Unidad educativa afectada.\nMAG brindó asesoramiento técnico, los agricultores afectados se encuentran registrados en la plataforma para"
+            },
+            "response_actions": {
+              "original_narrative": "ser beneficiados con paquetes tecnológicos (kit de semillas con fertilizante para el ciclo de verano), mismos que\nserán entregados al culminar la época lluviosa y a su vez facilitó matriz MAAPEA."
+            },
+            "information_sources": {
+              "original_narrative": "Jefatura Política de Urdaneta – Ministerio de Gobierno/UGR Urdaneta/SGR-Unidad de Monitoreo Los Ríos."
+            }
+          }
+        ]
+      },
+      "6": {
+        "events": [
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2024/02/12",
+            "location": {
+              "original_narrative": "Azuay/Camilo Ponce Enríquez/Camilo Ponce Enríquez/Polvorín\nPor causa de las lluvias de la madrugada del 12/02/2024 se reporta un deslizamiento que afecta totalmente la vía\nde tercer orden que conduce al sector de Bellarica, adicional informan 1 vehículo sepultado por el material pétreo\ny 1 persona fallecida producto del deslizamiento.",
+              "province": "Azuay",
+              "canton": "Camilo Ponce Enríquez",
+              "parish": "Camilo Ponce Enríquez",
+              "sectors": [
+                "Polvorín Por causa de las lluvias de la madrugada del 12",
+                "02",
+                "2024 se reporta un deslizamiento que afecta totalmente la vía de tercer orden que conduce al sector de Bellarica, adicional informan 1 vehículo sepultado por el material pétreo y 1 persona fallecida producto del deslizamiento."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "Con fecha 12/02/2024 se activo el COE Cantonal.\nCon fecha 15/02/2024 técnico de la SGR CZ6 informa que se realizó un recorrido interinstitucional de las zonas\nSituación       afectadas con la finalidad de brindar asesoramiento en las acciones a realizarse por el evento y recorridos por las\nactual:         escolleras del río Guanache. Adicional Técnico de la UGR de Camilo Ponce Enríquez informa la recuperación del\nvehículo que se encontraba sepultado por el material del deslizamiento"
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "-100 metros de vía aproximadamente (Vía de tercer orden parcialmente habilitada)\n-1 bien privado destruido. (Vehículo)\n-3 personas fallecidas\n-4 bienes privados destruidos (bodegas)"
+            },
+            "response_actions": {
+              "original_narrative": "Técnico de la SGR CZ6 realizó un recorrido interinstitucional de forma conjunta con FFAA, Jefatura Política, MAATE,\nPPNN, Ministerio de Minas, GAD Cantonal y ARCERNNR para determinar acciones"
+            },
+            "information_sources": {
+              "original_narrative": "C.B. Camilo Ponce Enríquez/SGR Unidad de Monitoreo Azuay-Cañar"
+            }
+          },
+          {
+            "event_type": "Deslizamiento",
+            "event_start_date": "2022/06/03",
+            "location": {
+              "original_narrative": "Azuay/Santa Isabel/Santa Isabel/La Cría.",
+              "province": "Azuay",
+              "canton": "Santa Isabel",
+              "parish": "Santa Isabel",
+              "sectors": [
+                "La Cría."
+              ],
+              "other_locations": []
+            },
+            "background": {
+              "original_narrative": "El 03/06/2022, se suscitó un deslizamiento producto de la saturación del suelo originado por la combinación del\ndeficiente sistema de riego en el sector, del taponamiento de diferentes quebradas y la deficiencia en el drenaje\ndel terreno.\nEl 06/04/2023, la SGR emitó el cambio a ALERTA NARANJA\nEl 20/06/2023 MIES entregó Bonos de Contingencia a 22 familias afectadas de la comunidad La Cría.\nCon fecha 23 de Enero del 2024 UGR Santa Isabel informa que para dar cumplimiento a las resoluciones establecidas\nel 10/01-2024 por el COE Cantonal Santa Isabel, se han realizado las siguientes acciones:\n1. Se mantienen activadas las siete (7) mesas técnicas de trabajo y los tres (3) grupos de trabajo del COE Cantonal\nde Santa Isabel.\n2. Se elaboró y entregó informe de recomendación de cambio de uso del suelo al Concejo Cantonal de Santa Isabel.\n3. Se entregó de informe de justificativos técnicos para la declaración de zona inhabitable, a la Dirección de\nPlanificación y Departamento Jurídico del GAD Santa Isabel.\n4. SGR motivó la activación del COE provincial con la finalidad de dar a conocer a la plenaria sobre la situación actual\ndel macro deslizamiento en el sector La Cría y dar atención desde cada una de sus competencias como MTT-P y\nGTT.\n5. Se realizó la reunión y socialización de la propuesta de habilitación de la vía Sulupali Grande – Sauce Loma – El\nSituación\nProgreso con el Departamento de Vialidad del GAD Provincial.\nactual:\n6. Se entregaron los estudios y diseños a la Gobernación del Azuay y CELEC para la evaluación del problema y\ndeterminación de soluciones.\n7. Se actualizan los datos de afectados y damnificados, así como las personas en el AT y otras modalidades de AT.\n8. Se adecuan los espacios en el Alojamiento Temporal por parte del Municipio de Santa Isabel.\n9. Se programó la capacitación al personal municipal por parte de la SGR.\n10. Se enviaron oficios al GAD Provincial para la inclusión de los estudios de los sistemas de riesgo en la planificación\noperativa anual.\n11. Se realizó la solicitud de gestión interinstitucional para la realización de estudios de zonificación geotectónica\nen los sectores de proyección urbana.\n12. Se elabora el plan de respuesta para la atención a las familias que permanecen dentro de la zona de influencia\ndel macro deslizamiento de La Cría."
+            },
+            "current_situation": {
+              "original_narrative": ""
+            },
+            "impacts": {
+              "original_narrative": "- 82 familias afectadas (308 personas)\n- 8 familias damnificadas (25 personas que permanecen en casa de familias acogientes)\n- 130 personas evacuadas (albergue temporal) (Con fecha 15/08/2023 se encuentran en el albergue 38 familias\n104 personas)\n- 38 familias evacuadas.\n- 44 viviendas afectadas\n- 8 viviendas destruidas\n- 3 bienes privados afectados (capilla, casa comunal, cancha central)\n- 2 bienes públicos afectados"
+            },
+            "response_actions": {
+              "original_narrative": "UGR Santa Isabel en conjunto con SGR CZ6 realizan acciones de atención a la emergencia"
+            },
+            "information_sources": {
+              "original_narrative": "SGR CZ6 Unidad de Monitoreo Azuay-Cañar."
+            }
+          }
+        ]
+      }
+    }
+  },
+  "section_3": {
+    "section": "Road Status Monitoring Due to Adverse Events",
+    "tables": {
+      "first_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Chimborazo",
+            "Alausí",
+            "Alausí",
+            "Casual y Nuevo Alausí, vía Alausí - Guamote [E-35]",
+            "DESLIZAMIENTO",
+            2320,
+            "2023/03/26",
+            "vía alterna del tercer orden Riobamba Guasuntos Alausí - sub tramo Vishud Guasuntos."
+          ]
+        ]
+      },
+      "first_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": []
+      },
+      "second_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Manabí",
+            "Pichincha",
+            "Pichincha",
+            "Agua Blanca, Vía Las Damas – Puerto Conguillo",
+            "DESLIZAMIENTO",
+            15,
+            "2024/02/18",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Otavalo",
+            "San José de Quichinche",
+            "El Puente",
+            "INUNDACIÓN",
+            60,
+            "2023/12/19",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Cube",
+            "Recinto Cube",
+            "DESLIZAMIENTO",
+            20,
+            "2023/05/25",
+            "Ninguna"
+          ],
+          [
+            "Santa Elena",
+            "Salinas",
+            "Anconcito",
+            "Vía al Puerto Pesquero",
+            "SOCAVAMIENTO",
+            "--",
+            "2023/03/14",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "Conocoto",
+            "Calles Hermano Miguel y Panzaleo, cruce de vías",
+            "SOCAVAMIENTO",
+            30,
+            "2022/02/28",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Nabón",
+            "Nabón",
+            "Rosas, Bellavista, Tamboloma, Chunazana",
+            "DESLIZAMIENTO",
+            50,
+            "2021/03/14",
+            "Corraleja-Yasudel-Susudel"
+          ],
+          [
+            "Imbabura",
+            "Pimampiro",
+            "Pimampiro, Cabecera Cantonal",
+            "San José de Aloburo",
+            "DESLIZAMIENTO",
+            500,
+            "2021/11/09",
+            "Vía Narchimbuela - Pimampiro"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Cantonal Tambillo",
+            "El Murco - Pasando la escuela Carlos Freire Larrea",
+            "INUNDACIÓN",
+            "---",
+            "2022/04/11",
+            "Ninguna"
+          ]
+        ]
+      },
+      "second_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Imbabura",
+            "Ibarra",
+            "San Antonio",
+            "La Compañía de Jesús, calle Imbabura y Machala; Tanguarín; Santa Marianita;",
+            "INUNDACION",
+            1000,
+            "2024/02/05",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Esmeraldas",
+            "05 de Agosto",
+            "San Antonio, calle 27 de Noviembre. sector Aire Libre",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/01/30",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Esmeraldas",
+            "Vuelta Larga",
+            "Primavera",
+            "SOCAVAMIENTO",
+            5,
+            "2024/01/29",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Rosa Zàrate",
+            "Quinindé",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "Manabí",
+            "Sucre",
+            "San Isidro",
+            "San Isidro, vía San Isidro – Eloy",
+            "HUNDIMIENTO",
+            100,
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "El Oro",
+            "Piñas",
+            "Capiro",
+            "Conchicola, vía Piñas - Capiro",
+            "HUNDIMIENTO",
+            30,
+            "2024/01/04",
+            "Ninguna"
+          ],
+          [
+            "El Oro",
+            "Piñas",
+            "Moromoro",
+            "El Placer, via El Placer, Vía Buenaventura Saracay [E-585]",
+            "DESLIZAMIENTO",
+            3,
+            "2023/10/17",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Pallatanga",
+            "Pallatanga",
+            "Jiménez, vía Jiménez - Pallatanga",
+            "SOCAVAMIENTO",
+            "--",
+            "2023/05/27",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Quito",
+            "San Antonio",
+            "Monjas y Chaguar",
+            "COLAPSO ESTRUCTURAL",
+            15,
+            "2022/05/07",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_closed": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Manabí",
+            "Pedernales",
+            "10 de Agosto",
+            "Varios Sectores ( Santa Rosa, San José Arriba)",
+            "ININDACION",
+            "---",
+            "",
+            "05/02/202 Ninguna 4"
+          ],
+          [
+            "Esmeraldas",
+            "Muisne",
+            "Galera",
+            "a la altura de Playa Escondida.",
+            "SOCAVAMIENTO",
+            "--",
+            "2024/01/30",
+            "Ninguna"
+          ],
+          [
+            "Bolivar",
+            "Echeandia",
+            "Echeandia",
+            "varios sectores, El Congreso, vía al Guabito y San José de",
+            "SOCAVAMIENTO",
+            47,
+            "2024/01/29",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "La Unión",
+            "Camarón, Recinto Cupita",
+            "HUNDIMIENTO",
+            "--",
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "Cotopaxi",
+            "Pangua",
+            "Ramón Campaña",
+            "Relleno sanitario San Ramón, vía Ramón Campaña – El Corazón",
+            "DESLIZAMIENTO",
+            80,
+            "2023/12/28",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Cotacachi",
+            "",
+            "Apuela Centro Poblado, Apuela Cristopamba, Santa Rosa, La",
+            "DESLIZAMIENTO",
+            120,
+            "2023/12/19",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Cotacachi",
+            "Peñaherrera",
+            "Playa, Pueblo Viejo, La Esperanza Villaflora, vía Peñaherrera – Cuellaje (vía INTAG)",
+            "DESLIZAMIENTO",
+            80,
+            "2023/12/19",
+            "19/12/202 80 Ninguna 3"
+          ],
+          [
+            "Imbabura",
+            "Cotacachi",
+            "Peñaherrera",
+            "El Cristal, vía Peñaherrera -",
+            "DESLIZAMIENTO",
+            50,
+            "2023/12/19",
+            "19/12/202 50 Ninguna 3"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Tambillo",
+            "Ushco, vía Tambillo – Panamericana Sur",
+            "INUNDACIÓN",
+            20,
+            "2022/04/10",
+            "Ninguna"
+          ],
+          [
+            "Pichincha",
+            "Mejía",
+            "Manuel Cornejo Astorga (Tandapi)",
+            "Vía de ingreso a las Comunidades Peñas Blancas, El Paraíso, El Mirador y San",
+            "DESLIZAMIENTO",
+            140,
+            "2022/02/08",
+            "Ninguna"
+          ],
+          [
+            "Morona Santiago",
+            "Morona",
+            "Sinaí",
+            "Playas de San Luis, vía Santa Sinaí María Tunants-Playas de San",
+            "INUNDACIÓN",
+            3884,
+            "2021/05/02",
+            "Ninguna"
+          ],
+          [
+            "Azuay",
+            "Cuenca",
+            "Nulti",
+            "Luis-Quinta Cooperativa Pasto Romero, vía al centro Nulti",
+            "DESLIZAMIENTO",
+            30,
+            "2021/04/16",
+            "Ninguna"
+          ],
+          [
+            "Chimborazo",
+            "Chunchi",
+            "Chunchi, cabecera cantonal",
+            "",
+            "DESLIZAMIENTO",
+            "955,9",
+            "2021/01/20",
+            "Ninguna"
+          ]
+        ]
+      },
+      "third_order_partially_enabled": {
+        "columns": [
+          "province",
+          "canton",
+          "parish",
+          "road_sector",
+          "adverse_event",
+          "affected_linear_meters",
+          "event_date",
+          "alternative_routes"
+        ],
+        "rows": [
+          [
+            "Pastaza",
+            "Santa Clara",
+            "Santa Clara",
+            "Vía Puyo – Tena [E45] ingreso a la comunidad San Francisco de Punin.",
+            "DESLIZAMIENTO",
+            "---",
+            "2024/02/17",
+            "Ninguna"
+          ],
+          [
+            "Bolívar",
+            "Guaranda",
+            "Facundo Vela",
+            "El Torneado, vía Facundo Vela - Simiatug.",
+            "DESLIZAMIENTO",
+            15,
+            "2024/01/29",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Viche",
+            "Recinto El Albe y La Chorrera, antes de llegar al puente de Viche, mano derecha.",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "La Unión",
+            "Viche, mano derecha. Recinto La Pimienta, vía Playa del Muerto",
+            "HUNDIMIENTO",
+            "--",
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "La Unión",
+            "Recinto San Ramón",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Malimpia",
+            "Vía Cristóbal Colón - Valle Esmeraldeño",
+            "DESLIZAMIENTO",
+            "--",
+            "2024/01/22",
+            "Ninguna"
+          ],
+          [
+            "El Oro",
+            "Marcabelí",
+            "Marcabelí",
+            "Villa Seca, Vía Marcabelí - Las Lajas",
+            "DESLIZAMIENTO",
+            10,
+            "2024/01/11",
+            "Ninguna"
+          ],
+          [
+            "Carchi",
+            "Mira",
+            "Jijón y Caamaño",
+            "San Jacinto, Santa Marianita de Caliche; Chinambí; San Patricio",
+            "DESLIZAMIENTO",
+            50,
+            "2024/01/04",
+            "Ninguna"
+          ],
+          [
+            "Tungurahua",
+            "Ambato",
+            "Totoras",
+            "Barrio el Recreo, A 3 cuadras del parque central, vía Totoras – El",
+            "DESLIZAMIENTO",
+            "--",
+            "2023/12/29",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Esmeraldas",
+            "San Mateo",
+            "Recreo. Recinto Danila",
+            "DESLIZAMIENTO",
+            "-",
+            "2023/12/28",
+            "Ninguna"
+          ],
+          [
+            "Esmeraldas",
+            "Quinindé",
+            "Chura",
+            "comunidad Chancama adentro sector Valle Hermoso",
+            "SOCAVAMIENTO",
+            15,
+            "2023/12/06",
+            "Ninguna"
+          ],
+          [
+            "Imbabura",
+            "Otavalo",
+            "Selva Alegre",
+            "Comunidad de Pamplona",
+            "DESLIZAMIENTO",
+            "-",
+            "2023/11/22",
+            "Ninguna"
+          ],
+          [
+            "Pastaza",
+            "Arajuno",
+            "Arajuno",
+            "Boano, vía Shiwakucha – Puni Bocana",
+            "SOCAVAMIENTO",
+            70,
+            "2022/07/28",
+            "Ninguna"
+          ]
+        ]
+      }
+    }
+  }
+}

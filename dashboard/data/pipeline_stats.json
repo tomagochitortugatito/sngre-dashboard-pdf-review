@@ -1,0 +1,14 @@
+{
+  "vias_raw": 218420,
+  "vias_unicas": 4015,
+  "volcanes_raw": 13840,
+  "volcanes_lecturas": 7291,
+  "incendios_sec1_raw": 3338,
+  "incendios_sec1_unicas": 905,
+  "agua_raw": 16965,
+  "agua_unicas": 2728,
+  "sismos_raw": 400,
+  "sismos_unicos": 358,
+  "hidromet_raw": 1767,
+  "hidromet_unicas": 277
+}
