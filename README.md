@@ -199,6 +199,6 @@ Proyecto realizado por:
 - **Valeria Gutiérrez** — vaniguti@espol.edu.ec
 - **Adrián Salamea** — asalamea@espol.edu.ec
 - **Tomás Bolaños** — tbolanos@espol.edu.ec
-- **Steven Barzola** — stabarz@espol.edu.ec
+- **Steven Barzola** — starbarz@espol.edu.ec
 
 Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.
