@@ -1,206 +1,428 @@
-# docker_app — Monitoreo SNGR (Ecuador)
+# Monitoreo de Eventos Adversos del SNGRE — Ecuador
 
-Este repositorio reprocesa los reportes de eventos adversos del **Servicio
-Nacional de Gestión de Riesgos y Emergencias (SNGRE)** de Ecuador (2022–2026)
-en tres aplicaciones Streamlit dockerizadas: un dashboard de exploración de
-eventos adversos (`dashboard/`), un visor comparativo entre los PDFs
-originales y los JSON extraídos de ellos (`pdf_review/`), y un modelo
-predictivo de tipo de evento por mes/provincia/zona (`prediccion/`). Se suma
-`trazabilidad/`, que documenta el pipeline con el que se generaron esos JSON
-a partir de los PDFs (Web → PDF → TXT → JSON).
+Este repositorio contiene un conjunto de herramientas para el procesamiento, exploración, validación y análisis predictivo de los reportes de eventos adversos publicados por el **Servicio Nacional de Gestión de Riesgos y Emergencias (SNGRE) del Ecuador** para el período **2022–2026**.
 
-Las tres apps funcionan con rutas relativas al propio contenedor, así que la
-carpeta completa se puede copiar, mover o compartir (USB, red, otro equipo)
-sin editar nada, siempre que el destino tenga Docker instalado. La única
-excepción es `trazabilidad/README.md`, que cita a propósito rutas absolutas
-de la máquina de origen como referencia documental del pipeline; no afectan
-en nada a `docker compose up`.
+La solución está compuesta por tres aplicaciones desarrolladas con **Streamlit** y desplegadas mediante **Docker**:
 
-> **⚠️ Este repo NO incluye los PDFs originales** (pesan ~6,3 GB, no caben
-> en GitHub). Se descargan aparte desde Google Drive — ver la sección
-> **[PDFs (descarga aparte)](#pdfs-descarga-aparte)** más abajo antes de
-> levantar `pdf_review`.
+- **`dashboard/`** — Dashboard interactivo para la exploración y visualización de eventos adversos.
+- **`pdf_review/`** — Visor comparativo entre los documentos PDF originales y los archivos JSON obtenidos a partir de ellos.
+- **`prediccion/`** — Aplicación de análisis predictivo para estimar el tipo de evento en función del mes, la provincia y la zona.
 
-## Contenido
+Adicionalmente, el directorio **`trazabilidad/`** documenta el flujo de procesamiento mediante el cual se generaron los archivos JSON utilizados por las aplicaciones:
 
-```
-docker_app/
-├── docker-compose.yml          ← levanta las tres apps de una vez
-├── dashboard/                  ← "Dashboard de Eventos Adversos" (Streamlit + Plotly)
+**Web → PDF → TXT → JSON**
+
+Los servicios utilizan rutas relativas al repositorio y a sus respectivos contenedores, por lo que el proyecto puede copiarse o trasladarse a otro equipo sin modificar la configuración, siempre que el sistema de destino disponga de Docker.
+
+La única excepción corresponde a `trazabilidad/README.md`, donde se conservan determinadas rutas absolutas de la máquina utilizada durante el procesamiento original con fines exclusivamente documentales. Estas rutas no intervienen en la ejecución de los servicios mediante Docker Compose.
+
+> [!IMPORTANT]
+> Los documentos PDF originales **no se incluyen en este repositorio** debido a su tamaño aproximado de **6,3 GB**.  
+> Deben descargarse por separado desde Google Drive antes de utilizar el visor `pdf_review`. Consulte la sección [Descarga de los PDF originales](#descarga-de-los-pdf-originales).
+
+---
+
+## Estructura del repositorio
+
+```text
+sngre-dashboard-pdf-review/
+├── docker-compose.yml
+│
+├── dashboard/
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   ├── app.py
-│   ├── build_dataset.py        ← script que regenera los datos desde los JSON fuente
-│   └── data/                   ← .parquet/.csv ya generados (listos para usar)
-├── prediccion/                 ← "Modelo Predictivo — Eventos Adversos" (Streamlit + scikit-learn)
+│   ├── build_dataset.py
+│   └── data/
+│       └── archivos .parquet y .csv preprocesados
+│
+├── prediccion/
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   ├── app.py
-│   ├── build_dataset.py        ← pipeline de features (dedup difusa + extracción de impactos)
-│   ├── model.py                ← entrenamiento de los modelos
-│   ├── README.md                ← detalle de esta app
-│   └── data/                   ← eventos_features.parquet ya generado
-├── pdf_review/                 ← "Visor comparativo PDF ↔ JSON"
+│   ├── build_dataset.py
+│   ├── model.py
+│   ├── README.md
+│   └── data/
+│       └── eventos_features.parquet
+│
+├── pdf_review/
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   ├── app.py
 │   └── data/
-│       ├── json/                ← 2865 reportes JSON fuente (SNGR, 2022–2026)
-│       └── pdfs/                ← VACÍO en este repo — descargar de Drive, ver abajo
+│       ├── json/
+│       │   └── 2865 reportes JSON (2022–2026)
+│       └── pdfs/
 │           ├── reportes_2022_pdf/
 │           ├── reportes_2023_pdf/
 │           ├── reportes_2024_pdf/
 │           ├── reportes_2025_pdf/
 │           └── reportes_2026_pdf/
-└── trazabilidad/                ← documentación: de dónde salen esos JSON (Web→PDF→TXT→JSON)
-    ├── README.md                              ← detalle del pipeline y rutas del código usado
-    ├── PROMPT.txt                             ← prompt usado en ChatGPT para generar los JSON
-    ├── codigo/                                ← muestra de código (scraping, PDF→TXT valorado)
-    ├── txt/                                   ← TXT fuente 2023–2026, por año
-    └── markdown/                               ← Markdown valorado 2022 y 2023, por año
+│
+└── trazabilidad/
+    ├── README.md
+    ├── PROMPT.txt
+    ├── codigo/
+    ├── txt/
+    └── markdown/
 ```
 
-## PDFs (descarga aparte)
+### Componentes principales
 
-Los 2865 PDFs originales (2022–2026, ~6,3 GB) **no están en este repo**, solo
-sus JSON extraídos (`pdf_review/data/json/`) y las carpetas vacías donde
-deben ir. Están subidos a Google Drive:
+#### Dashboard de Eventos Adversos
 
-🔗 **https://drive.google.com/drive/folders/11IKLl6i6clk2uvVzKr3WMJwiSbQyzdUV?usp=sharing**
+El directorio `dashboard/` contiene la aplicación principal de exploración de datos, desarrollada con **Streamlit** y **Plotly**.
 
-**Configuración necesaria para habilitar `pdf_review`:**
+Los conjuntos de datos procesados se encuentran en `dashboard/data/` y se incluyen preparados para su utilización, por lo que no es necesario ejecutar nuevamente el proceso de construcción del conjunto de datos para iniciar la aplicación.
 
-1. Descarga las 5 carpetas del Drive (`reportes_2022_pdf` … `reportes_2026_pdf`).
-2. Colócalas dentro de `pdf_review/data/pdfs/`, respetando el nombre exacto
-   de cada carpeta, de modo que quede así:
+#### Visor comparativo PDF ↔ JSON
 
+El directorio `pdf_review/` contiene una aplicación destinada a verificar visualmente la correspondencia entre los reportes PDF originales y los archivos JSON estructurados derivados de ellos.
+
+Los archivos JSON se incluyen en el repositorio. Los PDF, debido a su tamaño, deben descargarse por separado.
+
+#### Modelo predictivo
+
+El directorio `prediccion/` contiene la aplicación de análisis predictivo y su correspondiente proceso de preparación de características.
+
+El modelo utiliza información derivada de los eventos adversos procesados por el dashboard y permite estimar el tipo de evento según variables temporales y geográficas.
+
+Para información detallada sobre el procesamiento y entrenamiento de los modelos, consulte [`prediccion/README.md`](prediccion/README.md).
+
+#### Trazabilidad de los datos
+
+El directorio `trazabilidad/` documenta el procedimiento utilizado para transformar los reportes originales en los archivos estructurados utilizados por las aplicaciones.
+
+Incluye:
+
+- código empleado durante distintas etapas del procesamiento;
+- archivos TXT y Markdown intermedios;
+- el prompt utilizado para estructurar información mediante ChatGPT;
+- documentación sobre el origen y transformación de los datos.
+
+---
+
+## Descarga de los PDF originales
+
+Los **2865 documentos PDF correspondientes al período 2022–2026**, con un tamaño total aproximado de **6,3 GB**, no forman parte de este repositorio.
+
+Los archivos pueden descargarse desde Google Drive:
+
+**[Descargar PDF originales desde Google Drive](https://drive.google.com/drive/folders/11IKLl6i6clk2uvVzKr3WMJwiSbQyzdUV?usp=sharing)**
+
+### Configuración de `pdf_review`
+
+Para habilitar la comparación entre PDF y JSON:
+
+1. Descargue las cinco carpetas disponibles en Google Drive:
+
+   ```text
+   reportes_2022_pdf
+   reportes_2023_pdf
+   reportes_2024_pdf
+   reportes_2025_pdf
+   reportes_2026_pdf
    ```
+
+2. Copie las carpetas dentro de:
+
+   ```text
    pdf_review/data/pdfs/
-   ├── reportes_2022_pdf/   ← los .pdf de 2022 van aquí
+   ```
+
+   La estructura resultante debe ser:
+
+   ```text
+   pdf_review/data/pdfs/
+   ├── reportes_2022_pdf/
    ├── reportes_2023_pdf/
    ├── reportes_2024_pdf/
    ├── reportes_2025_pdf/
    └── reportes_2026_pdf/
    ```
 
-3. El nombre de cada PDF debe coincidir con el JSON correspondiente en
-   `pdf_review/data/json/` (mismo `reporte_<año>_<n>`, solo cambia la
-   extensión: `.json` ↔ `.pdf`) — así la app "Visor comparativo PDF ↔ JSON"
-   puede emparejarlos automáticamente.
-4. Levanta la app normalmente (ver [Cómo levantarlo](#cómo-levantarlo)); el
-   contenedor `pdf-review` monta `./pdf_review` completo, así que apenas
-   copies los PDFs ahí quedan disponibles sin rebuild.
+3. Verifique que el nombre de cada archivo PDF coincida con el archivo JSON correspondiente ubicado en `pdf_review/data/json/`.
+
+   Ambos archivos deben compartir el mismo identificador y diferenciarse únicamente por la extensión:
+
+   ```text
+   reporte_<año>_<n>.json
+   reporte_<año>_<n>.pdf
+   ```
+
+   Esta correspondencia permite que el visor empareje automáticamente cada documento PDF con su representación JSON.
+
+4. Inicie los servicios normalmente mediante Docker Compose. No es necesario reconstruir las imágenes después de copiar los PDF, ya que el directorio `pdf_review/` se monta como volumen dentro del contenedor.
+
+---
 
 ## Requisitos
 
-- Docker Engine + el plugin `docker compose` (Docker Desktop en Windows/Mac
-  ya lo trae; en Linux: `sudo apt install docker-compose-plugin` o similar).
-- ~500 MB libres de disco para este repo + ~6,3 GB adicionales si descargas
-  todos los PDFs del Drive (ver sección anterior).
-- Puertos **8502**, **8503** y **8504** libres en el equipo donde se ejecute.
+Para ejecutar el proyecto se requiere:
 
-## Cómo levantarlo
+- **Docker Engine**.
+- **Docker Compose v2**, disponible mediante el comando `docker compose`.
+- Aproximadamente **500 MB de espacio disponible** para los archivos incluidos en el repositorio.
+- Aproximadamente **6,3 GB adicionales** si se descargan todos los documentos PDF.
+- Disponibilidad de los siguientes puertos:
 
-Desde dentro de esta carpeta (`docker_app/`):
+| Puerto | Servicio |
+|---:|---|
+| `8502` | Dashboard de Eventos Adversos |
+| `8503` | Visor comparativo PDF ↔ JSON |
+| `8504` | Modelo Predictivo |
+
+Docker Desktop para Windows y macOS incluye Docker Compose. En distribuciones Linux puede ser necesario instalar el complemento correspondiente, por ejemplo:
+
+```bash
+sudo apt install docker-compose-plugin
+```
+
+---
+
+## Ejecución con Docker
+
+Desde el directorio raíz del repositorio, ejecute:
 
 ```bash
 docker compose up -d --build
 ```
 
-Esto construye ambas imágenes (solo la primera vez, o si cambias el código)
-y arranca los contenedores en segundo plano.
+El comando construye las imágenes de los tres servicios e inicia los contenedores en segundo plano.
 
-Verifica que quedaron arriba:
+Para comprobar su estado:
 
 ```bash
 docker compose ps
 ```
 
-## Acceder a las apps
+---
 
-| App | URL |
+## Acceso a las aplicaciones
+
+Una vez iniciados los contenedores, las aplicaciones estarán disponibles en las siguientes direcciones:
+
+| Aplicación | Dirección |
 |---|---|
-| Dashboard de Eventos Adversos | http://localhost:8502 |
-| Visor comparativo PDF ↔ JSON | http://localhost:8503 |
-| Modelo Predictivo — Eventos Adversos | http://localhost:8504 |
+| Dashboard de Eventos Adversos | [http://localhost:8502](http://localhost:8502) |
+| Visor comparativo PDF ↔ JSON | [http://localhost:8503](http://localhost:8503) |
+| Modelo Predictivo — Eventos Adversos | [http://localhost:8504](http://localhost:8504) |
 
-Si accedes desde otro equipo de la misma red, reemplaza `localhost` por la IP
-de la máquina que corre Docker.
+Para acceder desde otro equipo conectado a la misma red, sustituya `localhost` por la dirección IP del equipo donde se ejecuta Docker.
 
-## Detener / reiniciar
+Por ejemplo:
 
-```bash
-docker compose down        # detiene y quita los contenedores (los datos en disco no se tocan)
-docker compose up -d       # los vuelve a levantar
-docker compose logs -f     # ver logs en vivo de ambos servicios
+```text
+http://192.168.1.100:8502
 ```
 
-## Notas sobre los datos
+---
 
-- **`dashboard/data/`** ya trae los `.parquet`/`.csv` deduplicados, generados
-  a partir de los 2865 JSON corregidos (los mismos que están en
-  `pdf_review/data/json/`). No hace falta regenerarlos para usar el dashboard.
-- Si quieres **regenerar** esos datos (por ejemplo tras corregir algún JSON
-  fuente), corre dentro del contenedor:
+## Administración de los servicios
 
-  ```bash
-  docker compose exec dashboard python build_dataset.py
-  ```
-
-  Por defecto lee de `../pdf_review/data/json` (montado dentro del
-  contenedor en `/app/data/json` vía el propio `docker-compose.yml`, ya que
-  `pdf_review` también se monta completo) y escribe en `dashboard/data/`.
-  Ambas rutas son configurables con las variables de entorno
-  `SOURCE_JSON_DIR` y `OUTPUT_DIR` si necesitas apuntarlas a otro lado.
-
-- **`pdf_review`** usa las variables de entorno `JSON_DIR` y `PDF_ROOT`
-  (definidas en `docker-compose.yml`) para saber dónde buscar los JSON y los
-  PDFs; por defecto apuntan a `/app/data/json` y `/app/data/pdfs`, que dentro
-  del contenedor son justo `pdf_review/data/json` y `pdf_review/data/pdfs`
-  del host.
-- **`prediccion`** parte de `dashboard/data/eventos_raw.csv` — necesita que
-  `dashboard` ya haya generado sus datos al menos una vez. `data/` ya trae
-  `eventos_features.parquet` generado; para regenerarlo ver
-  `prediccion/README.md`.
-
-## Correr sin Docker (opcional)
-
-Si prefieres correrlas directo con Python, cada carpeta trae su
-`requirements.txt`:
+### Detener los contenedores
 
 ```bash
-cd dashboard   # o pdf_review, o prediccion
-python3 -m venv venv
-./venv/bin/pip install -r requirements.txt
-./venv/bin/streamlit run app.py
+docker compose down
 ```
 
-En `pdf_review`, exporta `JSON_DIR`/`PDF_ROOT` antes de correrlo si quieres
-que apunten a las carpetas locales en vez de a las rutas absolutas por
-defecto:
+Este comando detiene y elimina los contenedores, pero no modifica los datos almacenados en los directorios del repositorio.
+
+### Iniciar nuevamente los servicios
 
 ```bash
-JSON_DIR=./data/json PDF_ROOT=./data/pdfs ./venv/bin/streamlit run app.py
+docker compose up -d
 ```
 
-## Troubleshooting
+### Consultar los registros
 
-- **Puerto ocupado (8502/8503/8504):** edita `docker-compose.yml` y cambia
-  el primer número de `ports: "8502:8501"` por el puerto libre que prefieras.
-- **`docker compose` no reconocido:** en versiones viejas de Docker el
-  comando es `docker-compose` (con guion), sin el plugin nuevo.
+```bash
+docker compose logs -f
+```
+
+El comando muestra en tiempo real los registros generados por los servicios.
+
+---
+
+## Datos y procesamiento
+
+### Dashboard
+
+El directorio `dashboard/data/` contiene los archivos `.parquet` y `.csv` previamente procesados a partir de los **2865 archivos JSON** disponibles en `pdf_review/data/json/`.
+
+Estos archivos se incluyen preparados para su utilización, por lo que **no es necesario regenerarlos para ejecutar el dashboard**.
+
+El script responsable de construir estos conjuntos de datos es:
+
+```text
+dashboard/build_dataset.py
+```
+
+Por defecto, el script utiliza como fuente:
+
+```text
+pdf_review/data/json/
+```
+
+y escribe los archivos generados en:
+
+```text
+dashboard/data/
+```
+
+Las rutas pueden modificarse mediante las siguientes variables de entorno:
+
+- `SOURCE_JSON_DIR` — directorio que contiene los archivos JSON de origen.
+- `OUTPUT_DIR` — directorio donde se almacenarán los conjuntos de datos generados.
+
+> [!NOTE]
+> La configuración actual de `docker-compose.yml` no monta `pdf_review/data/json/` dentro del contenedor `dashboard`. Por este motivo, la regeneración mediante `docker compose exec dashboard python build_dataset.py` requiere añadir previamente el volumen correspondiente al servicio `dashboard` o ejecutar el script desde un entorno Python local con acceso a la estructura completa del repositorio.
+
+### Visor PDF ↔ JSON
+
+El servicio `pdf_review` utiliza las siguientes variables de entorno, definidas en `docker-compose.yml`:
+
+```text
+JSON_DIR=/app/data/json
+PDF_ROOT=/app/data/pdfs
+```
+
+Estas rutas corresponden respectivamente a:
+
+```text
+pdf_review/data/json/
+pdf_review/data/pdfs/
+```
+
+en el sistema anfitrión.
+
+### Modelo predictivo
+
+El servicio `prediccion` utiliza como fuente:
+
+```text
+dashboard/data/eventos_raw.csv
+```
+
+El directorio `dashboard/data/` se monta dentro del contenedor del modelo en modo de solo lectura.
+
+El repositorio ya incluye:
+
+```text
+prediccion/data/eventos_features.parquet
+```
+
+por lo que no es necesario reconstruir inicialmente el conjunto de características.
+
+Para obtener información sobre la preparación de datos y el entrenamiento de los modelos, consulte [`prediccion/README.md`](prediccion/README.md).
+
+---
+
+## Ejecución sin Docker
+
+Las aplicaciones también pueden ejecutarse directamente con Python.
+
+Cada directorio contiene su propio archivo `requirements.txt`.
+
+Por ejemplo:
+
+```bash
+cd dashboard
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+El procedimiento equivalente puede aplicarse a:
+
+```text
+dashboard/
+pdf_review/
+prediccion/
+```
+
+En Windows PowerShell, el entorno virtual puede activarse mediante:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+### `pdf_review` sin Docker
+
+Al ejecutar `pdf_review` directamente desde Python, pueden definirse explícitamente las rutas de los archivos JSON y PDF:
+
+```bash
+JSON_DIR=./data/json \
+PDF_ROOT=./data/pdfs \
+streamlit run app.py
+```
+
+---
+
+## Solución de problemas
+
+### Puerto en uso
+
+Si alguno de los puertos `8502`, `8503` o `8504` está ocupado, modifique el puerto publicado en `docker-compose.yml`.
+
+Por ejemplo:
+
+```yaml
+ports:
+  - "8602:8501"
+```
+
+En este caso, la aplicación estará disponible mediante:
+
+```text
+http://localhost:8602
+```
+
+El segundo puerto (`8501`) corresponde al puerto interno utilizado por Streamlit y, en condiciones normales, no necesita modificarse.
+
+### `docker compose` no está disponible
+
+Las versiones actuales de Docker utilizan:
+
+```bash
+docker compose
+```
+
+En instalaciones antiguas puede estar disponible únicamente el comando:
+
+```bash
+docker-compose
+```
+
+Se recomienda utilizar Docker Compose v2 cuando sea posible.
+
+### El visor no encuentra los PDF
+
+Compruebe que:
+
+1. los documentos se encuentren dentro de `pdf_review/data/pdfs/`;
+2. estén organizados en la carpeta correspondiente a su año;
+3. el nombre base del PDF coincida exactamente con el archivo JSON asociado.
+
+---
 
 ## Fuente de los datos
 
-Los reportes originales (PDFs, y los JSON/TXT/Markdown derivados en
-`pdf_review/` y `trazabilidad/`) provienen del **Servicio Nacional de Gestión
-de Riesgos y Emergencias (SNGRE)** de Ecuador. Este proyecto reprocesa y
-estructura esa información pública con fines de análisis y visualización;
-no reemplaza ni sustituye las fuentes oficiales del SNGRE.
+Los reportes originales utilizados por este proyecto provienen del **Servicio Nacional de Gestión de Riesgos y Emergencias (SNGRE) del Ecuador**.
 
-## Créditos
+Los documentos PDF y los archivos JSON, TXT y Markdown derivados de ellos se utilizan con fines de procesamiento, análisis, validación y visualización de información pública.
 
-Proyecto realizado por:
+Este proyecto constituye un procesamiento independiente de dicha información y **no reemplaza, representa ni sustituye a las fuentes oficiales del SNGRE**.
+
+---
+
+## Autores
+
+Proyecto desarrollado por:
 
 - **Enrique Rosado** — egrosado@espol.edu.ec
 - **Valeria Gutiérrez** — vaniguti@espol.edu.ec
@@ -208,4 +430,5 @@ Proyecto realizado por:
 - **Tomás Bolaños** — tbolanos@espol.edu.ec
 - **Steven Barzola** — starbarz@espol.edu.ec
 
-Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.
+**Escuela Superior Politécnica del Litoral (ESPOL)**  
+Guayaquil, Ecuador
