@@ -1,13 +1,20 @@
 # docker_app — Monitoreo SNGR (Ecuador)
 
-Carpeta con tres aplicaciones Streamlit dockerizadas, más una carpeta de
-trazabilidad documental. Las apps (`dashboard/`, `pdf_review/`,
-`prediccion/`) no dependen de rutas absolutas de ninguna máquina: puedes
-copiar/mover/compartir esta carpeta completa (por USB, red, etc.) y
-funcionan igual en cualquier equipo con Docker instalado. La única excepción
-es `trazabilidad/README.md`, que cita rutas absolutas de la máquina de
-origen a propósito (ver esa carpeta) — son solo referencia documental, no
-afectan a `docker compose up`.
+Este repositorio reprocesa los reportes de eventos adversos del **Servicio
+Nacional de Gestión de Riesgos y Emergencias (SNGRE)** de Ecuador (2022–2026)
+en tres aplicaciones Streamlit dockerizadas: un dashboard de exploración de
+eventos adversos (`dashboard/`), un visor comparativo entre los PDFs
+originales y los JSON extraídos de ellos (`pdf_review/`), y un modelo
+predictivo de tipo de evento por mes/provincia/zona (`prediccion/`). Se suma
+`trazabilidad/`, que documenta el pipeline con el que se generaron esos JSON
+a partir de los PDFs (Web → PDF → TXT → JSON).
+
+Las tres apps funcionan con rutas relativas al propio contenedor, así que la
+carpeta completa se puede copiar, mover o compartir (USB, red, otro equipo)
+sin editar nada, siempre que el destino tenga Docker instalado. La única
+excepción es `trazabilidad/README.md`, que cita a propósito rutas absolutas
+de la máquina de origen como referencia documental del pipeline; no afectan
+en nada a `docker compose up`.
 
 > **⚠️ Este repo NO incluye los PDFs originales** (pesan ~6,3 GB, no caben
 > en GitHub). Se descargan aparte desde Google Drive — ver la sección
@@ -61,7 +68,7 @@ deben ir. Están subidos a Google Drive:
 
 🔗 **https://drive.google.com/drive/folders/11IKLl6i6clk2uvVzKr3WMJwiSbQyzdUV?usp=sharing**
 
-**Pasos para dejar `pdf_review` funcional:**
+**Configuración necesaria para habilitar `pdf_review`:**
 
 1. Descarga las 5 carpetas del Drive (`reportes_2022_pdf` … `reportes_2026_pdf`).
 2. Colócalas dentro de `pdf_review/data/pdfs/`, respetando el nombre exacto
