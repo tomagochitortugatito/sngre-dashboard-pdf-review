@@ -1,12 +1,13 @@
 # docker_app — Monitoreo SNGR (Ecuador)
 
-Carpeta con dos aplicaciones Streamlit dockerizadas, más una carpeta de
-trazabilidad documental. Las apps (`dashboard/`, `pdf_review/`) no dependen
-de rutas absolutas de ninguna máquina: puedes copiar/mover/compartir esta
-carpeta completa (por USB, red, etc.) y funcionan igual en cualquier equipo
-con Docker instalado. La única excepción es `trazabilidad/README.md`, que
-cita rutas absolutas de la máquina de origen a propósito (ver esa carpeta) —
-son solo referencia documental, no afectan a `docker compose up`.
+Carpeta con tres aplicaciones Streamlit dockerizadas, más una carpeta de
+trazabilidad documental. Las apps (`dashboard/`, `pdf_review/`,
+`prediccion/`) no dependen de rutas absolutas de ninguna máquina: puedes
+copiar/mover/compartir esta carpeta completa (por USB, red, etc.) y
+funcionan igual en cualquier equipo con Docker instalado. La única excepción
+es `trazabilidad/README.md`, que cita rutas absolutas de la máquina de
+origen a propósito (ver esa carpeta) — son solo referencia documental, no
+afectan a `docker compose up`.
 
 > **⚠️ Este repo NO incluye los PDFs originales** (pesan ~6,3 GB, no caben
 > en GitHub). Se descargan aparte desde Google Drive — ver la sección
@@ -17,13 +18,21 @@ son solo referencia documental, no afectan a `docker compose up`.
 
 ```
 docker_app/
-├── docker-compose.yml          ← levanta las dos apps de una vez
+├── docker-compose.yml          ← levanta las tres apps de una vez
 ├── dashboard/                  ← "Dashboard de Eventos Adversos" (Streamlit + Plotly)
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   ├── app.py
 │   ├── build_dataset.py        ← script que regenera los datos desde los JSON fuente
 │   └── data/                   ← .parquet/.csv ya generados (listos para usar)
+├── prediccion/                 ← "Modelo Predictivo — Eventos Adversos" (Streamlit + scikit-learn)
+│   ├── Dockerfile
+│   ├── requirements.txt
+│   ├── app.py
+│   ├── build_dataset.py        ← pipeline de features (dedup difusa + extracción de impactos)
+│   ├── model.py                ← entrenamiento de los modelos
+│   ├── README.md                ← detalle de esta app
+│   └── data/                   ← eventos_features.parquet ya generado
 ├── pdf_review/                 ← "Visor comparativo PDF ↔ JSON"
 │   ├── Dockerfile
 │   ├── requirements.txt
@@ -81,7 +90,7 @@ deben ir. Están subidos a Google Drive:
   ya lo trae; en Linux: `sudo apt install docker-compose-plugin` o similar).
 - ~500 MB libres de disco para este repo + ~6,3 GB adicionales si descargas
   todos los PDFs del Drive (ver sección anterior).
-- Puertos **8502** y **8503** libres en el equipo donde se ejecute.
+- Puertos **8502**, **8503** y **8504** libres en el equipo donde se ejecute.
 
 ## Cómo levantarlo
 
@@ -106,6 +115,7 @@ docker compose ps
 |---|---|
 | Dashboard de Eventos Adversos | http://localhost:8502 |
 | Visor comparativo PDF ↔ JSON | http://localhost:8503 |
+| Modelo Predictivo — Eventos Adversos | http://localhost:8504 |
 
 Si accedes desde otro equipo de la misma red, reemplaza `localhost` por la IP
 de la máquina que corre Docker.
@@ -141,6 +151,10 @@ docker compose logs -f     # ver logs en vivo de ambos servicios
   PDFs; por defecto apuntan a `/app/data/json` y `/app/data/pdfs`, que dentro
   del contenedor son justo `pdf_review/data/json` y `pdf_review/data/pdfs`
   del host.
+- **`prediccion`** parte de `dashboard/data/eventos_raw.csv` — necesita que
+  `dashboard` ya haya generado sus datos al menos una vez. `data/` ya trae
+  `eventos_features.parquet` generado; para regenerarlo ver
+  `prediccion/README.md`.
 
 ## Correr sin Docker (opcional)
 
@@ -148,7 +162,7 @@ Si prefieres correrlas directo con Python, cada carpeta trae su
 `requirements.txt`:
 
 ```bash
-cd dashboard   # o pdf_review
+cd dashboard   # o pdf_review, o prediccion
 python3 -m venv venv
 ./venv/bin/pip install -r requirements.txt
 ./venv/bin/streamlit run app.py
@@ -164,8 +178,8 @@ JSON_DIR=./data/json PDF_ROOT=./data/pdfs ./venv/bin/streamlit run app.py
 
 ## Troubleshooting
 
-- **Puerto ocupado (8502/8503):** edita `docker-compose.yml` y cambia el
-  primer número de `ports: "8502:8501"` por el puerto libre que prefieras.
+- **Puerto ocupado (8502/8503/8504):** edita `docker-compose.yml` y cambia
+  el primer número de `ports: "8502:8501"` por el puerto libre que prefieras.
 - **`docker compose` no reconocido:** en versiones viejas de Docker el
   comando es `docker-compose` (con guion), sin el plugin nuevo.
 

@@ -142,6 +142,21 @@ def clean_volcano(raw):
     return None
 
 
+# "national"/"nacional" son la misma zona escrita distinto en el texto
+# fuente — se unifican en una sola categoría. Zona vacía/en blanco -> None
+# (se descarta más abajo junto con el resto de filas sin zona reconocible).
+ZONE_FIXES = {"national": "Nacional", "nacional": "Nacional"}
+
+
+def clean_zone(raw):
+    if not raw or not isinstance(raw, str):
+        return None
+    z = raw.strip()
+    if not z:
+        return None
+    return ZONE_FIXES.get(z.lower(), z)
+
+
 def sanitize_location(raw):
     """Normaliza location.original_narrative para poder compararlo por
     igualdad exacta entre boletines, SIN separarlo en columnas (provincia/
@@ -638,7 +653,7 @@ def main():
                     "source_file": Path(fp).name,
                     "report_name": report_name,
                     "report_last_update": last_update,
-                    "zone": zone_key,
+                    "zone": clean_zone(zone_key),
                     "event_type": event_type,
                     "province": province,
                     "canton": canton,

@@ -12,6 +12,22 @@ services:
       - ./dashboard:/app
     restart: unless-stopped
 
+  prediccion:
+    build:
+      context: ./prediccion
+    container_name: adverse-events-prediction
+    ports:
+      - "8504:8501"
+    volumes:
+      # Código + data/ (parquet del modelo, ya generados) + lee además
+      # dashboard/data/eventos_raw.csv (montado aparte, solo lectura) como
+      # fuente para build_dataset.py.
+      - ./prediccion:/app
+      - ./dashboard/data:/app/dashboard_data:ro
+    environment:
+      - EVENTOS_RAW_CSV=/app/dashboard_data/eventos_raw.csv
+    restart: unless-stopped
+
   pdf-review:
     build:
       context: ./pdf_review
